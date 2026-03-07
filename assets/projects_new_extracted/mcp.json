@@ -1,0 +1,22 @@
+{
+  "mcpServers": [
+    {
+      "name": "legado-book-source-tamer",
+      "description": "Legado书源驯兽师 - 智能书源开发助手",
+      "command": "python",
+      "args": [
+        "-m",
+        "uvicorn",
+        "src.main:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "5000"
+      ],
+      "env": {
+        "PYTHONPATH": "."
+      },
+      "disabled": false
+    }
+  ]
+}

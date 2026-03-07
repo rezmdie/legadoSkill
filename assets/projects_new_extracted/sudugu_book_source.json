@@ -1,0 +1,68 @@
+[
+  {
+    "bookSourceComment": "速读谷 - 免费小说阅读网站",
+    "bookSourceGroup": "小说",
+    "bookSourceName": "速读谷",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.sudugu.org",
+    "bookUrlPattern": "",
+    "concurrentRate": "3",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "玄幻小说::/xuanhuan/\n仙侠小说::/xianxia/\n都市小说::/dushi/\n历史小说::/lishi/\n军事小说::/junshi/\n科幻小说::/kehuan/\n言情小说::/yanqing/\n排行榜::/paihang/\n完结小说::/wanjie/\n最新更新::/zuixin/",
+    "header": "{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\"}",
+    "lastUpdateTime": 1739913600000,
+    "loginUrl": "",
+    "respondTime": 180000,
+    "ruleBookInfo": {
+      "author": "class.itemtxt@tag.p.1@tag.a@text##作者：",
+      "coverUrl": "class.item@tag.img@src",
+      "intro": "class.des@text",
+      "kind": "class.itemtxt@tag.p.0@tag.span.1@text",
+      "lastChapter": "class.itemtxt@tag.ul@tag.li.0@tag.a@text",
+      "name": "class.itemtxt@tag.h1@tag.a@text",
+      "tocUrl": "",
+      "wordCount": "class.itemtxt@tag.h1@tag.i@text"
+    },
+    "ruleContent": {
+      "content": "class.con@html##<div.*?>|</div>",
+      "nextContentUrl": "@xpath://div[@class='prenext']//a[contains(text(),'下一页')]/@href",
+      "replaceRegex": "",
+      "sourceRegex": ""
+    },
+    "ruleExplore": {
+      "author": "tag.p.1@tag.a@text##作者：",
+      "bookList": "class.item",
+      "bookUrl": "tag.h3@tag.a@href||tag.h1@tag.a@href",
+      "coverUrl": "tag.img@src",
+      "intro": "",
+      "kind": "tag.p.0@tag.span.1@text",
+      "lastChapter": "tag.ul@tag.li.0@tag.a@text",
+      "name": "tag.h3@tag.a@text||tag.h1@tag.a@text",
+      "wordCount": ""
+    },
+    "ruleSearch": {
+      "author": "tag.p.1@tag.a@text##作者：",
+      "bookList": "class.item",
+      "bookUrl": "tag.h3@tag.a@href",
+      "coverUrl": "tag.img@src",
+      "intro": "",
+      "kind": "tag.p.0@tag.span.1@text",
+      "lastChapter": "tag.ul@tag.li.0@tag.a@text",
+      "name": "tag.h3@tag.a@text",
+      "wordCount": ""
+    },
+    "ruleToc": {
+      "chapterList": "id.list@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href",
+      "isVolume": "",
+      "nextTocUrl": "",
+      "updateTime": ""
+    },
+    "searchUrl": "/i/sor.aspx?key={{key}}",
+    "weight": 0
+  }
+]

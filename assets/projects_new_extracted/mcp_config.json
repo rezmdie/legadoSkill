@@ -1,0 +1,545 @@
+{
+  "mcpServers": [
+    {
+      "name": "legado-book-source-tamer",
+      "description": "Legado书源驯兽师 - 智能书源开发助手，支持自动化分析网站结构并生成Legado书源JSON",
+      "command": "python",
+      "args": [
+        "-m",
+        "uvicorn",
+        "src.main:app",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "5000"
+      ],
+      "env": {
+        "PYTHONPATH": ".",
+        "COZE_WORKSPACE_PATH": "."
+      },
+      "disabled": false
+    }
+  ],
+  "tools": [
+    {
+      "name": "smart_fetch_html",
+      "description": "智能获取网页HTML，支持GET/POST等各种请求方法。功能特点：支持所有HTTP方法、支持自定义headers、支持Cookies、支持请求体、自动重试机制、超时控制。",
+      "category": "网页获取",
+      "parameters": {
+        "url": {
+          "type": "string",
+          "description": "请求URL（必填）"
+        },
+        "method": {
+          "type": "string",
+          "description": "HTTP方法（默认GET，可选：POST, PUT, DELETE等）"
+        },
+        "params": {
+          "type": "string",
+          "description": "URL参数（JSON字符串格式，可选）"
+        },
+        "data": {
+          "type": "string",
+          "description": "请求体（表单数据，JSON字符串格式，可选）"
+        },
+        "headers": {
+          "type": "string",
+          "description": "自定义headers（JSON字符串格式，可选）"
+        },
+        "cookies": {
+          "type": "string",
+          "description": "Cookies（JSON字符串格式，可选）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "请求结果报告，包含请求信息、HTML内容、验证结果等"
+      }
+    },
+    {
+      "name": "get_full_html",
+      "description": "获取网页完整HTML源代码，不进行任何截断。确保获取真实的、完整的HTML源代码用于分析。",
+      "category": "网页获取",
+      "parameters": {
+        "url": {
+          "type": "string",
+          "description": "请求URL"
+        },
+        "method": {
+          "type": "string",
+          "description": "HTTP方法（默认GET）"
+        },
+        "params": {
+          "type": "string",
+          "description": "URL参数（JSON字符串格式）"
+        },
+        "data": {
+          "type": "string",
+          "description": "请求体（JSON字符串格式）"
+        },
+        "headers": {
+          "type": "string",
+          "description": "自定义headers（JSON字符串格式）"
+        },
+        "cookies": {
+          "type": "string",
+          "description": "Cookies（JSON字符串格式）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "完整HTML源代码"
+      }
+    },
+    {
+      "name": "test_request_method",
+      "description": "测试网站支持哪些HTTP方法，找到正确的请求方式。测试GET、POST、PUT、DELETE、HEAD、OPTIONS等方法。",
+      "category": "网页获取",
+      "parameters": {
+        "url": {
+          "type": "string",
+          "description": "请求URL"
+        },
+        "method": {
+          "type": "string",
+          "description": "要测试的方法（默认GET）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "测试结果，显示每种方法的测试结果"
+      }
+    },
+    {
+      "name": "search_knowledge",
+      "description": "搜索知识库，查询CSS选择器、书源规则、POST请求配置等知识。⚠️ 重要提醒：搜索结果仅供参考，不能直接照搬知识库中的选择器，所有选择器必须在真实HTML上验证。",
+      "category": "知识库",
+      "parameters": {
+        "query": {
+          "type": "string",
+          "description": "搜索关键词"
+        },
+        "category": {
+          "type": "string",
+          "description": "知识类别（可选）"
+        },
+        "limit": {
+          "type": "integer",
+          "description": "返回结果数量（默认5）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "知识条目列表，包含标题、内容、示例等（仅供参考）"
+      }
+    },
+    {
+      "name": "get_book_source_examples",
+      "description": "获取书源示例，查看实际书源中的规则示例。从知识库中查找书源示例，显示特定元素类型的规则，提供多个实际书源的参考。",
+      "category": "知识库",
+      "parameters": {
+        "element_type": {
+          "type": "string",
+          "description": "元素类型（bookinfo、toc、content、search等）"
+        },
+        "limit": {
+          "type": "integer",
+          "description": "返回示例数量（默认3）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "书源示例列表"
+      }
+    },
+    {
+      "name": "check_knowledge_status",
+      "description": "检查知识库学习状态，查看学习进度和状态。显示知识库学习状态、统计已学习的知识数量、显示应用统计。",
+      "category": "知识库",
+      "parameters": {},
+      "returns": {
+        "type": "string",
+        "description": "知识状态报告"
+      }
+    },
+    {
+      "name": "learn_knowledge_base",
+      "description": "学习知识库，让AI真正学会书源开发知识。读取assets目录下的所有知识文件，解析并学习书源规则、CSS选择器、技术文档，构建知识关联和索引。⚠️ 重要提醒：知识库内容仅作参考，不能直接照搬知识库中的选择器，所有选择器必须在真实HTML上验证。",
+      "category": "知识库",
+      "parameters": {
+        "force": {
+          "type": "boolean",
+          "description": "是否强制重新学习（默认False）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "学习统计和状态报告"
+      }
+    },
+    {
+      "name": "smart_web_analyzer",
+      "description": "智能分析网站整体结构。自动分析网站的HTML结构，识别关键元素（书名、作者、封面、目录、正文等），提供结构分析报告。",
+      "category": "智能分析",
+      "parameters": {
+        "html": {
+          "type": "string",
+          "description": "HTML内容"
+        },
+        "page_type": {
+          "type": "string",
+          "description": "页面类型（search、list、detail、toc、content等）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "结构分析报告"
+      }
+    },
+    {
+      "name": "smart_bookinfo_analyzer",
+      "description": "智能分析书籍详情页结构。分析书籍详情页的HTML结构，提取书名、作者、封面、简介、分类、最新章节等信息。",
+      "category": "智能分析",
+      "parameters": {
+        "html": {
+          "type": "string",
+          "description": "书籍详情页HTML"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "详情页分析报告"
+      }
+    },
+    {
+      "name": "smart_toc_analyzer",
+      "description": "智能分析目录页结构。分析目录页的HTML结构，提取章节列表、章节名称、章节URL等信息。",
+      "category": "智能分析",
+      "parameters": {
+        "html": {
+          "type": "string",
+          "description": "目录页HTML"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "目录页分析报告"
+      }
+    },
+    {
+      "name": "smart_content_analyzer",
+      "description": "智能分析正文页结构。分析正文页的HTML结构，提取正文内容、下一章链接等信息。",
+      "category": "智能分析",
+      "parameters": {
+        "html": {
+          "type": "string",
+          "description": "正文页HTML"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "正文页分析报告"
+      }
+    },
+    {
+      "name": "smart_full_analyzer",
+      "description": "综合分析器，完整分析网站所有页面。一次性分析搜索、列表、详情、目录、正文等所有页面结构。",
+      "category": "智能分析",
+      "parameters": {
+        "html": {
+          "type": "string",
+          "description": "HTML内容"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "完整分析报告"
+      }
+    },
+    {
+      "name": "edit_book_source",
+      "description": "编辑书源，生成完整的书源JSON。使用complete_source参数一次性创建完整书源，包含搜索、列表、详情、目录、正文等所有规则。",
+      "category": "书源编辑",
+      "parameters": {
+        "complete_source": {
+          "type": "string",
+          "description": "完整书源JSON字符串（JSON数组格式）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "编辑结果"
+      }
+    },
+    {
+      "name": "validate_book_source",
+      "description": "验证书源规则是否符合Legado规范。检查书源JSON的格式、字段完整性、规则语法等是否符合Legado官方规范。",
+      "category": "书源编辑",
+      "parameters": {
+        "book_source_json": {
+          "type": "string",
+          "description": "书源JSON字符串"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "验证结果"
+      }
+    },
+    {
+      "name": "export_book_source",
+      "description": "导出书源到文件。将书源JSON保存到文件，支持多种格式。",
+      "category": "书源编辑",
+      "parameters": {
+        "book_source_json": {
+          "type": "string",
+          "description": "书源JSON字符串"
+        },
+        "filename": {
+          "type": "string",
+          "description": "文件名（可选）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "导出结果"
+      }
+    },
+    {
+      "name": "debug_book_source",
+      "description": "调试书源，诊断问题并提供修复方案。测试搜索规则、书籍信息规则、目录规则、正文规则，生成调试报告。",
+      "category": "调试",
+      "parameters": {
+        "book_source_json": {
+          "type": "string",
+          "description": "书源JSON字符串"
+        },
+        "keyword": {
+          "type": "string",
+          "description": "搜索关键词（测试搜索规则）"
+        },
+        "test_type": {
+          "type": "string",
+          "description": "测试类型（search/book_info/toc/content/full）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "调试结果"
+      }
+    },
+    {
+      "name": "legado_debug_book_source",
+      "description": "使用Legado调试器调试书源。基于Legado官方源码的规则解析器，支持Default、XPath、JsonPath、正则等多种规则类型。",
+      "category": "调试",
+      "parameters": {
+        "book_source_json": {
+          "type": "string",
+          "description": "书源JSON字符串"
+        },
+        "keyword": {
+          "type": "string",
+          "description": "搜索关键词"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "调试结果"
+      }
+    },
+    {
+      "name": "element_picker_guide",
+      "description": "元素选择器指南，辅助选择HTML元素。提供元素选择工具参考，浏览器开发者工具使用指南。",
+      "category": "可视化",
+      "parameters": {},
+      "returns": {
+        "type": "string",
+        "description": "元素选择器指南"
+      }
+    },
+    {
+      "name": "browser_debug_helper",
+      "description": "浏览器调试助手，提供调试支持。提供移动端调试工具、元素审查工具等。",
+      "category": "可视化",
+      "parameters": {},
+      "returns": {
+        "type": "string",
+        "description": "调试助手信息"
+      }
+    },
+    {
+      "name": "user_intervention",
+      "description": "人工干预模式，支持用户手动修正。当AI无法处理时，可以使用此工具进行人工干预。",
+      "category": "用户干预",
+      "parameters": {
+        "action": {
+          "type": "string",
+          "description": "干预动作（correct_selector/manual_define_rule/inject_custom_js/provide_html_sample/save_experience/record_solution）"
+        },
+        "data": {
+          "type": "string",
+          "description": "干预数据"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "干预结果"
+      }
+    },
+    {
+      "name": "collaborative_edit",
+      "description": "协同编辑，支持多人协作编辑书源。支持验证修正、测试手动规则、分析用户HTML、调试手动干预等。",
+      "category": "用户干预",
+      "parameters": {
+        "action": {
+          "type": "string",
+          "description": "编辑动作（validate_correction/test_manual_rule/analyze_user_html/debug_manual_intervention）"
+        },
+        "data": {
+          "type": "string",
+          "description": "编辑数据"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "编辑结果"
+      }
+    },
+    {
+      "name": "selector_validator",
+      "description": "验证选择器在真实网页上的有效性。在真实网页上测试选择器，提取数据并验证结果。",
+      "category": "验证",
+      "parameters": {
+        "selector": {
+          "type": "string",
+          "description": "CSS选择器"
+        },
+        "url": {
+          "type": "string",
+          "description": "网页URL"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "验证结果"
+      }
+    },
+    {
+      "name": "validate_selector_on_real_web",
+      "description": "在真实网页上验证选择器并提取数据。访问真实网页，应用选择器，提取数据并返回结果。",
+      "category": "验证",
+      "parameters": {
+        "selector": {
+          "type": "string",
+          "description": "CSS选择器"
+        },
+        "url": {
+          "type": "string",
+          "description": "网页URL"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "提取结果"
+      }
+    },
+    {
+      "name": "audit_knowledge_base",
+      "description": "审查知识库内容是否适用于真实HTML。检查知识库中的选择器是否能在真实HTML上正常工作。",
+      "category": "知识库",
+      "parameters": {
+        "html": {
+          "type": "string",
+          "description": "真实HTML内容"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "审查结果"
+      }
+    },
+    {
+      "name": "get_css_selector_rules",
+      "description": "获取CSS选择器规则文档。获取完整的CSS选择器语法手册，包括提取类型详解、正则表达式格式说明、示例代码等。",
+      "category": "知识库",
+      "parameters": {
+        "page": {
+          "type": "integer",
+          "description": "页码（默认1）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "CSS选择器规则文档"
+      }
+    },
+    {
+      "name": "get_real_book_source_examples",
+      "description": "获取真实书源示例。从134个真实书源分析结果中获取示例，按网站类型分类（小说、漫画、论坛等）。",
+      "category": "知识库",
+      "parameters": {
+        "limit": {
+          "type": "integer",
+          "description": "返回示例数量（默认5）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "真实书源示例列表"
+      }
+    },
+    {
+      "name": "get_book_source_templates",
+      "description": "获取书源模板。获取可直接使用的书源模板，包括标准小说站模板、笔趣阁类模板、聚合源模板等。",
+      "category": "知识库",
+      "parameters": {
+        "limit": {
+          "type": "integer",
+          "description": "返回模板数量（默认3）"
+        }
+      },
+      "returns": {
+        "type": "string",
+        "description": "书源模板列表"
+      }
+    }
+  ],
+  "capabilities": {
+    "streaming": true,
+    "parallel": false,
+    "max_concurrent": 1
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "name": "Legado书源驯兽师",
+    "author": "Kilo Code",
+    "description": "Legado书源驯兽师 - 智能书源开发助手，支持自动化分析网站结构并生成Legado书源JSON。基于LangChain和LangGraph，拥有24.93MB知识库，167个文档，134个真实书源分析结果。",
+    "homepage": "https://github.com/yourusername/legado-book-source-tamer",
+    "documentation": "https://github.com/yourusername/legado-book-source-tamer/blob/main/README.md",
+    "license": "MIT",
+    "tags": [
+      "legado",
+      "book-source",
+      "web-scraping",
+      "html-analysis",
+      "css-selector",
+      "langchain",
+      "langgraph",
+      "ai-assistant",
+      "book-source-development"
+    ],
+    "supportedPlatforms": [
+      "legado-android"
+    ],
+    "language": "zh-CN",
+    "features": [
+      "智能HTML分析",
+      "自动书源生成",
+      "知识库支持",
+      "规则验证",
+      "调试支持",
+      "人工干预",
+      "协同编辑"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8080,
+    "max_connections": 100,
+    "request_timeout": 60.0,
+    "enable_cors": true,
+    "cors_origins": ["*"]
+  },
+  "logging": {
+    "level": "INFO",
+    "log_dir": "logs",
+    "console_output": true,
+    "file_output": true,
+    "json_format": false,
+    "max_bytes": 10485760,
+    "backup_count": 5
+  },
+  "tools": [
+    {
+      "name": "python.execute",
+      "enabled": true,
+      "adapter": "python",
+      "config": {
+        "tool_path": "tools/python_execute.py"
+      },
+      "timeout": 30.0,
+      "retry_count": 3
+    }
+  ],
+  "adapters": [
+    {
+      "name": "python",
+      "type": "python",
+      "enabled": true,
+      "config": {
+        "base_path": "assets/projects_new_extracted/src",
+        "auto_discover": true,
+        "tools": []
+      },
+      "max_concurrent": 10
+    },
+    {
+      "name": "google",
+      "type": "google",
+      "enabled": false,
+      "config": {
+        "api_key": "YOUR_GOOGLE_API_KEY",
+        "base_url": "https://www.googleapis.com",
+        "timeout": 30.0,
+        "max_retries": 3,
+        "rate_limit": 100,
+        "services": ["search", "translate", "maps", "youtube"]
+      },
+      "max_concurrent": 5
+    }
+  ],
+  "system_prompt_path": "config/system/prompt.md",
+  "custom_settings": {
+    "enable_metrics": true,
+    "enable_health_check": true,
+    "tool_cache_ttl": 3600
+  }
+}

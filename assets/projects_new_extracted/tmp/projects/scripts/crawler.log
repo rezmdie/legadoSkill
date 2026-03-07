@@ -1,0 +1,1646 @@
+2026-02-18 10:19:53,776 - INFO - ==================================================
+2026-02-18 10:19:53,777 - INFO - Legado订阅源爬虫启动
+2026-02-18 10:19:53,777 - INFO - ==================================================
+2026-02-18 10:19:53,777 - INFO - 确保目录存在: assets/book_source_database
+2026-02-18 10:19:53,778 - INFO - 确保目录存在: assets/book_source_reference
+2026-02-18 10:19:53,778 - INFO - 确保目录存在: assets/book_source_database/book_sources
+2026-02-18 10:19:53,779 - INFO - 确保目录存在: assets/book_source_database/book_source_collections
+2026-02-18 10:19:53,779 - INFO - 确保目录存在: assets/book_source_database/rss_sources
+2026-02-18 10:19:53,779 - INFO - 确保目录存在: assets/book_source_database/rss_source_collections
+2026-02-18 10:19:53,779 - INFO - 确保目录存在: assets/book_source_reference/book_count_refs
+2026-02-18 10:19:53,780 - INFO - 确保目录存在: assets/book_source_reference/other_refs
+2026-02-18 10:19:53,780 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:19:53,780 - INFO - 参考学习模块已启用
+2026-02-18 10:19:53,780 - INFO - 只爬取分类: 书源
+2026-02-18 10:19:53,781 - INFO - 开始爬取分类: 书源
+2026-02-18 10:19:54,269 - INFO - 找到 124 个链接
+2026-02-18 10:19:54,270 - INFO - 解析书源: 📖Lofter 📖Lofter - https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json (ID: 6873)
+2026-02-18 10:19:54,270 - INFO - 解析书源: 🏷晋江文学 https://m.jjwxc.net/channel/ - https://www.yck2026.top/yuedu/shuyuan/json/id/1751.json (ID: 1751)
+2026-02-18 10:19:54,270 - INFO - 解析书源: 📖笔趣阁手机版 http://www.biqugem.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6965.json (ID: 6965)
+2026-02-18 10:19:54,271 - INFO - 解析书源: 🔞乐成漫画 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6949.json (ID: 6949)
+2026-02-18 10:19:54,271 - INFO - 解析书源: 乐乐 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6948.json (ID: 6948)
+2026-02-18 10:19:54,271 - INFO - 解析书源: VirtualTaboo直播 https://zh.virtualtaboo.live - https://www.yck2026.top/yuedu/shuyuan/json/id/6947.json (ID: 6947)
+2026-02-18 10:19:54,272 - INFO - 解析书源: 📪第一版主 https://www.bz33333333.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6946.json (ID: 6946)
+2026-02-18 10:19:54,272 - INFO - 解析书源: 同人小说网 https://www.tongrenxsw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6077.json (ID: 6077)
+2026-02-18 10:19:54,272 - INFO - 解析书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6905.json (ID: 6905)
+2026-02-18 10:19:54,272 - INFO - 解析书源: 📪第一版主820 https://www.bz88888.net////## - https://www.yck2026.top/yuedu/shuyuan/json/id/6943.json (ID: 6943)
+2026-02-18 10:19:54,273 - INFO - 解析书源: 万能精品聚合 万能精品聚合 - https://www.yck2026.top/yuedu/shuyuan/json/id/6942.json (ID: 6942)
+2026-02-18 10:19:54,273 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6941.json (ID: 6941)
+2026-02-18 10:19:54,273 - INFO - 解析书源: 📪第一版主820 https://www.bz444444.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6940.json (ID: 6940)
+2026-02-18 10:19:54,274 - INFO - 解析书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 - https://www.yck2026.top/yuedu/shuyuan/json/id/6937.json (ID: 6937)
+2026-02-18 10:19:54,274 - INFO - 解析书源: 得奇小说网 https://www.deqixs.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6936.json (ID: 6936)
+2026-02-18 10:19:54,274 - INFO - 解析书源: 🔞完本小说网 https://www.finalbooks.work - https://www.yck2026.top/yuedu/shuyuan/json/id/6332.json (ID: 6332)
+2026-02-18 10:19:54,274 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6935.json (ID: 6935)
+2026-02-18 10:19:54,275 - INFO - 解析书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6746.json (ID: 6746)
+2026-02-18 10:19:54,275 - INFO - 解析书源: 哔哩哔哩 哔哩哔哩 - https://www.yck2026.top/yuedu/shuyuan/json/id/6807.json (ID: 6807)
+2026-02-18 10:19:54,275 - INFO - 解析书源: 东方小说网 https://m.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6934.json (ID: 6934)
+2026-02-18 10:19:54,275 - INFO - 解析书源: 漫小肆20251217 https://www.jjmh.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6933.json (ID: 6933)
+2026-02-18 10:19:54,276 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6932.json (ID: 6932)
+2026-02-18 10:19:54,276 - INFO - 解析书源: 梦想家文学 http://www.mxjtedu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6931.json (ID: 6931)
+2026-02-18 10:19:54,276 - INFO - 解析书源: 东方小说网 https://www.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6930.json (ID: 6930)
+2026-02-18 10:19:54,277 - INFO - 解析书源: 爱奇小说网 https://m.aqxsw.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6929.json (ID: 6929)
+2026-02-18 10:19:54,277 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6928.json (ID: 6928)
+2026-02-18 10:19:54,277 - INFO - 解析书源: 书豪小说网 https://www.shuhaoxs.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6927.json (ID: 6927)
+2026-02-18 10:19:54,277 - INFO - 解析书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6841.json (ID: 6841)
+2026-02-18 10:19:54,278 - INFO - 解析书源: 久久漫画 https://www.jjmhw.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6923.json (ID: 6923)
+2026-02-18 10:19:54,278 - INFO - 解析书源: 📚书山聚合 https://search.shusan.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6921.json (ID: 6921)
+2026-02-18 10:19:54,278 - INFO - 解析书源: 📖笔趣网 http://www.bqgu.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6918.json (ID: 6918)
+2026-02-18 10:19:54,278 - INFO - 解析书源: 龙头小说 http://m.ltxs.la/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6917.json (ID: 6917)
+2026-02-18 10:19:54,279 - INFO - 解析书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 - https://www.yck2026.top/yuedu/shuyuan/json/id/6907.json (ID: 6907)
+2026-02-18 10:19:54,279 - INFO - 解析书源: 速读谷伪 http://www.sudugu.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6906.json (ID: 6906)
+2026-02-18 10:19:54,279 - INFO - 解析书源: 🍅 番茄的缘 https://reading.snssdk.com#0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6904.json (ID: 6904)
+2026-02-18 10:19:54,279 - INFO - 解析书源: 闲看免费小说 http://nav.jijia-co.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6900.json (ID: 6900)
+2026-02-18 10:19:54,280 - INFO - 解析书源: 篱笆好文（优+++） https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6897.json (ID: 6897)
+2026-02-18 10:19:54,280 - INFO - 解析书源: 元小说 https://metanetnovel.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6896.json (ID: 6896)
+2026-02-18 10:19:54,280 - INFO - 解析书源: 篱笆好 https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6895.json (ID: 6895)
+2026-02-18 10:19:54,281 - INFO - 解析书源: 🍅番茄专业户 番茄和精品 - https://www.yck2026.top/yuedu/shuyuan/json/id/6892.json (ID: 6892)
+2026-02-18 10:19:54,281 - INFO - 解析书源: 📚豆瓣阅读 https://read.douban.com - https://www.yck2026.top/yuedu/shuyuan/json/id/4925.json (ID: 4925)
+2026-02-18 10:19:54,281 - INFO - 解析书源: 📥 奇书网 https://www.qishu99.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6891.json (ID: 6891)
+2026-02-18 10:19:54,281 - INFO - 解析书源: 苦读书 http://www.kudushu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6890.json (ID: 6890)
+2026-02-18 10:19:54,282 - INFO - 解析书源: 🎉 八零小说 http://www.80zw.la - https://www.yck2026.top/yuedu/shuyuan/json/id/6887.json (ID: 6887)
+2026-02-18 10:19:54,282 - INFO - 解析书源: 📥 爱去小说 https://www.aiqu999.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6886.json (ID: 6886)
+2026-02-18 10:19:54,282 - INFO - 解析书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6885.json (ID: 6885)
+2026-02-18 10:19:54,282 - INFO - 解析书源: 🍅团夕小说 https://novel.snssdk.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6884.json (ID: 6884)
+2026-02-18 10:19:54,283 - INFO - 解析书源: 🎨 177漫画🔥 http://www.177pic.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6883.json (ID: 6883)
+2026-02-18 10:19:54,283 - INFO - 解析书源: 八叉书库 https://bcshuku.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6882.json (ID: 6882)
+2026-02-18 10:19:54,283 - INFO - 解析书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6881.json (ID: 6881)
+2026-02-18 10:19:54,283 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6880.json (ID: 6880)
+2026-02-18 10:19:54,284 - INFO - 解析书源: 18r（免梯子） https://jiek.qiubai.icu/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6876.json (ID: 6876)
+2026-02-18 10:19:54,284 - INFO - 解析书源: 顶点小说ddxsmf https://www.ddxsmf.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6875.json (ID: 6875)
+2026-02-18 10:19:54,284 - INFO - 解析书源: 无插件 - 赛事直播 http://www.wuchajian.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6874.json (ID: 6874)
+2026-02-18 10:19:54,284 - INFO - 解析书源: 多平台精品源 多平台精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6857.json (ID: 6857)
+2026-02-18 10:19:54,285 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6844.json (ID: 6844)
+2026-02-18 10:19:54,285 - INFO - 解析书源: 汉书书 https://m.hanshubooks.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6842.json (ID: 6842)
+2026-02-18 10:19:54,285 - INFO - 解析书源: 美女图片网 https://m.ku1372.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6837.json (ID: 6837)
+2026-02-18 10:19:54,285 - INFO - 解析书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6112.json (ID: 6112)
+2026-02-18 10:19:54,286 - INFO - 解析书源: 茶马小说 [耽美] https://www.chamabooks.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6835.json (ID: 6835)
+2026-02-18 10:19:54,286 - INFO - 解析书源: 天命皆烬小说 https://www.genwohua.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6834.json (ID: 6834)
+2026-02-18 10:19:54,286 - INFO - 解析书源: 茶杯狐 https://www.cupfox7.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6832.json (ID: 6832)
+2026-02-18 10:19:54,287 - INFO - 解析书源: 万能精品源 精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6830.json (ID: 6830)
+2026-02-18 10:19:54,287 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6820.json (ID: 6820)
+2026-02-18 10:19:54,287 - INFO - 解析书源: CA 情色小说（修复） https://canovel.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6819.json (ID: 6819)
+2026-02-18 10:19:54,288 - INFO - 解析书源: 番茄四合一 http://103.189.141.163:9587 - https://www.yck2026.top/yuedu/shuyuan/json/id/6817.json (ID: 6817)
+2026-02-18 10:19:54,288 - INFO - 解析书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6816.json (ID: 6816)
+2026-02-18 10:19:54,288 - INFO - 解析书源: 书耽 https://app.shubl.com - https://www.yck2026.top/yuedu/shuyuan/json/id/5718.json (ID: 5718)
+2026-02-18 10:19:54,288 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6815.json (ID: 6815)
+2026-02-18 10:19:54,289 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6814.json (ID: 6814)
+2026-02-18 10:19:54,289 - INFO - 解析书源: 爱看书吧 https://m.aidushu8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6813.json (ID: 6813)
+2026-02-18 10:19:54,289 - INFO - 解析书源: 🌸Hitomi漫 https://hitomi.si/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6812.json (ID: 6812)
+2026-02-18 10:19:54,290 - INFO - 解析书源: 爱下电子书 https://ixdzs8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6810.json (ID: 6810)
+2026-02-18 10:19:54,290 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6809.json (ID: 6809)
+2026-02-18 10:19:54,290 - INFO - 解析书源: 笔趣阁 https://www.bqquge.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6808.json (ID: 6808)
+2026-02-18 10:19:54,291 - INFO - 解析书源: 🌸绅士漫画 https://www.wn06.ru/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6806.json (ID: 6806)
+2026-02-18 10:19:54,291 - INFO - 解析书源: 百草露小说 https://m.baicaolu.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6803.json (ID: 6803)
+2026-02-18 10:19:54,291 - INFO - 解析书源: 天天看小说🪜 https://ttks.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6792.json (ID: 6792)
+2026-02-18 10:19:54,292 - INFO - 解析书源: 必去读书库 http://m.biqugei.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6785.json (ID: 6785)
+2026-02-18 10:19:54,292 - INFO - 解析书源: 爱下电子书 https://ixdzs.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6783.json (ID: 6783)
+2026-02-18 10:19:54,292 - INFO - 解析书源: 夜读集小说 https://www.yeduji.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6782.json (ID: 6782)
+2026-02-18 10:19:54,292 - INFO - 解析书源: 看看影院 http://k9.9967.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6781.json (ID: 6781)
+2026-02-18 10:19:54,293 - INFO - 解析书源: ESJ Zone https://www.esjzone.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6779.json (ID: 6779)
+2026-02-18 10:19:54,293 - INFO - 解析书源: 🎨禁漫天堂 https://18comic.vip - https://www.yck2026.top/yuedu/shuyuan/json/id/6778.json (ID: 6778)
+2026-02-18 10:19:54,293 - INFO - 解析书源: 🌈笔趣中文网 http://www.bqgz.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6777.json (ID: 6777)
+2026-02-18 10:19:54,293 - INFO - 解析书源: 全能书源 全能书源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6776.json (ID: 6776)
+2026-02-18 10:19:54,294 - INFO - 解析书源: 365小说网 http://www.shukuge.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6775.json (ID: 6775)
+2026-02-18 10:19:54,294 - INFO - 解析书源: 小说520 https://www.xs520.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6774.json (ID: 6774)
+2026-02-18 10:19:54,294 - INFO - 解析书源: 🄼冰清阁小说 https://m.bqgcn.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6773.json (ID: 6773)
+2026-02-18 10:19:54,294 - INFO - 解析书源: 顶点小说 https://www.dingdian6.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6772.json (ID: 6772)
+2026-02-18 10:19:54,295 - INFO - 解析书源: 600小说网 http://www.600zz.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6771.json (ID: 6771)
+2026-02-18 10:19:54,295 - INFO - 解析书源: 九桃小说 https://k09.a506wge.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6763.json (ID: 6763)
+2026-02-18 10:19:54,295 - INFO - 解析书源: 番茄（发现） https://fanqienovel.com####嘿嘿 - https://www.yck2026.top/yuedu/shuyuan/json/id/6761.json (ID: 6761)
+2026-02-18 10:19:54,295 - INFO - 解析书源: ꂵ 30读书 https://www.30dushu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6760.json (ID: 6760)
+2026-02-18 10:19:54,296 - INFO - 解析书源: 🄼 八一 https://www.blxs.info/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6759.json (ID: 6759)
+2026-02-18 10:19:54,296 - INFO - 解析书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6758.json (ID: 6758)
+2026-02-18 10:19:54,296 - INFO - 解析书源: 奇书网 https://m.qishu99.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6757.json (ID: 6757)
+2026-02-18 10:19:54,296 - INFO - 解析书源: 云轩阁小说网 http://www.yunxuange.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6754.json (ID: 6754)
+2026-02-18 10:19:54,297 - INFO - 解析书源: kuronavi漫画raw https://kuronavi.blog - https://www.yck2026.top/yuedu/shuyuan/json/id/6753.json (ID: 6753)
+2026-02-18 10:19:54,297 - INFO - 解析书源: 旧钢笔 https://p.jiugangbi.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6752.json (ID: 6752)
+2026-02-18 10:19:54,297 - INFO - 成功解析 100 个书源
+2026-02-18 10:19:54,297 - INFO - 共找到 100 个书源
+2026-02-18 10:19:54,298 - INFO - 发现新书源: 📖Lofter 📖Lofter
+2026-02-18 10:19:54,298 - INFO - 发现新书源: 🏷晋江文学 https://m.jjwxc.net/channel/
+2026-02-18 10:19:54,298 - INFO - 发现新书源: 📖笔趣阁手机版 http://www.biqugem.cc
+2026-02-18 10:19:54,298 - INFO - 发现新书源: 🔞乐成漫画 https://www.lcmhx.asia
+2026-02-18 10:19:54,298 - INFO - 发现新书源: 乐乐 https://www.lcmhx.asia
+2026-02-18 10:19:54,299 - INFO - 发现新书源: VirtualTaboo直播 https://zh.virtualtaboo.live
+2026-02-18 10:19:54,299 - INFO - 发现新书源: 📪第一版主 https://www.bz33333333.com/
+2026-02-18 10:19:54,299 - INFO - 发现新书源: 同人小说网 https://www.tongrenxsw.com
+2026-02-18 10:19:54,299 - INFO - 发现新书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0
+2026-02-18 10:19:54,299 - INFO - 发现新书源: 📪第一版主820 https://www.bz88888.net////##
+2026-02-18 10:19:54,300 - INFO - 发现新书源: 万能精品聚合 万能精品聚合
+2026-02-18 10:19:54,300 - INFO - 发现新书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com
+2026-02-18 10:19:54,300 - INFO - 发现新书源: 📪第一版主820 https://www.bz444444.net
+2026-02-18 10:19:54,300 - INFO - 发现新书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选
+2026-02-18 10:19:54,300 - INFO - 发现新书源: 得奇小说网 https://www.deqixs.co
+2026-02-18 10:19:54,301 - INFO - 发现新书源: 🔞完本小说网 https://www.finalbooks.work
+2026-02-18 10:19:54,301 - INFO - 发现新书源: 速读谷 https://www.sudugu.org/
+2026-02-18 10:19:54,301 - INFO - 发现新书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0
+2026-02-18 10:19:54,301 - INFO - 发现新书源: 哔哩哔哩 哔哩哔哩
+2026-02-18 10:19:54,301 - INFO - 发现新书源: 东方小说网 https://m.cndfzw.com
+2026-02-18 10:19:54,302 - INFO - 发现新书源: 漫小肆20251217 https://www.jjmh.top/
+2026-02-18 10:19:54,302 - INFO - 发现新书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu
+2026-02-18 10:19:54,302 - INFO - 发现新书源: 梦想家文学 http://www.mxjtedu.com/
+2026-02-18 10:19:54,302 - INFO - 发现新书源: 东方小说网 https://www.cndfzw.com
+2026-02-18 10:19:54,302 - INFO - 发现新书源: 爱奇小说网 https://m.aqxsw.com/
+2026-02-18 10:19:54,303 - INFO - 发现新书源: 速读谷 https://www.sudugu.org/
+2026-02-18 10:19:54,303 - INFO - 发现新书源: 书豪小说网 https://www.shuhaoxs.com
+2026-02-18 10:19:54,303 - INFO - 发现新书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0
+2026-02-18 10:19:54,303 - INFO - 发现新书源: 久久漫画 https://www.jjmhw.cc
+2026-02-18 10:19:54,303 - INFO - 发现新书源: 📚书山聚合 https://search.shusan.icu
+2026-02-18 10:19:54,304 - INFO - 发现新书源: 📖笔趣网 http://www.bqgu.cc
+2026-02-18 10:19:54,304 - INFO - 发现新书源: 龙头小说 http://m.ltxs.la/
+2026-02-18 10:19:54,304 - INFO - 发现新书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠
+2026-02-18 10:19:54,304 - INFO - 发现新书源: 速读谷伪 http://www.sudugu.co
+2026-02-18 10:19:54,304 - INFO - 发现新书源: 🍅 番茄的缘 https://reading.snssdk.com#0
+2026-02-18 10:19:54,305 - INFO - 发现新书源: 闲看免费小说 http://nav.jijia-co.com
+2026-02-18 10:19:54,305 - INFO - 发现新书源: 篱笆好文（优+++） https://m.libahao.com
+2026-02-18 10:19:54,305 - INFO - 发现新书源: 元小说 https://metanetnovel.com/
+2026-02-18 10:19:54,305 - INFO - 发现新书源: 篱笆好 https://m.libahao.com
+2026-02-18 10:19:54,305 - INFO - 发现新书源: 🍅番茄专业户 番茄和精品
+2026-02-18 10:19:54,306 - INFO - 发现新书源: 📚豆瓣阅读 https://read.douban.com
+2026-02-18 10:19:54,306 - INFO - 发现新书源: 📥 奇书网 https://www.qishu99.cc
+2026-02-18 10:19:54,306 - INFO - 发现新书源: 苦读书 http://www.kudushu.org
+2026-02-18 10:19:54,306 - INFO - 发现新书源: 🎉 八零小说 http://www.80zw.la
+2026-02-18 10:19:54,306 - INFO - 发现新书源: 📥 爱去小说 https://www.aiqu999.com
+2026-02-18 10:19:54,306 - INFO - 发现新书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 🍅团夕小说 https://novel.snssdk.com
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 🎨 177漫画🔥 http://www.177pic.info
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 八叉书库 https://bcshuku.com/
+2026-02-18 10:19:54,307 - INFO - 发现新书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 速读谷 https://www.sudugu.org
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 18r（免梯子） https://jiek.qiubai.icu/
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 顶点小说ddxsmf https://www.ddxsmf.com
+2026-02-18 10:19:54,307 - INFO - 发现新书源: 无插件 - 赛事直播 http://www.wuchajian.xyz
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 多平台精品源 多平台精品源
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 速读谷 https://www.sudugu.org
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 汉书书 https://m.hanshubooks.com/
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 美女图片网 https://m.ku1372.cc
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 茶马小说 [耽美] https://www.chamabooks.net
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 天命皆烬小说 https://www.genwohua.com
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 茶杯狐 https://www.cupfox7.com/
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 万能精品源 精品源
+2026-02-18 10:19:54,308 - INFO - 发现新书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz
+2026-02-18 10:19:54,309 - INFO - 发现新书源: CA 情色小说（修复） https://canovel.com
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 番茄四合一 http://103.189.141.163:9587
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 书耽 https://app.shubl.com
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 八叉书库 https://www.8xsk.info
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 爱看书吧 https://m.aidushu8.com
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 🌸Hitomi漫 https://hitomi.si/
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 爱下电子书 https://ixdzs8.com
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 八叉书库 https://www.8xsk.info
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 笔趣阁 https://www.bqquge.com
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 🌸绅士漫画 https://www.wn06.ru/
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 百草露小说 https://m.baicaolu.com
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 天天看小说🪜 https://ttks.tw/
+2026-02-18 10:19:54,309 - INFO - 发现新书源: 必去读书库 http://m.biqugei.org
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 爱下电子书 https://ixdzs.tw/
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 夜读集小说 https://www.yeduji.com
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 看看影院 http://k9.9967.top/
+2026-02-18 10:19:54,310 - INFO - 发现新书源: ESJ Zone https://www.esjzone.cc
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 🎨禁漫天堂 https://18comic.vip
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 🌈笔趣中文网 http://www.bqgz.cc
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 全能书源 全能书源
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 365小说网 http://www.shukuge.com/
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 小说520 https://www.xs520.com/
+2026-02-18 10:19:54,310 - INFO - 发现新书源: 🄼冰清阁小说 https://m.bqgcn.com/
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 顶点小说 https://www.dingdian6.com
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 600小说网 http://www.600zz.com
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 九桃小说 https://k09.a506wge.cc
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 番茄（发现） https://fanqienovel.com####嘿嘿
+2026-02-18 10:19:54,311 - INFO - 发现新书源: ꂵ 30读书 https://www.30dushu.com/
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 🄼 八一 https://www.blxs.info/
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 奇书网 https://m.qishu99.cc/
+2026-02-18 10:19:54,311 - INFO - 发现新书源: 云轩阁小说网 http://www.yunxuange.cc/
+2026-02-18 10:19:54,311 - INFO - 发现新书源: kuronavi漫画raw https://kuronavi.blog
+2026-02-18 10:19:54,312 - INFO - 发现新书源: 旧钢笔 https://p.jiugangbi.com
+2026-02-18 10:19:54,314 - INFO - 更新检测数据已保存
+2026-02-18 10:19:54,314 - INFO - 分类 书源 发现 100 个新书源
+2026-02-18 10:19:54,536 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:19:54,539 - INFO - 书源已保存: assets/book_source_database/book_sources/6873_📖Lofter 📖Lofter_20260218_101954.json
+2026-02-18 10:19:54,542 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📖Lofter_书源_20260218_101954.md
+2026-02-18 10:19:54,545 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:19:54,545 - INFO - 成功学习书源: 📖Lofter (ID: unknown)
+2026-02-18 10:19:54,546 - INFO - ✓ 书源已学习到知识库: 📖Lofter 📖Lofter (ID: 6873)
+2026-02-18 10:19:54,548 - INFO - 元数据已保存
+2026-02-18 10:19:55,821 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:19:55,826 - INFO - 书源已保存: assets/book_source_database/book_sources/1751_🏷晋江文学 https---m.jjwxc.net-channel-_20260218_101955.json
+2026-02-18 10:19:55,828 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🏷晋江文学_书源_20260218_101955.md
+2026-02-18 10:19:55,829 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:19:55,829 - INFO - 成功学习书源: 🏷晋江文学 (ID: unknown)
+2026-02-18 10:19:55,830 - INFO - ✓ 书源已学习到知识库: 🏷晋江文学 https://m.jjwxc.net/channel/ (ID: 1751)
+2026-02-18 10:19:55,831 - INFO - 元数据已保存
+2026-02-18 10:19:57,039 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:19:57,041 - INFO - 书源已保存: assets/book_source_database/book_sources/6965_📖笔趣阁手机版 http---www.biqugem.cc_20260218_101957.json
+2026-02-18 10:19:57,042 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📖笔趣阁手机版_书源_20260218_101957.md
+2026-02-18 10:19:57,043 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:19:57,043 - INFO - 成功学习书源: 📖笔趣阁手机版 (ID: unknown)
+2026-02-18 10:19:57,043 - INFO - ✓ 书源已学习到知识库: 📖笔趣阁手机版 http://www.biqugem.cc (ID: 6965)
+2026-02-18 10:19:57,044 - INFO - 元数据已保存
+2026-02-18 10:19:58,271 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:19:58,272 - INFO - 书源已保存: assets/book_source_database/book_sources/6949_🔞乐成漫画 https---www.lcmhx.asia_20260218_101958.json
+2026-02-18 10:19:58,273 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🔞乐成漫画_书源_20260218_101958.md
+2026-02-18 10:19:58,274 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:19:58,274 - INFO - 成功学习书源: 🔞乐成漫画 (ID: unknown)
+2026-02-18 10:19:58,274 - INFO - ✓ 书源已学习到知识库: 🔞乐成漫画 https://www.lcmhx.asia (ID: 6949)
+2026-02-18 10:19:58,275 - INFO - 元数据已保存
+2026-02-18 10:19:59,479 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:19:59,481 - INFO - 书源已保存: assets/book_source_database/book_sources/6948_乐乐 https---www.lcmhx.asia_20260218_101959.json
+2026-02-18 10:19:59,482 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_乐乐_书源_20260218_101959.md
+2026-02-18 10:19:59,483 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:19:59,484 - INFO - 成功学习书源: 乐乐 (ID: unknown)
+2026-02-18 10:19:59,484 - INFO - ✓ 书源已学习到知识库: 乐乐 https://www.lcmhx.asia (ID: 6948)
+2026-02-18 10:19:59,485 - INFO - 元数据已保存
+2026-02-18 10:20:00,671 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:00,673 - INFO - 书源已保存: assets/book_source_database/book_sources/6947_VirtualTaboo直播 https---zh.virtualtaboo.live_20260218_102000.json
+2026-02-18 10:20:00,673 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:20:00,673 - WARNING - ✗ 书源学习失败: VirtualTaboo直播 https://zh.virtualtaboo.live (ID: 6947)
+2026-02-18 10:20:00,674 - INFO - 元数据已保存
+2026-02-18 10:20:01,888 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:01,890 - INFO - 书源已保存: assets/book_source_database/book_sources/6946_📪第一版主 https---www.bz33333333.com-_20260218_102001.json
+2026-02-18 10:20:01,891 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📪第一版主_书源_20260218_102001.md
+2026-02-18 10:20:01,892 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:01,892 - INFO - 成功学习书源: 📪第一版主 (ID: unknown)
+2026-02-18 10:20:01,892 - INFO - ✓ 书源已学习到知识库: 📪第一版主 https://www.bz33333333.com/ (ID: 6946)
+2026-02-18 10:20:01,893 - INFO - 元数据已保存
+2026-02-18 10:20:03,104 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:03,105 - INFO - 书源已保存: assets/book_source_database/book_sources/6077_同人小说网 https---www.tongrenxsw.com_20260218_102003.json
+2026-02-18 10:20:03,106 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_同人小说网_书源_20260218_102003.md
+2026-02-18 10:20:03,107 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:03,108 - INFO - 成功学习书源: 同人小说网 (ID: unknown)
+2026-02-18 10:20:03,108 - INFO - ✓ 书源已学习到知识库: 同人小说网 https://www.tongrenxsw.com (ID: 6077)
+2026-02-18 10:20:03,108 - INFO - 元数据已保存
+2026-02-18 10:20:04,321 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:04,326 - INFO - 书源已保存: assets/book_source_database/book_sources/6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0_20260218_102004.json
+2026-02-18 10:20:04,328 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源)_书源_20260218_102004.md
+2026-02-18 10:20:04,329 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:04,330 - INFO - 成功学习书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) (ID: unknown)
+2026-02-18 10:20:04,330 - INFO - ✓ 书源已学习到知识库: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 (ID: 6905)
+2026-02-18 10:20:04,331 - INFO - 元数据已保存
+2026-02-18 10:20:05,537 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:05,539 - INFO - 书源已保存: assets/book_source_database/book_sources/6943_📪第一版主820 https---www.bz88888.net----##_20260218_102005.json
+2026-02-18 10:20:05,541 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📪第一版主820_书源_20260218_102005.md
+2026-02-18 10:20:05,542 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:05,542 - INFO - 成功学习书源: 📪第一版主820 (ID: unknown)
+2026-02-18 10:20:05,542 - INFO - ✓ 书源已学习到知识库: 📪第一版主820 https://www.bz88888.net////## (ID: 6943)
+2026-02-18 10:20:05,543 - INFO - 元数据已保存
+2026-02-18 10:20:06,779 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:06,784 - INFO - 书源已保存: assets/book_source_database/book_sources/6942_万能精品聚合 万能精品聚合_20260218_102006.json
+2026-02-18 10:20:06,786 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_万能精品聚合_书源_20260218_102006.md
+2026-02-18 10:20:06,787 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:06,788 - INFO - 成功学习书源: 万能精品聚合 (ID: unknown)
+2026-02-18 10:20:06,788 - INFO - ✓ 书源已学习到知识库: 万能精品聚合 万能精品聚合 (ID: 6942)
+2026-02-18 10:20:06,789 - INFO - 元数据已保存
+2026-02-18 10:20:08,111 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:08,113 - INFO - 书源已保存: assets/book_source_database/book_sources/6941_🍓番茄免费小说-[春节限定版] https---xingmian.cmcure.com_20260218_102008.json
+2026-02-18 10:20:08,114 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍓番茄免费小说-[春节限定版]_书源_20260218_102008.md
+2026-02-18 10:20:08,115 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:08,115 - INFO - 成功学习书源: 🍓番茄免费小说-[春节限定版] (ID: unknown)
+2026-02-18 10:20:08,115 - INFO - ✓ 书源已学习到知识库: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com (ID: 6941)
+2026-02-18 10:20:08,116 - INFO - 元数据已保存
+2026-02-18 10:20:09,344 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:09,345 - INFO - 书源已保存: assets/book_source_database/book_sources/6940_📪第一版主820 https---www.bz444444.net_20260218_102009.json
+2026-02-18 10:20:09,346 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📪第一版主820_书源_20260218_102009.md
+2026-02-18 10:20:09,347 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:09,348 - INFO - 成功学习书源: 📪第一版主820 (ID: unknown)
+2026-02-18 10:20:09,348 - INFO - ✓ 书源已学习到知识库: 📪第一版主820 https://www.bz444444.net (ID: 6940)
+2026-02-18 10:20:09,349 - INFO - 元数据已保存
+2026-02-18 10:20:10,577 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:10,579 - INFO - 书源已保存: assets/book_source_database/book_sources/6937_🎆起点中文网(按钮筛选) https---m.qidian.com#按钮筛选_20260218_102010.json
+2026-02-18 10:20:10,581 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🎆起点中文网(按钮筛选)_书源_20260218_102010.md
+2026-02-18 10:20:10,582 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:10,582 - INFO - 成功学习书源: 🎆起点中文网(按钮筛选) (ID: unknown)
+2026-02-18 10:20:10,582 - INFO - ✓ 书源已学习到知识库: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 (ID: 6937)
+2026-02-18 10:20:10,583 - INFO - 元数据已保存
+2026-02-18 10:20:11,817 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:11,818 - INFO - 书源已保存: assets/book_source_database/book_sources/6936_得奇小说网 https---www.deqixs.co_20260218_102011.json
+2026-02-18 10:20:11,819 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_得奇小说网_书源_20260218_102011.md
+2026-02-18 10:20:11,821 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:11,821 - INFO - 成功学习书源: 得奇小说网 (ID: unknown)
+2026-02-18 10:20:11,821 - INFO - ✓ 书源已学习到知识库: 得奇小说网 https://www.deqixs.co (ID: 6936)
+2026-02-18 10:20:11,822 - INFO - 元数据已保存
+2026-02-18 10:20:13,050 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:13,052 - INFO - 书源已保存: assets/book_source_database/book_sources/6332_🔞完本小说网 https---www.finalbooks.work_20260218_102013.json
+2026-02-18 10:20:13,053 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🔞完本小说网_书源_20260218_102013.md
+2026-02-18 10:20:13,054 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:13,054 - INFO - 成功学习书源: 🔞完本小说网 (ID: unknown)
+2026-02-18 10:20:13,055 - INFO - ✓ 书源已学习到知识库: 🔞完本小说网 https://www.finalbooks.work (ID: 6332)
+2026-02-18 10:20:13,055 - INFO - 元数据已保存
+2026-02-18 10:20:14,248 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:14,249 - INFO - 书源已保存: assets/book_source_database/book_sources/6935_速读谷 https---www.sudugu.org-_20260218_102014.json
+2026-02-18 10:20:14,250 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_速读谷_书源_20260218_102014.md
+2026-02-18 10:20:14,251 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:14,251 - INFO - 成功学习书源: 速读谷 (ID: unknown)
+2026-02-18 10:20:14,251 - INFO - ✓ 书源已学习到知识库: 速读谷 https://www.sudugu.org/ (ID: 6935)
+2026-02-18 10:20:14,252 - INFO - 元数据已保存
+2026-02-18 10:20:15,478 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:15,481 - INFO - 书源已保存: assets/book_source_database/book_sources/6746_🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0_20260218_102015.json
+2026-02-18 10:20:15,488 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🌞A晴天聚合5.2.03(终极版)_书源_20260218_102015.md
+2026-02-18 10:20:15,491 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:15,491 - INFO - 成功学习书源: 🌞A晴天聚合5.2.03(终极版) (ID: unknown)
+2026-02-18 10:20:15,492 - INFO - ✓ 书源已学习到知识库: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 (ID: 6746)
+2026-02-18 10:20:15,494 - INFO - 元数据已保存
+2026-02-18 10:20:16,716 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:16,721 - INFO - 书源已保存: assets/book_source_database/book_sources/6807_哔哩哔哩 哔哩哔哩_20260218_102016.json
+2026-02-18 10:20:16,725 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_哔哩哔哩_书源_20260218_102016.md
+2026-02-18 10:20:16,727 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:16,727 - INFO - 成功学习书源: 哔哩哔哩 (ID: unknown)
+2026-02-18 10:20:16,728 - INFO - ✓ 书源已学习到知识库: 哔哩哔哩 哔哩哔哩 (ID: 6807)
+2026-02-18 10:20:16,729 - INFO - 元数据已保存
+2026-02-18 10:20:17,939 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:17,940 - INFO - 书源已保存: assets/book_source_database/book_sources/6934_东方小说网 https---m.cndfzw.com_20260218_102017.json
+2026-02-18 10:20:17,941 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_东方小说网_书源_20260218_102017.md
+2026-02-18 10:20:17,942 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:17,942 - INFO - 成功学习书源: 东方小说网 (ID: unknown)
+2026-02-18 10:20:17,943 - INFO - ✓ 书源已学习到知识库: 东方小说网 https://m.cndfzw.com (ID: 6934)
+2026-02-18 10:20:17,944 - INFO - 元数据已保存
+2026-02-18 10:20:19,207 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:19,209 - INFO - 书源已保存: assets/book_source_database/book_sources/6933_漫小肆20251217 https---www.jjmh.top-_20260218_102019.json
+2026-02-18 10:20:19,210 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_漫小肆20251217_书源_20260218_102019.md
+2026-02-18 10:20:19,211 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:19,211 - INFO - 成功学习书源: 漫小肆20251217 (ID: unknown)
+2026-02-18 10:20:19,211 - INFO - ✓ 书源已学习到知识库: 漫小肆20251217 https://www.jjmh.top/ (ID: 6933)
+2026-02-18 10:20:19,213 - INFO - 元数据已保存
+2026-02-18 10:20:20,465 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:20,467 - INFO - 书源已保存: assets/book_source_database/book_sources/6932_🍓番茄免费小说-[春节限定版] http---rose.novel.lzink.icu_20260218_102020.json
+2026-02-18 10:20:20,468 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍓番茄免费小说-[春节限定版]_书源_20260218_102020.md
+2026-02-18 10:20:20,469 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:20,470 - INFO - 成功学习书源: 🍓番茄免费小说-[春节限定版] (ID: unknown)
+2026-02-18 10:20:20,470 - INFO - ✓ 书源已学习到知识库: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu (ID: 6932)
+2026-02-18 10:20:20,471 - INFO - 元数据已保存
+2026-02-18 10:20:21,688 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:21,689 - INFO - 书源已保存: assets/book_source_database/book_sources/6931_梦想家文学 http---www.mxjtedu.com-_20260218_102021.json
+2026-02-18 10:20:21,690 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_梦想家文学_书源_20260218_102021.md
+2026-02-18 10:20:21,691 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:21,692 - INFO - 成功学习书源: 梦想家文学 (ID: unknown)
+2026-02-18 10:20:21,692 - INFO - ✓ 书源已学习到知识库: 梦想家文学 http://www.mxjtedu.com/ (ID: 6931)
+2026-02-18 10:20:21,693 - INFO - 元数据已保存
+2026-02-18 10:20:22,920 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:22,922 - INFO - 书源已保存: assets/book_source_database/book_sources/6930_东方小说网 https---www.cndfzw.com_20260218_102022.json
+2026-02-18 10:20:22,923 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_东方小说网_书源_20260218_102022.md
+2026-02-18 10:20:22,924 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:22,924 - INFO - 成功学习书源: 东方小说网 (ID: unknown)
+2026-02-18 10:20:22,924 - INFO - ✓ 书源已学习到知识库: 东方小说网 https://www.cndfzw.com (ID: 6930)
+2026-02-18 10:20:22,925 - INFO - 元数据已保存
+2026-02-18 10:20:24,145 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:24,147 - INFO - 书源已保存: assets/book_source_database/book_sources/6929_爱奇小说网 https---m.aqxsw.com-_20260218_102024.json
+2026-02-18 10:20:24,147 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:20:24,148 - WARNING - ✗ 书源学习失败: 爱奇小说网 https://m.aqxsw.com/ (ID: 6929)
+2026-02-18 10:20:24,149 - INFO - 元数据已保存
+2026-02-18 10:20:25,361 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:25,363 - INFO - 书源已保存: assets/book_source_database/book_sources/6928_速读谷 https---www.sudugu.org-_20260218_102025.json
+2026-02-18 10:20:25,365 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_速读谷_书源_20260218_102025.md
+2026-02-18 10:20:25,367 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:25,367 - INFO - 成功学习书源: 速读谷 (ID: unknown)
+2026-02-18 10:20:25,367 - INFO - ✓ 书源已学习到知识库: 速读谷 https://www.sudugu.org/ (ID: 6928)
+2026-02-18 10:20:25,368 - INFO - 元数据已保存
+2026-02-18 10:20:26,594 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:26,596 - INFO - 书源已保存: assets/book_source_database/book_sources/6927_书豪小说网 https---www.shuhaoxs.com_20260218_102026.json
+2026-02-18 10:20:26,597 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_书豪小说网_书源_20260218_102026.md
+2026-02-18 10:20:26,599 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:26,599 - INFO - 成功学习书源: 书豪小说网 (ID: unknown)
+2026-02-18 10:20:26,599 - INFO - ✓ 书源已学习到知识库: 书豪小说网 https://www.shuhaoxs.com (ID: 6927)
+2026-02-18 10:20:26,600 - INFO - 元数据已保存
+2026-02-18 10:20:27,791 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:27,796 - INFO - 书源已保存: assets/book_source_database/book_sources/6841_🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0_20260218_102027.json
+2026-02-18 10:20:27,801 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍅大灰狼聚合5.2.2(完全版)_书源_20260218_102027.md
+2026-02-18 10:20:27,803 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:27,804 - INFO - 成功学习书源: 🍅大灰狼聚合5.2.2(完全版) (ID: unknown)
+2026-02-18 10:20:27,804 - INFO - ✓ 书源已学习到知识库: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 (ID: 6841)
+2026-02-18 10:20:27,806 - INFO - 元数据已保存
+2026-02-18 10:20:29,011 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:29,014 - INFO - 书源已保存: assets/book_source_database/book_sources/6923_久久漫画 https---www.jjmhw.cc_20260218_102029.json
+2026-02-18 10:20:29,016 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_久久漫画_书源_20260218_102029.md
+2026-02-18 10:20:29,017 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:29,017 - INFO - 成功学习书源: 久久漫画 (ID: unknown)
+2026-02-18 10:20:29,017 - INFO - ✓ 书源已学习到知识库: 久久漫画 https://www.jjmhw.cc (ID: 6923)
+2026-02-18 10:20:29,019 - INFO - 元数据已保存
+2026-02-18 10:20:30,234 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:30,239 - INFO - 书源已保存: assets/book_source_database/book_sources/6921_📚书山聚合 https---search.shusan.icu_20260218_102030.json
+2026-02-18 10:20:30,242 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📚书山聚合_书源_20260218_102030.md
+2026-02-18 10:20:30,243 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:30,244 - INFO - 成功学习书源: 📚书山聚合 (ID: unknown)
+2026-02-18 10:20:30,244 - INFO - ✓ 书源已学习到知识库: 📚书山聚合 https://search.shusan.icu (ID: 6921)
+2026-02-18 10:20:30,245 - INFO - 元数据已保存
+2026-02-18 10:20:31,451 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:31,453 - INFO - 书源已保存: assets/book_source_database/book_sources/6918_📖笔趣网 http---www.bqgu.cc_20260218_102031.json
+2026-02-18 10:20:31,454 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📖笔趣网_书源_20260218_102031.md
+2026-02-18 10:20:31,456 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:31,456 - INFO - 成功学习书源: 📖笔趣网 (ID: unknown)
+2026-02-18 10:20:31,456 - INFO - ✓ 书源已学习到知识库: 📖笔趣网 http://www.bqgu.cc (ID: 6918)
+2026-02-18 10:20:31,457 - INFO - 元数据已保存
+2026-02-18 10:20:32,683 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:32,685 - INFO - 书源已保存: assets/book_source_database/book_sources/6917_龙头小说 http---m.ltxs.la-_20260218_102032.json
+2026-02-18 10:20:32,687 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_龙头小说_书源_20260218_102032.md
+2026-02-18 10:20:32,688 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:32,688 - INFO - 成功学习书源: 龙头小说 (ID: unknown)
+2026-02-18 10:20:32,689 - INFO - ✓ 书源已学习到知识库: 龙头小说 http://m.ltxs.la/ (ID: 6917)
+2026-02-18 10:20:32,690 - INFO - 元数据已保存
+2026-02-18 10:20:33,915 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:33,919 - INFO - 书源已保存: assets/book_source_database/book_sources/6907_💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠_20260218_102033.json
+2026-02-18 10:20:33,922 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_💫悦恋免费小说 - [☆星眠☆]_书源_20260218_102033.md
+2026-02-18 10:20:33,924 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:33,925 - INFO - 成功学习书源: 💫悦恋免费小说 - [☆星眠☆] (ID: unknown)
+2026-02-18 10:20:33,925 - INFO - ✓ 书源已学习到知识库: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 (ID: 6907)
+2026-02-18 10:20:33,927 - INFO - 元数据已保存
+2026-02-18 10:20:35,167 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:35,169 - INFO - 书源已保存: assets/book_source_database/book_sources/6906_速读谷伪 http---www.sudugu.co_20260218_102035.json
+2026-02-18 10:20:35,170 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_速读谷伪_书源_20260218_102035.md
+2026-02-18 10:20:35,171 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:35,171 - INFO - 成功学习书源: 速读谷伪 (ID: unknown)
+2026-02-18 10:20:35,171 - INFO - ✓ 书源已学习到知识库: 速读谷伪 http://www.sudugu.co (ID: 6906)
+2026-02-18 10:20:35,173 - INFO - 元数据已保存
+2026-02-18 10:20:36,416 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:36,421 - INFO - 书源已保存: assets/book_source_database/book_sources/6904_🍅 番茄的缘 https---reading.snssdk.com#0_20260218_102036.json
+2026-02-18 10:20:36,423 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍅 番茄的缘_书源_20260218_102036.md
+2026-02-18 10:20:36,424 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:36,425 - INFO - 成功学习书源: 🍅 番茄的缘 (ID: unknown)
+2026-02-18 10:20:36,425 - INFO - ✓ 书源已学习到知识库: 🍅 番茄的缘 https://reading.snssdk.com#0 (ID: 6904)
+2026-02-18 10:20:36,426 - INFO - 元数据已保存
+2026-02-18 10:20:37,642 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:37,643 - INFO - 书源已保存: assets/book_source_database/book_sources/6900_闲看免费小说 http---nav.jijia-co.com_20260218_102037.json
+2026-02-18 10:20:37,644 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_闲看免费小说_书源_20260218_102037.md
+2026-02-18 10:20:37,646 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:37,646 - INFO - 成功学习书源: 闲看免费小说 (ID: unknown)
+2026-02-18 10:20:37,646 - INFO - ✓ 书源已学习到知识库: 闲看免费小说 http://nav.jijia-co.com (ID: 6900)
+2026-02-18 10:20:37,648 - INFO - 元数据已保存
+2026-02-18 10:20:38,831 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:38,833 - INFO - 书源已保存: assets/book_source_database/book_sources/6897_篱笆好文（优+++） https---m.libahao.com_20260218_102038.json
+2026-02-18 10:20:38,834 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_篱笆好文（优+++）_书源_20260218_102038.md
+2026-02-18 10:20:38,835 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:38,835 - INFO - 成功学习书源: 篱笆好文（优+++） (ID: unknown)
+2026-02-18 10:20:38,836 - INFO - ✓ 书源已学习到知识库: 篱笆好文（优+++） https://m.libahao.com (ID: 6897)
+2026-02-18 10:20:38,837 - INFO - 元数据已保存
+2026-02-18 10:20:40,057 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:40,059 - INFO - 书源已保存: assets/book_source_database/book_sources/6896_元小说 https---metanetnovel.com-_20260218_102040.json
+2026-02-18 10:20:40,060 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_元小说_书源_20260218_102040.md
+2026-02-18 10:20:40,062 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:40,062 - INFO - 成功学习书源: 元小说 (ID: unknown)
+2026-02-18 10:20:40,062 - INFO - ✓ 书源已学习到知识库: 元小说 https://metanetnovel.com/ (ID: 6896)
+2026-02-18 10:20:40,063 - INFO - 元数据已保存
+2026-02-18 10:20:41,264 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:41,265 - INFO - 书源已保存: assets/book_source_database/book_sources/6895_篱笆好 https---m.libahao.com_20260218_102041.json
+2026-02-18 10:20:41,266 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_篱笆好_书源_20260218_102041.md
+2026-02-18 10:20:41,267 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:41,268 - INFO - 成功学习书源: 篱笆好 (ID: unknown)
+2026-02-18 10:20:41,268 - INFO - ✓ 书源已学习到知识库: 篱笆好 https://m.libahao.com (ID: 6895)
+2026-02-18 10:20:41,269 - INFO - 元数据已保存
+2026-02-18 10:20:42,491 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:42,496 - INFO - 书源已保存: assets/book_source_database/book_sources/6892_🍅番茄专业户 番茄和精品_20260218_102042.json
+2026-02-18 10:20:42,498 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍅番茄专业户_书源_20260218_102042.md
+2026-02-18 10:20:42,499 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:42,500 - INFO - 成功学习书源: 🍅番茄专业户 (ID: unknown)
+2026-02-18 10:20:42,500 - INFO - ✓ 书源已学习到知识库: 🍅番茄专业户 番茄和精品 (ID: 6892)
+2026-02-18 10:20:42,501 - INFO - 元数据已保存
+2026-02-18 10:20:43,707 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:43,709 - INFO - 书源已保存: assets/book_source_database/book_sources/4925_📚豆瓣阅读 https---read.douban.com_20260218_102043.json
+2026-02-18 10:20:43,711 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_📚豆瓣阅读_书源_20260218_102043.md
+2026-02-18 10:20:43,713 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:43,713 - INFO - 成功学习书源: 📚豆瓣阅读 (ID: unknown)
+2026-02-18 10:20:43,713 - INFO - ✓ 书源已学习到知识库: 📚豆瓣阅读 https://read.douban.com (ID: 4925)
+2026-02-18 10:20:43,715 - INFO - 元数据已保存
+2026-02-18 10:20:44,912 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:44,914 - INFO - 书源已保存: assets/book_source_database/book_sources/6891_📥 奇书网 https---www.qishu99.cc_20260218_102044.json
+2026-02-18 10:20:44,915 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:20:44,915 - WARNING - ✗ 书源学习失败: 📥 奇书网 https://www.qishu99.cc (ID: 6891)
+2026-02-18 10:20:44,916 - INFO - 元数据已保存
+2026-02-18 10:20:46,112 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:46,113 - INFO - 书源已保存: assets/book_source_database/book_sources/6890_苦读书 http---www.kudushu.org_20260218_102046.json
+2026-02-18 10:20:46,114 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_苦读书_书源_20260218_102046.md
+2026-02-18 10:20:46,116 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:46,116 - INFO - 成功学习书源: 苦读书 (ID: unknown)
+2026-02-18 10:20:46,116 - INFO - ✓ 书源已学习到知识库: 苦读书 http://www.kudushu.org (ID: 6890)
+2026-02-18 10:20:46,117 - INFO - 元数据已保存
+2026-02-18 10:20:47,345 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:47,347 - INFO - 书源已保存: assets/book_source_database/book_sources/6887_🎉 八零小说 http---www.80zw.la_20260218_102047.json
+2026-02-18 10:20:47,348 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🎉 八零小说_书源_20260218_102047.md
+2026-02-18 10:20:47,350 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:47,350 - INFO - 成功学习书源: 🎉 八零小说 (ID: unknown)
+2026-02-18 10:20:47,350 - INFO - ✓ 书源已学习到知识库: 🎉 八零小说 http://www.80zw.la (ID: 6887)
+2026-02-18 10:20:47,352 - INFO - 元数据已保存
+2026-02-18 10:20:48,579 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:48,581 - INFO - 书源已保存: assets/book_source_database/book_sources/6886_📥 爱去小说 https---www.aiqu999.com_20260218_102048.json
+2026-02-18 10:20:48,581 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:20:48,581 - WARNING - ✗ 书源学习失败: 📥 爱去小说 https://www.aiqu999.com (ID: 6886)
+2026-02-18 10:20:48,583 - INFO - 元数据已保存
+2026-02-18 10:20:49,780 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:49,782 - INFO - 书源已保存: assets/book_source_database/book_sources/6885_🔞UAA-免梯-已绕过会员 https---api.qiubai.icu_20260218_102049.json
+2026-02-18 10:20:49,784 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🔞UAA-免梯-已绕过会员_书源_20260218_102049.md
+2026-02-18 10:20:49,785 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:49,785 - INFO - 成功学习书源: 🔞UAA-免梯-已绕过会员 (ID: unknown)
+2026-02-18 10:20:49,785 - INFO - ✓ 书源已学习到知识库: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu (ID: 6885)
+2026-02-18 10:20:49,787 - INFO - 元数据已保存
+2026-02-18 10:20:50,979 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:50,981 - INFO - 书源已保存: assets/book_source_database/book_sources/6884_🍅团夕小说 https---novel.snssdk.com_20260218_102050.json
+2026-02-18 10:20:50,982 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🍅团夕小说_书源_20260218_102050.md
+2026-02-18 10:20:50,983 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:50,984 - INFO - 成功学习书源: 🍅团夕小说 (ID: unknown)
+2026-02-18 10:20:50,984 - INFO - ✓ 书源已学习到知识库: 🍅团夕小说 https://novel.snssdk.com (ID: 6884)
+2026-02-18 10:20:50,985 - INFO - 元数据已保存
+2026-02-18 10:20:52,203 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:52,205 - INFO - 书源已保存: assets/book_source_database/book_sources/6883_🎨 177漫画🔥 http---www.177pic.info_20260218_102052.json
+2026-02-18 10:20:52,206 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_🎨 177漫画🔥_书源_20260218_102052.md
+2026-02-18 10:20:52,207 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:52,208 - INFO - 成功学习书源: 🎨 177漫画🔥 (ID: unknown)
+2026-02-18 10:20:52,208 - INFO - ✓ 书源已学习到知识库: 🎨 177漫画🔥 http://www.177pic.info (ID: 6883)
+2026-02-18 10:20:52,209 - INFO - 元数据已保存
+2026-02-18 10:20:53,428 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:20:53,430 - INFO - 书源已保存: assets/book_source_database/book_sources/6882_八叉书库 https---bcshuku.com-_20260218_102053.json
+2026-02-18 10:20:53,431 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_八叉书库_书源_20260218_102053.md
+2026-02-18 10:20:53,433 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:20:53,433 - INFO - 成功学习书源: 八叉书库 (ID: unknown)
+2026-02-18 10:20:53,433 - INFO - ✓ 书源已学习到知识库: 八叉书库 https://bcshuku.com/ (ID: 6882)
+2026-02-18 10:20:53,435 - INFO - 元数据已保存
+2026-02-18 10:21:08,565 - INFO - ==================================================
+2026-02-18 10:21:08,565 - INFO - Legado订阅源爬虫启动
+2026-02-18 10:21:08,566 - INFO - ==================================================
+2026-02-18 10:21:08,567 - INFO - 确保目录存在: assets/book_source_database
+2026-02-18 10:21:08,567 - INFO - 确保目录存在: assets/book_source_reference
+2026-02-18 10:21:08,567 - INFO - 确保目录存在: assets/book_source_database/book_sources
+2026-02-18 10:21:08,568 - INFO - 确保目录存在: assets/book_source_database/book_source_collections
+2026-02-18 10:21:08,568 - INFO - 确保目录存在: assets/book_source_database/rss_sources
+2026-02-18 10:21:08,568 - INFO - 确保目录存在: assets/book_source_database/rss_source_collections
+2026-02-18 10:21:08,568 - INFO - 确保目录存在: assets/book_source_reference/book_count_refs
+2026-02-18 10:21:08,569 - INFO - 确保目录存在: assets/book_source_reference/other_refs
+2026-02-18 10:21:08,569 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:21:08,569 - INFO - 参考学习模块已启用
+2026-02-18 10:21:08,570 - INFO - 只爬取分类: 书源
+2026-02-18 10:21:08,570 - INFO - 开始爬取分类: 书源
+2026-02-18 10:21:09,127 - INFO - 找到 124 个链接
+2026-02-18 10:21:09,128 - INFO - 解析书源: 📖Lofter 📖Lofter - https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json (ID: 6873)
+2026-02-18 10:21:09,129 - INFO - 解析书源: 🏷晋江文学 https://m.jjwxc.net/channel/ - https://www.yck2026.top/yuedu/shuyuan/json/id/1751.json (ID: 1751)
+2026-02-18 10:21:09,129 - INFO - 解析书源: 📖笔趣阁手机版 http://www.biqugem.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6965.json (ID: 6965)
+2026-02-18 10:21:09,130 - INFO - 解析书源: 🔞乐成漫画 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6949.json (ID: 6949)
+2026-02-18 10:21:09,130 - INFO - 解析书源: 乐乐 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6948.json (ID: 6948)
+2026-02-18 10:21:09,130 - INFO - 解析书源: VirtualTaboo直播 https://zh.virtualtaboo.live - https://www.yck2026.top/yuedu/shuyuan/json/id/6947.json (ID: 6947)
+2026-02-18 10:21:09,131 - INFO - 解析书源: 📪第一版主 https://www.bz33333333.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6946.json (ID: 6946)
+2026-02-18 10:21:09,131 - INFO - 解析书源: 同人小说网 https://www.tongrenxsw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6077.json (ID: 6077)
+2026-02-18 10:21:09,131 - INFO - 解析书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6905.json (ID: 6905)
+2026-02-18 10:21:09,132 - INFO - 解析书源: 📪第一版主820 https://www.bz88888.net////## - https://www.yck2026.top/yuedu/shuyuan/json/id/6943.json (ID: 6943)
+2026-02-18 10:21:09,132 - INFO - 解析书源: 万能精品聚合 万能精品聚合 - https://www.yck2026.top/yuedu/shuyuan/json/id/6942.json (ID: 6942)
+2026-02-18 10:21:09,132 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6941.json (ID: 6941)
+2026-02-18 10:21:09,132 - INFO - 解析书源: 📪第一版主820 https://www.bz444444.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6940.json (ID: 6940)
+2026-02-18 10:21:09,133 - INFO - 解析书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 - https://www.yck2026.top/yuedu/shuyuan/json/id/6937.json (ID: 6937)
+2026-02-18 10:21:09,133 - INFO - 解析书源: 得奇小说网 https://www.deqixs.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6936.json (ID: 6936)
+2026-02-18 10:21:09,133 - INFO - 解析书源: 🔞完本小说网 https://www.finalbooks.work - https://www.yck2026.top/yuedu/shuyuan/json/id/6332.json (ID: 6332)
+2026-02-18 10:21:09,134 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6935.json (ID: 6935)
+2026-02-18 10:21:09,134 - INFO - 解析书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6746.json (ID: 6746)
+2026-02-18 10:21:09,134 - INFO - 解析书源: 哔哩哔哩 哔哩哔哩 - https://www.yck2026.top/yuedu/shuyuan/json/id/6807.json (ID: 6807)
+2026-02-18 10:21:09,135 - INFO - 解析书源: 东方小说网 https://m.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6934.json (ID: 6934)
+2026-02-18 10:21:09,135 - INFO - 解析书源: 漫小肆20251217 https://www.jjmh.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6933.json (ID: 6933)
+2026-02-18 10:21:09,135 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6932.json (ID: 6932)
+2026-02-18 10:21:09,135 - INFO - 解析书源: 梦想家文学 http://www.mxjtedu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6931.json (ID: 6931)
+2026-02-18 10:21:09,136 - INFO - 解析书源: 东方小说网 https://www.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6930.json (ID: 6930)
+2026-02-18 10:21:09,136 - INFO - 解析书源: 爱奇小说网 https://m.aqxsw.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6929.json (ID: 6929)
+2026-02-18 10:21:09,136 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6928.json (ID: 6928)
+2026-02-18 10:21:09,136 - INFO - 解析书源: 书豪小说网 https://www.shuhaoxs.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6927.json (ID: 6927)
+2026-02-18 10:21:09,137 - INFO - 解析书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6841.json (ID: 6841)
+2026-02-18 10:21:09,137 - INFO - 解析书源: 久久漫画 https://www.jjmhw.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6923.json (ID: 6923)
+2026-02-18 10:21:09,137 - INFO - 解析书源: 📚书山聚合 https://search.shusan.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6921.json (ID: 6921)
+2026-02-18 10:21:09,138 - INFO - 解析书源: 📖笔趣网 http://www.bqgu.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6918.json (ID: 6918)
+2026-02-18 10:21:09,138 - INFO - 解析书源: 龙头小说 http://m.ltxs.la/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6917.json (ID: 6917)
+2026-02-18 10:21:09,138 - INFO - 解析书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 - https://www.yck2026.top/yuedu/shuyuan/json/id/6907.json (ID: 6907)
+2026-02-18 10:21:09,138 - INFO - 解析书源: 速读谷伪 http://www.sudugu.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6906.json (ID: 6906)
+2026-02-18 10:21:09,139 - INFO - 解析书源: 🍅 番茄的缘 https://reading.snssdk.com#0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6904.json (ID: 6904)
+2026-02-18 10:21:09,139 - INFO - 解析书源: 闲看免费小说 http://nav.jijia-co.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6900.json (ID: 6900)
+2026-02-18 10:21:09,139 - INFO - 解析书源: 篱笆好文（优+++） https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6897.json (ID: 6897)
+2026-02-18 10:21:09,139 - INFO - 解析书源: 元小说 https://metanetnovel.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6896.json (ID: 6896)
+2026-02-18 10:21:09,140 - INFO - 解析书源: 篱笆好 https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6895.json (ID: 6895)
+2026-02-18 10:21:09,140 - INFO - 解析书源: 🍅番茄专业户 番茄和精品 - https://www.yck2026.top/yuedu/shuyuan/json/id/6892.json (ID: 6892)
+2026-02-18 10:21:09,140 - INFO - 解析书源: 📚豆瓣阅读 https://read.douban.com - https://www.yck2026.top/yuedu/shuyuan/json/id/4925.json (ID: 4925)
+2026-02-18 10:21:09,141 - INFO - 解析书源: 📥 奇书网 https://www.qishu99.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6891.json (ID: 6891)
+2026-02-18 10:21:09,141 - INFO - 解析书源: 苦读书 http://www.kudushu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6890.json (ID: 6890)
+2026-02-18 10:21:09,141 - INFO - 解析书源: 🎉 八零小说 http://www.80zw.la - https://www.yck2026.top/yuedu/shuyuan/json/id/6887.json (ID: 6887)
+2026-02-18 10:21:09,141 - INFO - 解析书源: 📥 爱去小说 https://www.aiqu999.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6886.json (ID: 6886)
+2026-02-18 10:21:09,142 - INFO - 解析书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6885.json (ID: 6885)
+2026-02-18 10:21:09,142 - INFO - 解析书源: 🍅团夕小说 https://novel.snssdk.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6884.json (ID: 6884)
+2026-02-18 10:21:09,142 - INFO - 解析书源: 🎨 177漫画🔥 http://www.177pic.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6883.json (ID: 6883)
+2026-02-18 10:21:09,143 - INFO - 解析书源: 八叉书库 https://bcshuku.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6882.json (ID: 6882)
+2026-02-18 10:21:09,143 - INFO - 解析书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6881.json (ID: 6881)
+2026-02-18 10:21:09,143 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6880.json (ID: 6880)
+2026-02-18 10:21:09,144 - INFO - 解析书源: 18r（免梯子） https://jiek.qiubai.icu/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6876.json (ID: 6876)
+2026-02-18 10:21:09,144 - INFO - 解析书源: 顶点小说ddxsmf https://www.ddxsmf.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6875.json (ID: 6875)
+2026-02-18 10:21:09,144 - INFO - 解析书源: 无插件 - 赛事直播 http://www.wuchajian.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6874.json (ID: 6874)
+2026-02-18 10:21:09,145 - INFO - 解析书源: 多平台精品源 多平台精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6857.json (ID: 6857)
+2026-02-18 10:21:09,145 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6844.json (ID: 6844)
+2026-02-18 10:21:09,145 - INFO - 解析书源: 汉书书 https://m.hanshubooks.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6842.json (ID: 6842)
+2026-02-18 10:21:09,145 - INFO - 解析书源: 美女图片网 https://m.ku1372.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6837.json (ID: 6837)
+2026-02-18 10:21:09,146 - INFO - 解析书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6112.json (ID: 6112)
+2026-02-18 10:21:09,146 - INFO - 解析书源: 茶马小说 [耽美] https://www.chamabooks.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6835.json (ID: 6835)
+2026-02-18 10:21:09,146 - INFO - 解析书源: 天命皆烬小说 https://www.genwohua.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6834.json (ID: 6834)
+2026-02-18 10:21:09,146 - INFO - 解析书源: 茶杯狐 https://www.cupfox7.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6832.json (ID: 6832)
+2026-02-18 10:21:09,147 - INFO - 解析书源: 万能精品源 精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6830.json (ID: 6830)
+2026-02-18 10:21:09,147 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6820.json (ID: 6820)
+2026-02-18 10:21:09,147 - INFO - 解析书源: CA 情色小说（修复） https://canovel.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6819.json (ID: 6819)
+2026-02-18 10:21:09,148 - INFO - 解析书源: 番茄四合一 http://103.189.141.163:9587 - https://www.yck2026.top/yuedu/shuyuan/json/id/6817.json (ID: 6817)
+2026-02-18 10:21:09,148 - INFO - 解析书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6816.json (ID: 6816)
+2026-02-18 10:21:09,148 - INFO - 解析书源: 书耽 https://app.shubl.com - https://www.yck2026.top/yuedu/shuyuan/json/id/5718.json (ID: 5718)
+2026-02-18 10:21:09,148 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6815.json (ID: 6815)
+2026-02-18 10:21:09,149 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6814.json (ID: 6814)
+2026-02-18 10:21:09,149 - INFO - 解析书源: 爱看书吧 https://m.aidushu8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6813.json (ID: 6813)
+2026-02-18 10:21:09,149 - INFO - 解析书源: 🌸Hitomi漫 https://hitomi.si/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6812.json (ID: 6812)
+2026-02-18 10:21:09,149 - INFO - 解析书源: 爱下电子书 https://ixdzs8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6810.json (ID: 6810)
+2026-02-18 10:21:09,150 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6809.json (ID: 6809)
+2026-02-18 10:21:09,150 - INFO - 解析书源: 笔趣阁 https://www.bqquge.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6808.json (ID: 6808)
+2026-02-18 10:21:09,150 - INFO - 解析书源: 🌸绅士漫画 https://www.wn06.ru/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6806.json (ID: 6806)
+2026-02-18 10:21:09,151 - INFO - 解析书源: 百草露小说 https://m.baicaolu.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6803.json (ID: 6803)
+2026-02-18 10:21:09,151 - INFO - 解析书源: 天天看小说🪜 https://ttks.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6792.json (ID: 6792)
+2026-02-18 10:21:09,151 - INFO - 解析书源: 必去读书库 http://m.biqugei.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6785.json (ID: 6785)
+2026-02-18 10:21:09,152 - INFO - 解析书源: 爱下电子书 https://ixdzs.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6783.json (ID: 6783)
+2026-02-18 10:21:09,152 - INFO - 解析书源: 夜读集小说 https://www.yeduji.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6782.json (ID: 6782)
+2026-02-18 10:21:09,152 - INFO - 解析书源: 看看影院 http://k9.9967.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6781.json (ID: 6781)
+2026-02-18 10:21:09,153 - INFO - 解析书源: ESJ Zone https://www.esjzone.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6779.json (ID: 6779)
+2026-02-18 10:21:09,153 - INFO - 解析书源: 🎨禁漫天堂 https://18comic.vip - https://www.yck2026.top/yuedu/shuyuan/json/id/6778.json (ID: 6778)
+2026-02-18 10:21:09,153 - INFO - 解析书源: 🌈笔趣中文网 http://www.bqgz.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6777.json (ID: 6777)
+2026-02-18 10:21:09,153 - INFO - 解析书源: 全能书源 全能书源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6776.json (ID: 6776)
+2026-02-18 10:21:09,154 - INFO - 解析书源: 365小说网 http://www.shukuge.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6775.json (ID: 6775)
+2026-02-18 10:21:09,154 - INFO - 解析书源: 小说520 https://www.xs520.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6774.json (ID: 6774)
+2026-02-18 10:21:09,154 - INFO - 解析书源: 🄼冰清阁小说 https://m.bqgcn.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6773.json (ID: 6773)
+2026-02-18 10:21:09,154 - INFO - 解析书源: 顶点小说 https://www.dingdian6.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6772.json (ID: 6772)
+2026-02-18 10:21:09,155 - INFO - 解析书源: 600小说网 http://www.600zz.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6771.json (ID: 6771)
+2026-02-18 10:21:09,155 - INFO - 解析书源: 九桃小说 https://k09.a506wge.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6763.json (ID: 6763)
+2026-02-18 10:21:09,155 - INFO - 解析书源: 番茄（发现） https://fanqienovel.com####嘿嘿 - https://www.yck2026.top/yuedu/shuyuan/json/id/6761.json (ID: 6761)
+2026-02-18 10:21:09,156 - INFO - 解析书源: ꂵ 30读书 https://www.30dushu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6760.json (ID: 6760)
+2026-02-18 10:21:09,156 - INFO - 解析书源: 🄼 八一 https://www.blxs.info/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6759.json (ID: 6759)
+2026-02-18 10:21:09,156 - INFO - 解析书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6758.json (ID: 6758)
+2026-02-18 10:21:09,156 - INFO - 解析书源: 奇书网 https://m.qishu99.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6757.json (ID: 6757)
+2026-02-18 10:21:09,157 - INFO - 解析书源: 云轩阁小说网 http://www.yunxuange.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6754.json (ID: 6754)
+2026-02-18 10:21:09,157 - INFO - 解析书源: kuronavi漫画raw https://kuronavi.blog - https://www.yck2026.top/yuedu/shuyuan/json/id/6753.json (ID: 6753)
+2026-02-18 10:21:09,157 - INFO - 解析书源: 旧钢笔 https://p.jiugangbi.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6752.json (ID: 6752)
+2026-02-18 10:21:09,157 - INFO - 成功解析 100 个书源
+2026-02-18 10:21:09,158 - INFO - 共找到 100 个书源
+2026-02-18 10:21:09,158 - INFO - 分类 书源 没有新书源，跳过处理
+2026-02-18 10:21:09,158 - INFO - 分类 书源 爬取完成，新增 0 个书源
+2026-02-18 10:21:09,158 - INFO - 任务完成，程序退出
+2026-02-18 10:21:30,430 - INFO - ==================================================
+2026-02-18 10:21:30,430 - INFO - Legado订阅源爬虫启动
+2026-02-18 10:21:30,430 - INFO - ==================================================
+2026-02-18 10:21:30,431 - INFO - 确保目录存在: assets/book_source_database
+2026-02-18 10:21:30,431 - INFO - 确保目录存在: assets/book_source_reference
+2026-02-18 10:21:30,432 - INFO - 确保目录存在: assets/book_source_database/book_sources
+2026-02-18 10:21:30,432 - INFO - 确保目录存在: assets/book_source_database/book_source_collections
+2026-02-18 10:21:30,432 - INFO - 确保目录存在: assets/book_source_database/rss_sources
+2026-02-18 10:21:30,432 - INFO - 确保目录存在: assets/book_source_database/rss_source_collections
+2026-02-18 10:21:30,433 - INFO - 确保目录存在: assets/book_source_reference/book_count_refs
+2026-02-18 10:21:30,433 - INFO - 确保目录存在: assets/book_source_reference/other_refs
+2026-02-18 10:21:30,433 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:21:30,434 - INFO - 参考学习模块已启用
+2026-02-18 10:21:30,434 - INFO - 只爬取分类: 书源
+2026-02-18 10:21:30,434 - INFO - 开始爬取分类: 书源
+2026-02-18 10:21:31,850 - INFO - 找到 124 个链接
+2026-02-18 10:21:31,851 - INFO - 解析书源: 📖Lofter 📖Lofter - https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json (ID: 6873)
+2026-02-18 10:21:31,852 - INFO - 解析书源: 🏷晋江文学 https://m.jjwxc.net/channel/ - https://www.yck2026.top/yuedu/shuyuan/json/id/1751.json (ID: 1751)
+2026-02-18 10:21:31,852 - INFO - 解析书源: 📖笔趣阁手机版 http://www.biqugem.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6965.json (ID: 6965)
+2026-02-18 10:21:31,852 - INFO - 解析书源: 🔞乐成漫画 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6949.json (ID: 6949)
+2026-02-18 10:21:31,853 - INFO - 解析书源: 乐乐 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6948.json (ID: 6948)
+2026-02-18 10:21:31,853 - INFO - 解析书源: VirtualTaboo直播 https://zh.virtualtaboo.live - https://www.yck2026.top/yuedu/shuyuan/json/id/6947.json (ID: 6947)
+2026-02-18 10:21:31,853 - INFO - 解析书源: 📪第一版主 https://www.bz33333333.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6946.json (ID: 6946)
+2026-02-18 10:21:31,853 - INFO - 解析书源: 同人小说网 https://www.tongrenxsw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6077.json (ID: 6077)
+2026-02-18 10:21:31,854 - INFO - 解析书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6905.json (ID: 6905)
+2026-02-18 10:21:31,854 - INFO - 解析书源: 📪第一版主820 https://www.bz88888.net////## - https://www.yck2026.top/yuedu/shuyuan/json/id/6943.json (ID: 6943)
+2026-02-18 10:21:31,854 - INFO - 解析书源: 万能精品聚合 万能精品聚合 - https://www.yck2026.top/yuedu/shuyuan/json/id/6942.json (ID: 6942)
+2026-02-18 10:21:31,855 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6941.json (ID: 6941)
+2026-02-18 10:21:31,855 - INFO - 解析书源: 📪第一版主820 https://www.bz444444.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6940.json (ID: 6940)
+2026-02-18 10:21:31,856 - INFO - 解析书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 - https://www.yck2026.top/yuedu/shuyuan/json/id/6937.json (ID: 6937)
+2026-02-18 10:21:31,857 - INFO - 解析书源: 得奇小说网 https://www.deqixs.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6936.json (ID: 6936)
+2026-02-18 10:21:31,858 - INFO - 解析书源: 🔞完本小说网 https://www.finalbooks.work - https://www.yck2026.top/yuedu/shuyuan/json/id/6332.json (ID: 6332)
+2026-02-18 10:21:31,858 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6935.json (ID: 6935)
+2026-02-18 10:21:31,859 - INFO - 解析书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6746.json (ID: 6746)
+2026-02-18 10:21:31,860 - INFO - 解析书源: 哔哩哔哩 哔哩哔哩 - https://www.yck2026.top/yuedu/shuyuan/json/id/6807.json (ID: 6807)
+2026-02-18 10:21:31,861 - INFO - 解析书源: 东方小说网 https://m.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6934.json (ID: 6934)
+2026-02-18 10:21:31,862 - INFO - 解析书源: 漫小肆20251217 https://www.jjmh.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6933.json (ID: 6933)
+2026-02-18 10:21:31,863 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6932.json (ID: 6932)
+2026-02-18 10:21:31,864 - INFO - 解析书源: 梦想家文学 http://www.mxjtedu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6931.json (ID: 6931)
+2026-02-18 10:21:31,865 - INFO - 解析书源: 东方小说网 https://www.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6930.json (ID: 6930)
+2026-02-18 10:21:31,866 - INFO - 解析书源: 爱奇小说网 https://m.aqxsw.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6929.json (ID: 6929)
+2026-02-18 10:21:31,867 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6928.json (ID: 6928)
+2026-02-18 10:21:31,868 - INFO - 解析书源: 书豪小说网 https://www.shuhaoxs.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6927.json (ID: 6927)
+2026-02-18 10:21:31,869 - INFO - 解析书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6841.json (ID: 6841)
+2026-02-18 10:21:31,870 - INFO - 解析书源: 久久漫画 https://www.jjmhw.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6923.json (ID: 6923)
+2026-02-18 10:21:31,871 - INFO - 解析书源: 📚书山聚合 https://search.shusan.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6921.json (ID: 6921)
+2026-02-18 10:21:31,872 - INFO - 解析书源: 📖笔趣网 http://www.bqgu.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6918.json (ID: 6918)
+2026-02-18 10:21:31,873 - INFO - 解析书源: 龙头小说 http://m.ltxs.la/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6917.json (ID: 6917)
+2026-02-18 10:21:31,874 - INFO - 解析书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 - https://www.yck2026.top/yuedu/shuyuan/json/id/6907.json (ID: 6907)
+2026-02-18 10:21:31,875 - INFO - 解析书源: 速读谷伪 http://www.sudugu.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6906.json (ID: 6906)
+2026-02-18 10:21:31,876 - INFO - 解析书源: 🍅 番茄的缘 https://reading.snssdk.com#0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6904.json (ID: 6904)
+2026-02-18 10:21:31,876 - INFO - 解析书源: 闲看免费小说 http://nav.jijia-co.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6900.json (ID: 6900)
+2026-02-18 10:21:31,877 - INFO - 解析书源: 篱笆好文（优+++） https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6897.json (ID: 6897)
+2026-02-18 10:21:31,878 - INFO - 解析书源: 元小说 https://metanetnovel.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6896.json (ID: 6896)
+2026-02-18 10:21:31,879 - INFO - 解析书源: 篱笆好 https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6895.json (ID: 6895)
+2026-02-18 10:21:31,880 - INFO - 解析书源: 🍅番茄专业户 番茄和精品 - https://www.yck2026.top/yuedu/shuyuan/json/id/6892.json (ID: 6892)
+2026-02-18 10:21:31,881 - INFO - 解析书源: 📚豆瓣阅读 https://read.douban.com - https://www.yck2026.top/yuedu/shuyuan/json/id/4925.json (ID: 4925)
+2026-02-18 10:21:31,882 - INFO - 解析书源: 📥 奇书网 https://www.qishu99.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6891.json (ID: 6891)
+2026-02-18 10:21:31,882 - INFO - 解析书源: 苦读书 http://www.kudushu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6890.json (ID: 6890)
+2026-02-18 10:21:31,883 - INFO - 解析书源: 🎉 八零小说 http://www.80zw.la - https://www.yck2026.top/yuedu/shuyuan/json/id/6887.json (ID: 6887)
+2026-02-18 10:21:31,884 - INFO - 解析书源: 📥 爱去小说 https://www.aiqu999.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6886.json (ID: 6886)
+2026-02-18 10:21:31,885 - INFO - 解析书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6885.json (ID: 6885)
+2026-02-18 10:21:31,885 - INFO - 解析书源: 🍅团夕小说 https://novel.snssdk.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6884.json (ID: 6884)
+2026-02-18 10:21:31,886 - INFO - 解析书源: 🎨 177漫画🔥 http://www.177pic.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6883.json (ID: 6883)
+2026-02-18 10:21:31,887 - INFO - 解析书源: 八叉书库 https://bcshuku.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6882.json (ID: 6882)
+2026-02-18 10:21:31,888 - INFO - 解析书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6881.json (ID: 6881)
+2026-02-18 10:21:31,889 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6880.json (ID: 6880)
+2026-02-18 10:21:31,889 - INFO - 解析书源: 18r（免梯子） https://jiek.qiubai.icu/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6876.json (ID: 6876)
+2026-02-18 10:21:31,890 - INFO - 解析书源: 顶点小说ddxsmf https://www.ddxsmf.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6875.json (ID: 6875)
+2026-02-18 10:21:31,891 - INFO - 解析书源: 无插件 - 赛事直播 http://www.wuchajian.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6874.json (ID: 6874)
+2026-02-18 10:21:31,892 - INFO - 解析书源: 多平台精品源 多平台精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6857.json (ID: 6857)
+2026-02-18 10:21:31,893 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6844.json (ID: 6844)
+2026-02-18 10:21:31,894 - INFO - 解析书源: 汉书书 https://m.hanshubooks.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6842.json (ID: 6842)
+2026-02-18 10:21:31,895 - INFO - 解析书源: 美女图片网 https://m.ku1372.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6837.json (ID: 6837)
+2026-02-18 10:21:31,896 - INFO - 解析书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6112.json (ID: 6112)
+2026-02-18 10:21:31,896 - INFO - 解析书源: 茶马小说 [耽美] https://www.chamabooks.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6835.json (ID: 6835)
+2026-02-18 10:21:31,897 - INFO - 解析书源: 天命皆烬小说 https://www.genwohua.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6834.json (ID: 6834)
+2026-02-18 10:21:31,898 - INFO - 解析书源: 茶杯狐 https://www.cupfox7.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6832.json (ID: 6832)
+2026-02-18 10:21:31,899 - INFO - 解析书源: 万能精品源 精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6830.json (ID: 6830)
+2026-02-18 10:21:31,900 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6820.json (ID: 6820)
+2026-02-18 10:21:31,901 - INFO - 解析书源: CA 情色小说（修复） https://canovel.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6819.json (ID: 6819)
+2026-02-18 10:21:31,902 - INFO - 解析书源: 番茄四合一 http://103.189.141.163:9587 - https://www.yck2026.top/yuedu/shuyuan/json/id/6817.json (ID: 6817)
+2026-02-18 10:21:31,903 - INFO - 解析书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6816.json (ID: 6816)
+2026-02-18 10:21:31,903 - INFO - 解析书源: 书耽 https://app.shubl.com - https://www.yck2026.top/yuedu/shuyuan/json/id/5718.json (ID: 5718)
+2026-02-18 10:21:31,904 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6815.json (ID: 6815)
+2026-02-18 10:21:31,905 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6814.json (ID: 6814)
+2026-02-18 10:21:31,906 - INFO - 解析书源: 爱看书吧 https://m.aidushu8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6813.json (ID: 6813)
+2026-02-18 10:21:31,907 - INFO - 解析书源: 🌸Hitomi漫 https://hitomi.si/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6812.json (ID: 6812)
+2026-02-18 10:21:31,908 - INFO - 解析书源: 爱下电子书 https://ixdzs8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6810.json (ID: 6810)
+2026-02-18 10:21:31,909 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6809.json (ID: 6809)
+2026-02-18 10:21:31,910 - INFO - 解析书源: 笔趣阁 https://www.bqquge.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6808.json (ID: 6808)
+2026-02-18 10:21:31,910 - INFO - 解析书源: 🌸绅士漫画 https://www.wn06.ru/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6806.json (ID: 6806)
+2026-02-18 10:21:31,911 - INFO - 解析书源: 百草露小说 https://m.baicaolu.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6803.json (ID: 6803)
+2026-02-18 10:21:31,912 - INFO - 解析书源: 天天看小说🪜 https://ttks.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6792.json (ID: 6792)
+2026-02-18 10:21:31,913 - INFO - 解析书源: 必去读书库 http://m.biqugei.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6785.json (ID: 6785)
+2026-02-18 10:21:31,914 - INFO - 解析书源: 爱下电子书 https://ixdzs.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6783.json (ID: 6783)
+2026-02-18 10:21:31,915 - INFO - 解析书源: 夜读集小说 https://www.yeduji.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6782.json (ID: 6782)
+2026-02-18 10:21:31,915 - INFO - 解析书源: 看看影院 http://k9.9967.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6781.json (ID: 6781)
+2026-02-18 10:21:31,916 - INFO - 解析书源: ESJ Zone https://www.esjzone.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6779.json (ID: 6779)
+2026-02-18 10:21:31,917 - INFO - 解析书源: 🎨禁漫天堂 https://18comic.vip - https://www.yck2026.top/yuedu/shuyuan/json/id/6778.json (ID: 6778)
+2026-02-18 10:21:31,918 - INFO - 解析书源: 🌈笔趣中文网 http://www.bqgz.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6777.json (ID: 6777)
+2026-02-18 10:21:31,919 - INFO - 解析书源: 全能书源 全能书源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6776.json (ID: 6776)
+2026-02-18 10:21:31,920 - INFO - 解析书源: 365小说网 http://www.shukuge.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6775.json (ID: 6775)
+2026-02-18 10:21:31,921 - INFO - 解析书源: 小说520 https://www.xs520.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6774.json (ID: 6774)
+2026-02-18 10:21:31,922 - INFO - 解析书源: 🄼冰清阁小说 https://m.bqgcn.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6773.json (ID: 6773)
+2026-02-18 10:21:31,923 - INFO - 解析书源: 顶点小说 https://www.dingdian6.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6772.json (ID: 6772)
+2026-02-18 10:21:31,925 - INFO - 解析书源: 600小说网 http://www.600zz.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6771.json (ID: 6771)
+2026-02-18 10:21:31,926 - INFO - 解析书源: 九桃小说 https://k09.a506wge.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6763.json (ID: 6763)
+2026-02-18 10:21:31,926 - INFO - 解析书源: 番茄（发现） https://fanqienovel.com####嘿嘿 - https://www.yck2026.top/yuedu/shuyuan/json/id/6761.json (ID: 6761)
+2026-02-18 10:21:31,927 - INFO - 解析书源: ꂵ 30读书 https://www.30dushu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6760.json (ID: 6760)
+2026-02-18 10:21:31,928 - INFO - 解析书源: 🄼 八一 https://www.blxs.info/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6759.json (ID: 6759)
+2026-02-18 10:21:31,929 - INFO - 解析书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6758.json (ID: 6758)
+2026-02-18 10:21:31,930 - INFO - 解析书源: 奇书网 https://m.qishu99.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6757.json (ID: 6757)
+2026-02-18 10:21:31,931 - INFO - 解析书源: 云轩阁小说网 http://www.yunxuange.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6754.json (ID: 6754)
+2026-02-18 10:21:31,932 - INFO - 解析书源: kuronavi漫画raw https://kuronavi.blog - https://www.yck2026.top/yuedu/shuyuan/json/id/6753.json (ID: 6753)
+2026-02-18 10:21:31,933 - INFO - 解析书源: 旧钢笔 https://p.jiugangbi.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6752.json (ID: 6752)
+2026-02-18 10:21:31,933 - INFO - 成功解析 100 个书源
+2026-02-18 10:21:31,934 - INFO - 共找到 100 个书源
+2026-02-18 10:21:31,935 - INFO - 发现新书源: 📖Lofter 📖Lofter
+2026-02-18 10:21:31,936 - INFO - 发现新书源: 🏷晋江文学 https://m.jjwxc.net/channel/
+2026-02-18 10:21:31,937 - INFO - 发现新书源: 📖笔趣阁手机版 http://www.biqugem.cc
+2026-02-18 10:21:31,937 - INFO - 发现新书源: 🔞乐成漫画 https://www.lcmhx.asia
+2026-02-18 10:21:31,938 - INFO - 发现新书源: 乐乐 https://www.lcmhx.asia
+2026-02-18 10:21:31,939 - INFO - 发现新书源: VirtualTaboo直播 https://zh.virtualtaboo.live
+2026-02-18 10:21:31,940 - INFO - 发现新书源: 📪第一版主 https://www.bz33333333.com/
+2026-02-18 10:21:31,940 - INFO - 发现新书源: 同人小说网 https://www.tongrenxsw.com
+2026-02-18 10:21:31,941 - INFO - 发现新书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0
+2026-02-18 10:21:31,942 - INFO - 发现新书源: 📪第一版主820 https://www.bz88888.net////##
+2026-02-18 10:21:31,943 - INFO - 发现新书源: 万能精品聚合 万能精品聚合
+2026-02-18 10:21:31,944 - INFO - 发现新书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com
+2026-02-18 10:21:31,944 - INFO - 发现新书源: 📪第一版主820 https://www.bz444444.net
+2026-02-18 10:21:31,945 - INFO - 发现新书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选
+2026-02-18 10:21:31,946 - INFO - 发现新书源: 得奇小说网 https://www.deqixs.co
+2026-02-18 10:21:31,947 - INFO - 发现新书源: 🔞完本小说网 https://www.finalbooks.work
+2026-02-18 10:21:31,947 - INFO - 发现新书源: 速读谷 https://www.sudugu.org/
+2026-02-18 10:21:31,948 - INFO - 发现新书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0
+2026-02-18 10:21:31,949 - INFO - 发现新书源: 哔哩哔哩 哔哩哔哩
+2026-02-18 10:21:31,950 - INFO - 发现新书源: 东方小说网 https://m.cndfzw.com
+2026-02-18 10:21:31,951 - INFO - 发现新书源: 漫小肆20251217 https://www.jjmh.top/
+2026-02-18 10:21:31,951 - INFO - 发现新书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu
+2026-02-18 10:21:31,952 - INFO - 发现新书源: 梦想家文学 http://www.mxjtedu.com/
+2026-02-18 10:21:31,952 - INFO - 发现新书源: 东方小说网 https://www.cndfzw.com
+2026-02-18 10:21:31,953 - INFO - 发现新书源: 爱奇小说网 https://m.aqxsw.com/
+2026-02-18 10:21:31,954 - INFO - 发现新书源: 速读谷 https://www.sudugu.org/
+2026-02-18 10:21:31,954 - INFO - 发现新书源: 书豪小说网 https://www.shuhaoxs.com
+2026-02-18 10:21:31,955 - INFO - 发现新书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0
+2026-02-18 10:21:31,956 - INFO - 发现新书源: 久久漫画 https://www.jjmhw.cc
+2026-02-18 10:21:31,956 - INFO - 发现新书源: 📚书山聚合 https://search.shusan.icu
+2026-02-18 10:21:31,957 - INFO - 发现新书源: 📖笔趣网 http://www.bqgu.cc
+2026-02-18 10:21:31,958 - INFO - 发现新书源: 龙头小说 http://m.ltxs.la/
+2026-02-18 10:21:31,959 - INFO - 发现新书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠
+2026-02-18 10:21:31,959 - INFO - 发现新书源: 速读谷伪 http://www.sudugu.co
+2026-02-18 10:21:31,960 - INFO - 发现新书源: 🍅 番茄的缘 https://reading.snssdk.com#0
+2026-02-18 10:21:31,960 - INFO - 发现新书源: 闲看免费小说 http://nav.jijia-co.com
+2026-02-18 10:21:31,960 - INFO - 发现新书源: 篱笆好文（优+++） https://m.libahao.com
+2026-02-18 10:21:31,960 - INFO - 发现新书源: 元小说 https://metanetnovel.com/
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 篱笆好 https://m.libahao.com
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 🍅番茄专业户 番茄和精品
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 📚豆瓣阅读 https://read.douban.com
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 📥 奇书网 https://www.qishu99.cc
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 苦读书 http://www.kudushu.org
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 🎉 八零小说 http://www.80zw.la
+2026-02-18 10:21:31,961 - INFO - 发现新书源: 📥 爱去小说 https://www.aiqu999.com
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 🍅团夕小说 https://novel.snssdk.com
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 🎨 177漫画🔥 http://www.177pic.info
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 八叉书库 https://bcshuku.com/
+2026-02-18 10:21:31,962 - INFO - 发现新书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 速读谷 https://www.sudugu.org
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 18r（免梯子） https://jiek.qiubai.icu/
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 顶点小说ddxsmf https://www.ddxsmf.com
+2026-02-18 10:21:31,962 - INFO - 发现新书源: 无插件 - 赛事直播 http://www.wuchajian.xyz
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 多平台精品源 多平台精品源
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 速读谷 https://www.sudugu.org
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 汉书书 https://m.hanshubooks.com/
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 美女图片网 https://m.ku1372.cc
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 茶马小说 [耽美] https://www.chamabooks.net
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 天命皆烬小说 https://www.genwohua.com
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 茶杯狐 https://www.cupfox7.com/
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 万能精品源 精品源
+2026-02-18 10:21:31,963 - INFO - 发现新书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz
+2026-02-18 10:21:31,963 - INFO - 发现新书源: CA 情色小说（修复） https://canovel.com
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 番茄四合一 http://103.189.141.163:9587
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 书耽 https://app.shubl.com
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 八叉书库 https://www.8xsk.info
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 爱看书吧 https://m.aidushu8.com
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 🌸Hitomi漫 https://hitomi.si/
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 爱下电子书 https://ixdzs8.com
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 八叉书库 https://www.8xsk.info
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 笔趣阁 https://www.bqquge.com
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 🌸绅士漫画 https://www.wn06.ru/
+2026-02-18 10:21:31,964 - INFO - 发现新书源: 百草露小说 https://m.baicaolu.com
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 天天看小说🪜 https://ttks.tw/
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 必去读书库 http://m.biqugei.org
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 爱下电子书 https://ixdzs.tw/
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 夜读集小说 https://www.yeduji.com
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 看看影院 http://k9.9967.top/
+2026-02-18 10:21:31,965 - INFO - 发现新书源: ESJ Zone https://www.esjzone.cc
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 🎨禁漫天堂 https://18comic.vip
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 🌈笔趣中文网 http://www.bqgz.cc
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 全能书源 全能书源
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 365小说网 http://www.shukuge.com/
+2026-02-18 10:21:31,965 - INFO - 发现新书源: 小说520 https://www.xs520.com/
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 🄼冰清阁小说 https://m.bqgcn.com/
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 顶点小说 https://www.dingdian6.com
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 600小说网 http://www.600zz.com
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 九桃小说 https://k09.a506wge.cc
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 番茄（发现） https://fanqienovel.com####嘿嘿
+2026-02-18 10:21:31,966 - INFO - 发现新书源: ꂵ 30读书 https://www.30dushu.com/
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 🄼 八一 https://www.blxs.info/
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 奇书网 https://m.qishu99.cc/
+2026-02-18 10:21:31,966 - INFO - 发现新书源: 云轩阁小说网 http://www.yunxuange.cc/
+2026-02-18 10:21:31,967 - INFO - 发现新书源: kuronavi漫画raw https://kuronavi.blog
+2026-02-18 10:21:31,967 - INFO - 发现新书源: 旧钢笔 https://p.jiugangbi.com
+2026-02-18 10:21:31,969 - INFO - 更新检测数据已保存
+2026-02-18 10:21:31,969 - INFO - 分类 书源 发现 100 个新书源
+2026-02-18 10:21:32,792 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:32,795 - INFO - 书源已保存: assets/book_source_database/book_sources/6873_📖Lofter 📖Lofter_20260218_102132.json
+2026-02-18 10:21:32,797 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6873_📖Lofter_书源_20260218_102132.md
+2026-02-18 10:21:32,799 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:32,799 - INFO - 成功学习书源: 📖Lofter (ID: 6873)
+2026-02-18 10:21:32,799 - INFO - ✓ 书源已学习到知识库: 📖Lofter 📖Lofter (ID: 6873)
+2026-02-18 10:21:32,800 - INFO - 元数据已保存
+2026-02-18 10:21:34,342 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:34,346 - INFO - 书源已保存: assets/book_source_database/book_sources/1751_🏷晋江文学 https---m.jjwxc.net-channel-_20260218_102134.json
+2026-02-18 10:21:34,351 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/1751_🏷晋江文学_书源_20260218_102134.md
+2026-02-18 10:21:34,353 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:34,354 - INFO - 成功学习书源: 🏷晋江文学 (ID: 1751)
+2026-02-18 10:21:34,355 - INFO - ✓ 书源已学习到知识库: 🏷晋江文学 https://m.jjwxc.net/channel/ (ID: 1751)
+2026-02-18 10:21:34,356 - INFO - 元数据已保存
+2026-02-18 10:21:35,544 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:35,545 - INFO - 书源已保存: assets/book_source_database/book_sources/6965_📖笔趣阁手机版 http---www.biqugem.cc_20260218_102135.json
+2026-02-18 10:21:35,546 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6965_📖笔趣阁手机版_书源_20260218_102135.md
+2026-02-18 10:21:35,547 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:35,547 - INFO - 成功学习书源: 📖笔趣阁手机版 (ID: 6965)
+2026-02-18 10:21:35,547 - INFO - ✓ 书源已学习到知识库: 📖笔趣阁手机版 http://www.biqugem.cc (ID: 6965)
+2026-02-18 10:21:35,548 - INFO - 元数据已保存
+2026-02-18 10:21:36,768 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:36,769 - INFO - 书源已保存: assets/book_source_database/book_sources/6949_🔞乐成漫画 https---www.lcmhx.asia_20260218_102136.json
+2026-02-18 10:21:36,770 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6949_🔞乐成漫画_书源_20260218_102136.md
+2026-02-18 10:21:36,772 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:36,772 - INFO - 成功学习书源: 🔞乐成漫画 (ID: 6949)
+2026-02-18 10:21:36,772 - INFO - ✓ 书源已学习到知识库: 🔞乐成漫画 https://www.lcmhx.asia (ID: 6949)
+2026-02-18 10:21:36,773 - INFO - 元数据已保存
+2026-02-18 10:21:38,001 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:38,002 - INFO - 书源已保存: assets/book_source_database/book_sources/6948_乐乐 https---www.lcmhx.asia_20260218_102138.json
+2026-02-18 10:21:38,003 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6948_乐乐_书源_20260218_102138.md
+2026-02-18 10:21:38,004 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:38,005 - INFO - 成功学习书源: 乐乐 (ID: 6948)
+2026-02-18 10:21:38,005 - INFO - ✓ 书源已学习到知识库: 乐乐 https://www.lcmhx.asia (ID: 6948)
+2026-02-18 10:21:38,005 - INFO - 元数据已保存
+2026-02-18 10:21:39,207 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:39,208 - INFO - 书源已保存: assets/book_source_database/book_sources/6947_VirtualTaboo直播 https---zh.virtualtaboo.live_20260218_102139.json
+2026-02-18 10:21:39,209 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:21:39,209 - WARNING - ✗ 书源学习失败: VirtualTaboo直播 https://zh.virtualtaboo.live (ID: 6947)
+2026-02-18 10:21:39,210 - INFO - 元数据已保存
+2026-02-18 10:21:40,417 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:40,420 - INFO - 书源已保存: assets/book_source_database/book_sources/6946_📪第一版主 https---www.bz33333333.com-_20260218_102140.json
+2026-02-18 10:21:40,421 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6946_📪第一版主_书源_20260218_102140.md
+2026-02-18 10:21:40,422 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:40,423 - INFO - 成功学习书源: 📪第一版主 (ID: 6946)
+2026-02-18 10:21:40,423 - INFO - ✓ 书源已学习到知识库: 📪第一版主 https://www.bz33333333.com/ (ID: 6946)
+2026-02-18 10:21:40,424 - INFO - 元数据已保存
+2026-02-18 10:21:41,783 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:41,785 - INFO - 书源已保存: assets/book_source_database/book_sources/6077_同人小说网 https---www.tongrenxsw.com_20260218_102141.json
+2026-02-18 10:21:41,786 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6077_同人小说网_书源_20260218_102141.md
+2026-02-18 10:21:41,787 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:41,787 - INFO - 成功学习书源: 同人小说网 (ID: 6077)
+2026-02-18 10:21:41,788 - INFO - ✓ 书源已学习到知识库: 同人小说网 https://www.tongrenxsw.com (ID: 6077)
+2026-02-18 10:21:41,788 - INFO - 元数据已保存
+2026-02-18 10:21:43,035 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:43,039 - INFO - 书源已保存: assets/book_source_database/book_sources/6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0_20260218_102143.json
+2026-02-18 10:21:43,042 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源)_书源_20260218_102143.md
+2026-02-18 10:21:43,043 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:43,044 - INFO - 成功学习书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) (ID: 6905)
+2026-02-18 10:21:43,044 - INFO - ✓ 书源已学习到知识库: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 (ID: 6905)
+2026-02-18 10:21:43,045 - INFO - 元数据已保存
+2026-02-18 10:21:44,248 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:44,250 - INFO - 书源已保存: assets/book_source_database/book_sources/6943_📪第一版主820 https---www.bz88888.net----##_20260218_102144.json
+2026-02-18 10:21:44,252 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6943_📪第一版主820_书源_20260218_102144.md
+2026-02-18 10:21:44,253 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:44,253 - INFO - 成功学习书源: 📪第一版主820 (ID: 6943)
+2026-02-18 10:21:44,253 - INFO - ✓ 书源已学习到知识库: 📪第一版主820 https://www.bz88888.net////## (ID: 6943)
+2026-02-18 10:21:44,254 - INFO - 元数据已保存
+2026-02-18 10:21:46,506 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:46,511 - INFO - 书源已保存: assets/book_source_database/book_sources/6942_万能精品聚合 万能精品聚合_20260218_102146.json
+2026-02-18 10:21:46,517 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6942_万能精品聚合_书源_20260218_102146.md
+2026-02-18 10:21:46,520 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:46,520 - INFO - 成功学习书源: 万能精品聚合 (ID: 6942)
+2026-02-18 10:21:46,521 - INFO - ✓ 书源已学习到知识库: 万能精品聚合 万能精品聚合 (ID: 6942)
+2026-02-18 10:21:46,523 - INFO - 元数据已保存
+2026-02-18 10:21:48,642 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:48,644 - INFO - 书源已保存: assets/book_source_database/book_sources/6941_🍓番茄免费小说-[春节限定版] https---xingmian.cmcure.com_20260218_102148.json
+2026-02-18 10:21:48,645 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6941_🍓番茄免费小说-[春节限定版]_书源_20260218_102148.md
+2026-02-18 10:21:48,646 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:48,647 - INFO - 成功学习书源: 🍓番茄免费小说-[春节限定版] (ID: 6941)
+2026-02-18 10:21:48,647 - INFO - ✓ 书源已学习到知识库: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com (ID: 6941)
+2026-02-18 10:21:48,648 - INFO - 元数据已保存
+2026-02-18 10:21:49,881 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:49,883 - INFO - 书源已保存: assets/book_source_database/book_sources/6940_📪第一版主820 https---www.bz444444.net_20260218_102149.json
+2026-02-18 10:21:49,885 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6940_📪第一版主820_书源_20260218_102149.md
+2026-02-18 10:21:49,886 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:49,886 - INFO - 成功学习书源: 📪第一版主820 (ID: 6940)
+2026-02-18 10:21:49,887 - INFO - ✓ 书源已学习到知识库: 📪第一版主820 https://www.bz444444.net (ID: 6940)
+2026-02-18 10:21:49,888 - INFO - 元数据已保存
+2026-02-18 10:21:51,113 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:51,115 - INFO - 书源已保存: assets/book_source_database/book_sources/6937_🎆起点中文网(按钮筛选) https---m.qidian.com#按钮筛选_20260218_102151.json
+2026-02-18 10:21:51,117 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6937_🎆起点中文网(按钮筛选)_书源_20260218_102151.md
+2026-02-18 10:21:51,118 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:51,118 - INFO - 成功学习书源: 🎆起点中文网(按钮筛选) (ID: 6937)
+2026-02-18 10:21:51,118 - INFO - ✓ 书源已学习到知识库: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 (ID: 6937)
+2026-02-18 10:21:51,119 - INFO - 元数据已保存
+2026-02-18 10:21:52,346 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:52,348 - INFO - 书源已保存: assets/book_source_database/book_sources/6936_得奇小说网 https---www.deqixs.co_20260218_102152.json
+2026-02-18 10:21:52,350 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6936_得奇小说网_书源_20260218_102152.md
+2026-02-18 10:21:52,351 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:52,351 - INFO - 成功学习书源: 得奇小说网 (ID: 6936)
+2026-02-18 10:21:52,352 - INFO - ✓ 书源已学习到知识库: 得奇小说网 https://www.deqixs.co (ID: 6936)
+2026-02-18 10:21:52,353 - INFO - 元数据已保存
+2026-02-18 10:21:53,579 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:53,580 - INFO - 书源已保存: assets/book_source_database/book_sources/6332_🔞完本小说网 https---www.finalbooks.work_20260218_102153.json
+2026-02-18 10:21:53,581 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6332_🔞完本小说网_书源_20260218_102153.md
+2026-02-18 10:21:53,583 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:53,583 - INFO - 成功学习书源: 🔞完本小说网 (ID: 6332)
+2026-02-18 10:21:53,583 - INFO - ✓ 书源已学习到知识库: 🔞完本小说网 https://www.finalbooks.work (ID: 6332)
+2026-02-18 10:21:53,585 - INFO - 元数据已保存
+2026-02-18 10:21:54,860 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:54,862 - INFO - 书源已保存: assets/book_source_database/book_sources/6935_速读谷 https---www.sudugu.org-_20260218_102154.json
+2026-02-18 10:21:54,863 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6935_速读谷_书源_20260218_102154.md
+2026-02-18 10:21:54,864 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:54,865 - INFO - 成功学习书源: 速读谷 (ID: 6935)
+2026-02-18 10:21:54,865 - INFO - ✓ 书源已学习到知识库: 速读谷 https://www.sudugu.org/ (ID: 6935)
+2026-02-18 10:21:54,866 - INFO - 元数据已保存
+2026-02-18 10:21:56,627 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:21:56,632 - INFO - 书源已保存: assets/book_source_database/book_sources/6746_🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0_20260218_102156.json
+2026-02-18 10:21:56,635 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6746_🌞A晴天聚合5.2.03(终极版)_书源_20260218_102156.md
+2026-02-18 10:21:56,637 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:21:56,637 - INFO - 成功学习书源: 🌞A晴天聚合5.2.03(终极版) (ID: 6746)
+2026-02-18 10:21:56,638 - INFO - ✓ 书源已学习到知识库: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 (ID: 6746)
+2026-02-18 10:21:56,640 - INFO - 元数据已保存
+2026-02-18 10:22:01,023 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:01,029 - INFO - 书源已保存: assets/book_source_database/book_sources/6807_哔哩哔哩 哔哩哔哩_20260218_102201.json
+2026-02-18 10:22:01,034 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6807_哔哩哔哩_书源_20260218_102201.md
+2026-02-18 10:22:01,036 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:01,036 - INFO - 成功学习书源: 哔哩哔哩 (ID: 6807)
+2026-02-18 10:22:01,037 - INFO - ✓ 书源已学习到知识库: 哔哩哔哩 哔哩哔哩 (ID: 6807)
+2026-02-18 10:22:01,039 - INFO - 元数据已保存
+2026-02-18 10:22:03,531 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:03,532 - INFO - 书源已保存: assets/book_source_database/book_sources/6934_东方小说网 https---m.cndfzw.com_20260218_102203.json
+2026-02-18 10:22:03,533 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6934_东方小说网_书源_20260218_102203.md
+2026-02-18 10:22:03,534 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:03,534 - INFO - 成功学习书源: 东方小说网 (ID: 6934)
+2026-02-18 10:22:03,534 - INFO - ✓ 书源已学习到知识库: 东方小说网 https://m.cndfzw.com (ID: 6934)
+2026-02-18 10:22:03,535 - INFO - 元数据已保存
+2026-02-18 10:22:07,297 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:07,298 - INFO - 书源已保存: assets/book_source_database/book_sources/6933_漫小肆20251217 https---www.jjmh.top-_20260218_102207.json
+2026-02-18 10:22:07,299 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6933_漫小肆20251217_书源_20260218_102207.md
+2026-02-18 10:22:07,300 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:07,300 - INFO - 成功学习书源: 漫小肆20251217 (ID: 6933)
+2026-02-18 10:22:07,300 - INFO - ✓ 书源已学习到知识库: 漫小肆20251217 https://www.jjmh.top/ (ID: 6933)
+2026-02-18 10:22:07,301 - INFO - 元数据已保存
+2026-02-18 10:22:09,014 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:09,016 - INFO - 书源已保存: assets/book_source_database/book_sources/6932_🍓番茄免费小说-[春节限定版] http---rose.novel.lzink.icu_20260218_102209.json
+2026-02-18 10:22:09,018 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6932_🍓番茄免费小说-[春节限定版]_书源_20260218_102209.md
+2026-02-18 10:22:09,019 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:09,020 - INFO - 成功学习书源: 🍓番茄免费小说-[春节限定版] (ID: 6932)
+2026-02-18 10:22:09,020 - INFO - ✓ 书源已学习到知识库: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu (ID: 6932)
+2026-02-18 10:22:09,021 - INFO - 元数据已保存
+2026-02-18 10:22:10,222 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:10,224 - INFO - 书源已保存: assets/book_source_database/book_sources/6931_梦想家文学 http---www.mxjtedu.com-_20260218_102210.json
+2026-02-18 10:22:10,225 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6931_梦想家文学_书源_20260218_102210.md
+2026-02-18 10:22:10,226 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:10,226 - INFO - 成功学习书源: 梦想家文学 (ID: 6931)
+2026-02-18 10:22:10,227 - INFO - ✓ 书源已学习到知识库: 梦想家文学 http://www.mxjtedu.com/ (ID: 6931)
+2026-02-18 10:22:10,227 - INFO - 元数据已保存
+2026-02-18 10:22:11,422 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:11,423 - INFO - 书源已保存: assets/book_source_database/book_sources/6930_东方小说网 https---www.cndfzw.com_20260218_102211.json
+2026-02-18 10:22:11,424 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6930_东方小说网_书源_20260218_102211.md
+2026-02-18 10:22:11,425 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:11,426 - INFO - 成功学习书源: 东方小说网 (ID: 6930)
+2026-02-18 10:22:11,426 - INFO - ✓ 书源已学习到知识库: 东方小说网 https://www.cndfzw.com (ID: 6930)
+2026-02-18 10:22:11,427 - INFO - 元数据已保存
+2026-02-18 10:22:12,730 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:12,732 - INFO - 书源已保存: assets/book_source_database/book_sources/6929_爱奇小说网 https---m.aqxsw.com-_20260218_102212.json
+2026-02-18 10:22:12,732 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:22:12,733 - WARNING - ✗ 书源学习失败: 爱奇小说网 https://m.aqxsw.com/ (ID: 6929)
+2026-02-18 10:22:12,734 - INFO - 元数据已保存
+2026-02-18 10:22:13,939 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:13,940 - INFO - 书源已保存: assets/book_source_database/book_sources/6928_速读谷 https---www.sudugu.org-_20260218_102213.json
+2026-02-18 10:22:13,941 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6928_速读谷_书源_20260218_102213.md
+2026-02-18 10:22:13,943 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:13,943 - INFO - 成功学习书源: 速读谷 (ID: 6928)
+2026-02-18 10:22:13,943 - INFO - ✓ 书源已学习到知识库: 速读谷 https://www.sudugu.org/ (ID: 6928)
+2026-02-18 10:22:13,944 - INFO - 元数据已保存
+2026-02-18 10:22:15,181 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:15,183 - INFO - 书源已保存: assets/book_source_database/book_sources/6927_书豪小说网 https---www.shuhaoxs.com_20260218_102215.json
+2026-02-18 10:22:15,184 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6927_书豪小说网_书源_20260218_102215.md
+2026-02-18 10:22:15,185 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:15,185 - INFO - 成功学习书源: 书豪小说网 (ID: 6927)
+2026-02-18 10:22:15,186 - INFO - ✓ 书源已学习到知识库: 书豪小说网 https://www.shuhaoxs.com (ID: 6927)
+2026-02-18 10:22:15,186 - INFO - 元数据已保存
+2026-02-18 10:22:16,478 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:16,483 - INFO - 书源已保存: assets/book_source_database/book_sources/6841_🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0_20260218_102216.json
+2026-02-18 10:22:16,485 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6841_🍅大灰狼聚合5.2.2(完全版)_书源_20260218_102216.md
+2026-02-18 10:22:16,487 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:16,487 - INFO - 成功学习书源: 🍅大灰狼聚合5.2.2(完全版) (ID: 6841)
+2026-02-18 10:22:16,487 - INFO - ✓ 书源已学习到知识库: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 (ID: 6841)
+2026-02-18 10:22:16,488 - INFO - 元数据已保存
+2026-02-18 10:22:17,724 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:17,728 - INFO - 书源已保存: assets/book_source_database/book_sources/6923_久久漫画 https---www.jjmhw.cc_20260218_102217.json
+2026-02-18 10:22:17,732 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6923_久久漫画_书源_20260218_102217.md
+2026-02-18 10:22:17,734 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:17,735 - INFO - 成功学习书源: 久久漫画 (ID: 6923)
+2026-02-18 10:22:17,735 - INFO - ✓ 书源已学习到知识库: 久久漫画 https://www.jjmhw.cc (ID: 6923)
+2026-02-18 10:22:17,737 - INFO - 元数据已保存
+2026-02-18 10:22:19,029 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:19,039 - INFO - 书源已保存: assets/book_source_database/book_sources/6921_📚书山聚合 https---search.shusan.icu_20260218_102219.json
+2026-02-18 10:22:19,052 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6921_📚书山聚合_书源_20260218_102219.md
+2026-02-18 10:22:19,055 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:19,056 - INFO - 成功学习书源: 📚书山聚合 (ID: 6921)
+2026-02-18 10:22:19,057 - INFO - ✓ 书源已学习到知识库: 📚书山聚合 https://search.shusan.icu (ID: 6921)
+2026-02-18 10:22:19,060 - INFO - 元数据已保存
+2026-02-18 10:22:20,263 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:20,264 - INFO - 书源已保存: assets/book_source_database/book_sources/6918_📖笔趣网 http---www.bqgu.cc_20260218_102220.json
+2026-02-18 10:22:20,265 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6918_📖笔趣网_书源_20260218_102220.md
+2026-02-18 10:22:20,266 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:20,267 - INFO - 成功学习书源: 📖笔趣网 (ID: 6918)
+2026-02-18 10:22:20,267 - INFO - ✓ 书源已学习到知识库: 📖笔趣网 http://www.bqgu.cc (ID: 6918)
+2026-02-18 10:22:20,268 - INFO - 元数据已保存
+2026-02-18 10:22:21,470 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:21,472 - INFO - 书源已保存: assets/book_source_database/book_sources/6917_龙头小说 http---m.ltxs.la-_20260218_102221.json
+2026-02-18 10:22:21,472 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6917_龙头小说_书源_20260218_102221.md
+2026-02-18 10:22:21,473 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:21,474 - INFO - 成功学习书源: 龙头小说 (ID: 6917)
+2026-02-18 10:22:21,474 - INFO - ✓ 书源已学习到知识库: 龙头小说 http://m.ltxs.la/ (ID: 6917)
+2026-02-18 10:22:21,475 - INFO - 元数据已保存
+2026-02-18 10:22:22,684 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:22,688 - INFO - 书源已保存: assets/book_source_database/book_sources/6907_💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠_20260218_102222.json
+2026-02-18 10:22:22,690 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6907_💫悦恋免费小说 - [☆星眠☆]_书源_20260218_102222.md
+2026-02-18 10:22:22,692 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:22,692 - INFO - 成功学习书源: 💫悦恋免费小说 - [☆星眠☆] (ID: 6907)
+2026-02-18 10:22:22,692 - INFO - ✓ 书源已学习到知识库: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 (ID: 6907)
+2026-02-18 10:22:22,694 - INFO - 元数据已保存
+2026-02-18 10:22:23,903 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:23,904 - INFO - 书源已保存: assets/book_source_database/book_sources/6906_速读谷伪 http---www.sudugu.co_20260218_102223.json
+2026-02-18 10:22:23,905 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6906_速读谷伪_书源_20260218_102223.md
+2026-02-18 10:22:23,907 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:23,907 - INFO - 成功学习书源: 速读谷伪 (ID: 6906)
+2026-02-18 10:22:23,907 - INFO - ✓ 书源已学习到知识库: 速读谷伪 http://www.sudugu.co (ID: 6906)
+2026-02-18 10:22:23,908 - INFO - 元数据已保存
+2026-02-18 10:22:25,135 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:25,139 - INFO - 书源已保存: assets/book_source_database/book_sources/6904_🍅 番茄的缘 https---reading.snssdk.com#0_20260218_102225.json
+2026-02-18 10:22:25,141 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6904_🍅 番茄的缘_书源_20260218_102225.md
+2026-02-18 10:22:25,143 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:25,143 - INFO - 成功学习书源: 🍅 番茄的缘 (ID: 6904)
+2026-02-18 10:22:25,143 - INFO - ✓ 书源已学习到知识库: 🍅 番茄的缘 https://reading.snssdk.com#0 (ID: 6904)
+2026-02-18 10:22:25,145 - INFO - 元数据已保存
+2026-02-18 10:22:26,368 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:26,370 - INFO - 书源已保存: assets/book_source_database/book_sources/6900_闲看免费小说 http---nav.jijia-co.com_20260218_102226.json
+2026-02-18 10:22:26,371 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6900_闲看免费小说_书源_20260218_102226.md
+2026-02-18 10:22:26,372 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:26,372 - INFO - 成功学习书源: 闲看免费小说 (ID: 6900)
+2026-02-18 10:22:26,373 - INFO - ✓ 书源已学习到知识库: 闲看免费小说 http://nav.jijia-co.com (ID: 6900)
+2026-02-18 10:22:26,374 - INFO - 元数据已保存
+2026-02-18 10:22:27,592 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:27,593 - INFO - 书源已保存: assets/book_source_database/book_sources/6897_篱笆好文（优+++） https---m.libahao.com_20260218_102227.json
+2026-02-18 10:22:27,594 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6897_篱笆好文（优+++）_书源_20260218_102227.md
+2026-02-18 10:22:27,595 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:27,595 - INFO - 成功学习书源: 篱笆好文（优+++） (ID: 6897)
+2026-02-18 10:22:27,596 - INFO - ✓ 书源已学习到知识库: 篱笆好文（优+++） https://m.libahao.com (ID: 6897)
+2026-02-18 10:22:27,597 - INFO - 元数据已保存
+2026-02-18 10:22:28,809 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:28,810 - INFO - 书源已保存: assets/book_source_database/book_sources/6896_元小说 https---metanetnovel.com-_20260218_102228.json
+2026-02-18 10:22:28,811 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6896_元小说_书源_20260218_102228.md
+2026-02-18 10:22:28,812 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:28,812 - INFO - 成功学习书源: 元小说 (ID: 6896)
+2026-02-18 10:22:28,813 - INFO - ✓ 书源已学习到知识库: 元小说 https://metanetnovel.com/ (ID: 6896)
+2026-02-18 10:22:28,814 - INFO - 元数据已保存
+2026-02-18 10:22:30,042 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:22:30,043 - INFO - 书源已保存: assets/book_source_database/book_sources/6895_篱笆好 https---m.libahao.com_20260218_102230.json
+2026-02-18 10:22:30,044 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6895_篱笆好_书源_20260218_102230.md
+2026-02-18 10:22:30,045 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:22:30,045 - INFO - 成功学习书源: 篱笆好 (ID: 6895)
+2026-02-18 10:22:30,045 - INFO - ✓ 书源已学习到知识库: 篱笆好 https://m.libahao.com (ID: 6895)
+2026-02-18 10:22:30,046 - INFO - 元数据已保存
+2026-02-18 10:33:48,189 - INFO - ==================================================
+2026-02-18 10:33:48,190 - INFO - Legado订阅源爬虫启动
+2026-02-18 10:33:48,190 - INFO - ==================================================
+2026-02-18 10:33:48,192 - INFO - 确保目录存在: assets/book_source_database
+2026-02-18 10:33:48,192 - INFO - 确保目录存在: assets/book_source_reference
+2026-02-18 10:33:48,193 - INFO - 确保目录存在: assets/book_source_database/book_sources
+2026-02-18 10:33:48,194 - INFO - 确保目录存在: assets/book_source_database/book_source_collections
+2026-02-18 10:33:48,194 - INFO - 确保目录存在: assets/book_source_database/rss_sources
+2026-02-18 10:33:48,195 - INFO - 确保目录存在: assets/book_source_database/rss_source_collections
+2026-02-18 10:33:48,195 - INFO - 确保目录存在: assets/book_source_reference/book_count_refs
+2026-02-18 10:33:48,196 - INFO - 确保目录存在: assets/book_source_reference/other_refs
+2026-02-18 10:33:48,197 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:33:48,197 - INFO - 参考学习模块已启用
+2026-02-18 10:33:48,197 - INFO - 只爬取分类: 书源
+2026-02-18 10:33:48,197 - INFO - 开始爬取分类: 书源
+2026-02-18 10:33:48,592 - INFO - 找到 124 个链接
+2026-02-18 10:33:48,593 - INFO - 解析书源: 📖Lofter 📖Lofter - https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json (ID: 6873)
+2026-02-18 10:33:48,593 - INFO - 解析书源: 🏷晋江文学 https://m.jjwxc.net/channel/ - https://www.yck2026.top/yuedu/shuyuan/json/id/1751.json (ID: 1751)
+2026-02-18 10:33:48,594 - INFO - 解析书源: 📖笔趣阁手机版 http://www.biqugem.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6965.json (ID: 6965)
+2026-02-18 10:33:48,594 - INFO - 解析书源: 🔞乐成漫画 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6949.json (ID: 6949)
+2026-02-18 10:33:48,594 - INFO - 解析书源: 乐乐 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6948.json (ID: 6948)
+2026-02-18 10:33:48,595 - INFO - 解析书源: VirtualTaboo直播 https://zh.virtualtaboo.live - https://www.yck2026.top/yuedu/shuyuan/json/id/6947.json (ID: 6947)
+2026-02-18 10:33:48,595 - INFO - 解析书源: 📪第一版主 https://www.bz33333333.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6946.json (ID: 6946)
+2026-02-18 10:33:48,595 - INFO - 解析书源: 同人小说网 https://www.tongrenxsw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6077.json (ID: 6077)
+2026-02-18 10:33:48,596 - INFO - 解析书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6905.json (ID: 6905)
+2026-02-18 10:33:48,596 - INFO - 解析书源: 📪第一版主820 https://www.bz88888.net////## - https://www.yck2026.top/yuedu/shuyuan/json/id/6943.json (ID: 6943)
+2026-02-18 10:33:48,596 - INFO - 解析书源: 万能精品聚合 万能精品聚合 - https://www.yck2026.top/yuedu/shuyuan/json/id/6942.json (ID: 6942)
+2026-02-18 10:33:48,597 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6941.json (ID: 6941)
+2026-02-18 10:33:48,597 - INFO - 解析书源: 📪第一版主820 https://www.bz444444.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6940.json (ID: 6940)
+2026-02-18 10:33:48,597 - INFO - 解析书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 - https://www.yck2026.top/yuedu/shuyuan/json/id/6937.json (ID: 6937)
+2026-02-18 10:33:48,598 - INFO - 解析书源: 得奇小说网 https://www.deqixs.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6936.json (ID: 6936)
+2026-02-18 10:33:48,598 - INFO - 解析书源: 🔞完本小说网 https://www.finalbooks.work - https://www.yck2026.top/yuedu/shuyuan/json/id/6332.json (ID: 6332)
+2026-02-18 10:33:48,598 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6935.json (ID: 6935)
+2026-02-18 10:33:48,599 - INFO - 解析书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6746.json (ID: 6746)
+2026-02-18 10:33:48,600 - INFO - 解析书源: 哔哩哔哩 哔哩哔哩 - https://www.yck2026.top/yuedu/shuyuan/json/id/6807.json (ID: 6807)
+2026-02-18 10:33:48,601 - INFO - 解析书源: 东方小说网 https://m.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6934.json (ID: 6934)
+2026-02-18 10:33:48,601 - INFO - 解析书源: 漫小肆20251217 https://www.jjmh.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6933.json (ID: 6933)
+2026-02-18 10:33:48,602 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6932.json (ID: 6932)
+2026-02-18 10:33:48,602 - INFO - 解析书源: 梦想家文学 http://www.mxjtedu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6931.json (ID: 6931)
+2026-02-18 10:33:48,602 - INFO - 解析书源: 东方小说网 https://www.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6930.json (ID: 6930)
+2026-02-18 10:33:48,603 - INFO - 解析书源: 爱奇小说网 https://m.aqxsw.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6929.json (ID: 6929)
+2026-02-18 10:33:48,603 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6928.json (ID: 6928)
+2026-02-18 10:33:48,603 - INFO - 解析书源: 书豪小说网 https://www.shuhaoxs.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6927.json (ID: 6927)
+2026-02-18 10:33:48,604 - INFO - 解析书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6841.json (ID: 6841)
+2026-02-18 10:33:48,604 - INFO - 解析书源: 久久漫画 https://www.jjmhw.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6923.json (ID: 6923)
+2026-02-18 10:33:48,604 - INFO - 解析书源: 📚书山聚合 https://search.shusan.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6921.json (ID: 6921)
+2026-02-18 10:33:48,605 - INFO - 解析书源: 📖笔趣网 http://www.bqgu.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6918.json (ID: 6918)
+2026-02-18 10:33:48,605 - INFO - 解析书源: 龙头小说 http://m.ltxs.la/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6917.json (ID: 6917)
+2026-02-18 10:33:48,605 - INFO - 解析书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 - https://www.yck2026.top/yuedu/shuyuan/json/id/6907.json (ID: 6907)
+2026-02-18 10:33:48,606 - INFO - 解析书源: 速读谷伪 http://www.sudugu.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6906.json (ID: 6906)
+2026-02-18 10:33:48,606 - INFO - 解析书源: 🍅 番茄的缘 https://reading.snssdk.com#0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6904.json (ID: 6904)
+2026-02-18 10:33:48,606 - INFO - 解析书源: 闲看免费小说 http://nav.jijia-co.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6900.json (ID: 6900)
+2026-02-18 10:33:48,607 - INFO - 解析书源: 篱笆好文（优+++） https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6897.json (ID: 6897)
+2026-02-18 10:33:48,607 - INFO - 解析书源: 元小说 https://metanetnovel.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6896.json (ID: 6896)
+2026-02-18 10:33:48,607 - INFO - 解析书源: 篱笆好 https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6895.json (ID: 6895)
+2026-02-18 10:33:48,608 - INFO - 解析书源: 🍅番茄专业户 番茄和精品 - https://www.yck2026.top/yuedu/shuyuan/json/id/6892.json (ID: 6892)
+2026-02-18 10:33:48,608 - INFO - 解析书源: 📚豆瓣阅读 https://read.douban.com - https://www.yck2026.top/yuedu/shuyuan/json/id/4925.json (ID: 4925)
+2026-02-18 10:33:48,608 - INFO - 解析书源: 📥 奇书网 https://www.qishu99.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6891.json (ID: 6891)
+2026-02-18 10:33:48,609 - INFO - 解析书源: 苦读书 http://www.kudushu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6890.json (ID: 6890)
+2026-02-18 10:33:48,610 - INFO - 解析书源: 🎉 八零小说 http://www.80zw.la - https://www.yck2026.top/yuedu/shuyuan/json/id/6887.json (ID: 6887)
+2026-02-18 10:33:48,611 - INFO - 解析书源: 📥 爱去小说 https://www.aiqu999.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6886.json (ID: 6886)
+2026-02-18 10:33:48,611 - INFO - 解析书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6885.json (ID: 6885)
+2026-02-18 10:33:48,611 - INFO - 解析书源: 🍅团夕小说 https://novel.snssdk.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6884.json (ID: 6884)
+2026-02-18 10:33:48,612 - INFO - 解析书源: 🎨 177漫画🔥 http://www.177pic.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6883.json (ID: 6883)
+2026-02-18 10:33:48,612 - INFO - 解析书源: 八叉书库 https://bcshuku.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6882.json (ID: 6882)
+2026-02-18 10:33:48,613 - INFO - 解析书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6881.json (ID: 6881)
+2026-02-18 10:33:48,614 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6880.json (ID: 6880)
+2026-02-18 10:33:48,614 - INFO - 解析书源: 18r（免梯子） https://jiek.qiubai.icu/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6876.json (ID: 6876)
+2026-02-18 10:33:48,615 - INFO - 解析书源: 顶点小说ddxsmf https://www.ddxsmf.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6875.json (ID: 6875)
+2026-02-18 10:33:48,616 - INFO - 解析书源: 无插件 - 赛事直播 http://www.wuchajian.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6874.json (ID: 6874)
+2026-02-18 10:33:48,617 - INFO - 解析书源: 多平台精品源 多平台精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6857.json (ID: 6857)
+2026-02-18 10:33:48,618 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6844.json (ID: 6844)
+2026-02-18 10:33:48,618 - INFO - 解析书源: 汉书书 https://m.hanshubooks.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6842.json (ID: 6842)
+2026-02-18 10:33:48,619 - INFO - 解析书源: 美女图片网 https://m.ku1372.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6837.json (ID: 6837)
+2026-02-18 10:33:48,621 - INFO - 解析书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6112.json (ID: 6112)
+2026-02-18 10:33:48,622 - INFO - 解析书源: 茶马小说 [耽美] https://www.chamabooks.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6835.json (ID: 6835)
+2026-02-18 10:33:48,623 - INFO - 解析书源: 天命皆烬小说 https://www.genwohua.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6834.json (ID: 6834)
+2026-02-18 10:33:48,624 - INFO - 解析书源: 茶杯狐 https://www.cupfox7.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6832.json (ID: 6832)
+2026-02-18 10:33:48,625 - INFO - 解析书源: 万能精品源 精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6830.json (ID: 6830)
+2026-02-18 10:33:48,626 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6820.json (ID: 6820)
+2026-02-18 10:33:48,627 - INFO - 解析书源: CA 情色小说（修复） https://canovel.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6819.json (ID: 6819)
+2026-02-18 10:33:48,627 - INFO - 解析书源: 番茄四合一 http://103.189.141.163:9587 - https://www.yck2026.top/yuedu/shuyuan/json/id/6817.json (ID: 6817)
+2026-02-18 10:33:48,628 - INFO - 解析书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6816.json (ID: 6816)
+2026-02-18 10:33:48,629 - INFO - 解析书源: 书耽 https://app.shubl.com - https://www.yck2026.top/yuedu/shuyuan/json/id/5718.json (ID: 5718)
+2026-02-18 10:33:48,630 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6815.json (ID: 6815)
+2026-02-18 10:33:48,637 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6814.json (ID: 6814)
+2026-02-18 10:33:48,638 - INFO - 解析书源: 爱看书吧 https://m.aidushu8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6813.json (ID: 6813)
+2026-02-18 10:33:48,638 - INFO - 解析书源: 🌸Hitomi漫 https://hitomi.si/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6812.json (ID: 6812)
+2026-02-18 10:33:48,639 - INFO - 解析书源: 爱下电子书 https://ixdzs8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6810.json (ID: 6810)
+2026-02-18 10:33:48,640 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6809.json (ID: 6809)
+2026-02-18 10:33:48,641 - INFO - 解析书源: 笔趣阁 https://www.bqquge.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6808.json (ID: 6808)
+2026-02-18 10:33:48,642 - INFO - 解析书源: 🌸绅士漫画 https://www.wn06.ru/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6806.json (ID: 6806)
+2026-02-18 10:33:48,643 - INFO - 解析书源: 百草露小说 https://m.baicaolu.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6803.json (ID: 6803)
+2026-02-18 10:33:48,644 - INFO - 解析书源: 天天看小说🪜 https://ttks.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6792.json (ID: 6792)
+2026-02-18 10:33:48,645 - INFO - 解析书源: 必去读书库 http://m.biqugei.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6785.json (ID: 6785)
+2026-02-18 10:33:48,646 - INFO - 解析书源: 爱下电子书 https://ixdzs.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6783.json (ID: 6783)
+2026-02-18 10:33:48,647 - INFO - 解析书源: 夜读集小说 https://www.yeduji.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6782.json (ID: 6782)
+2026-02-18 10:33:48,647 - INFO - 解析书源: 看看影院 http://k9.9967.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6781.json (ID: 6781)
+2026-02-18 10:33:48,649 - INFO - 解析书源: ESJ Zone https://www.esjzone.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6779.json (ID: 6779)
+2026-02-18 10:33:48,650 - INFO - 解析书源: 🎨禁漫天堂 https://18comic.vip - https://www.yck2026.top/yuedu/shuyuan/json/id/6778.json (ID: 6778)
+2026-02-18 10:33:48,651 - INFO - 解析书源: 🌈笔趣中文网 http://www.bqgz.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6777.json (ID: 6777)
+2026-02-18 10:33:48,652 - INFO - 解析书源: 全能书源 全能书源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6776.json (ID: 6776)
+2026-02-18 10:33:48,653 - INFO - 解析书源: 365小说网 http://www.shukuge.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6775.json (ID: 6775)
+2026-02-18 10:33:48,654 - INFO - 解析书源: 小说520 https://www.xs520.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6774.json (ID: 6774)
+2026-02-18 10:33:48,654 - INFO - 解析书源: 🄼冰清阁小说 https://m.bqgcn.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6773.json (ID: 6773)
+2026-02-18 10:33:48,655 - INFO - 解析书源: 顶点小说 https://www.dingdian6.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6772.json (ID: 6772)
+2026-02-18 10:33:48,656 - INFO - 解析书源: 600小说网 http://www.600zz.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6771.json (ID: 6771)
+2026-02-18 10:33:48,657 - INFO - 解析书源: 九桃小说 https://k09.a506wge.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6763.json (ID: 6763)
+2026-02-18 10:33:48,658 - INFO - 解析书源: 番茄（发现） https://fanqienovel.com####嘿嘿 - https://www.yck2026.top/yuedu/shuyuan/json/id/6761.json (ID: 6761)
+2026-02-18 10:33:48,658 - INFO - 解析书源: ꂵ 30读书 https://www.30dushu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6760.json (ID: 6760)
+2026-02-18 10:33:48,659 - INFO - 解析书源: 🄼 八一 https://www.blxs.info/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6759.json (ID: 6759)
+2026-02-18 10:33:48,660 - INFO - 解析书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6758.json (ID: 6758)
+2026-02-18 10:33:48,661 - INFO - 解析书源: 奇书网 https://m.qishu99.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6757.json (ID: 6757)
+2026-02-18 10:33:48,662 - INFO - 解析书源: 云轩阁小说网 http://www.yunxuange.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6754.json (ID: 6754)
+2026-02-18 10:33:48,663 - INFO - 解析书源: kuronavi漫画raw https://kuronavi.blog - https://www.yck2026.top/yuedu/shuyuan/json/id/6753.json (ID: 6753)
+2026-02-18 10:33:48,663 - INFO - 解析书源: 旧钢笔 https://p.jiugangbi.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6752.json (ID: 6752)
+2026-02-18 10:33:48,664 - INFO - 成功解析 100 个书源
+2026-02-18 10:33:48,665 - INFO - 共找到 100 个书源
+2026-02-18 10:33:48,665 - INFO - 分类 书源 没有新书源，跳过处理
+2026-02-18 10:33:48,666 - INFO - 分类 书源 爬取完成，新增 0 个书源
+2026-02-18 10:33:48,667 - INFO - 任务完成，程序退出
+2026-02-18 10:33:57,158 - INFO - ==================================================
+2026-02-18 10:33:57,159 - INFO - Legado订阅源爬虫启动
+2026-02-18 10:33:57,160 - INFO - ==================================================
+2026-02-18 10:33:57,164 - INFO - 确保目录存在: assets/book_source_database
+2026-02-18 10:33:57,165 - INFO - 确保目录存在: assets/book_source_reference
+2026-02-18 10:33:57,166 - INFO - 确保目录存在: assets/book_source_database/book_sources
+2026-02-18 10:33:57,166 - INFO - 确保目录存在: assets/book_source_database/book_source_collections
+2026-02-18 10:33:57,167 - INFO - 确保目录存在: assets/book_source_database/rss_sources
+2026-02-18 10:33:57,168 - INFO - 确保目录存在: assets/book_source_database/rss_source_collections
+2026-02-18 10:33:57,169 - INFO - 确保目录存在: assets/book_source_reference/book_count_refs
+2026-02-18 10:33:57,170 - INFO - 确保目录存在: assets/book_source_reference/other_refs
+2026-02-18 10:33:57,171 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:33:57,172 - INFO - 参考学习模块已启用
+2026-02-18 10:33:57,172 - INFO - 只爬取分类: 书源
+2026-02-18 10:33:57,173 - INFO - 开始爬取分类: 书源
+2026-02-18 10:33:57,601 - INFO - 找到 124 个链接
+2026-02-18 10:33:57,602 - INFO - 解析书源: 📖Lofter 📖Lofter - https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json (ID: 6873)
+2026-02-18 10:33:57,603 - INFO - 解析书源: 🏷晋江文学 https://m.jjwxc.net/channel/ - https://www.yck2026.top/yuedu/shuyuan/json/id/1751.json (ID: 1751)
+2026-02-18 10:33:57,603 - INFO - 解析书源: 📖笔趣阁手机版 http://www.biqugem.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6965.json (ID: 6965)
+2026-02-18 10:33:57,603 - INFO - 解析书源: 🔞乐成漫画 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6949.json (ID: 6949)
+2026-02-18 10:33:57,604 - INFO - 解析书源: 乐乐 https://www.lcmhx.asia - https://www.yck2026.top/yuedu/shuyuan/json/id/6948.json (ID: 6948)
+2026-02-18 10:33:57,604 - INFO - 解析书源: VirtualTaboo直播 https://zh.virtualtaboo.live - https://www.yck2026.top/yuedu/shuyuan/json/id/6947.json (ID: 6947)
+2026-02-18 10:33:57,604 - INFO - 解析书源: 📪第一版主 https://www.bz33333333.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6946.json (ID: 6946)
+2026-02-18 10:33:57,605 - INFO - 解析书源: 同人小说网 https://www.tongrenxsw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6077.json (ID: 6077)
+2026-02-18 10:33:57,605 - INFO - 解析书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6905.json (ID: 6905)
+2026-02-18 10:33:57,605 - INFO - 解析书源: 📪第一版主820 https://www.bz88888.net////## - https://www.yck2026.top/yuedu/shuyuan/json/id/6943.json (ID: 6943)
+2026-02-18 10:33:57,606 - INFO - 解析书源: 万能精品聚合 万能精品聚合 - https://www.yck2026.top/yuedu/shuyuan/json/id/6942.json (ID: 6942)
+2026-02-18 10:33:57,606 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6941.json (ID: 6941)
+2026-02-18 10:33:57,606 - INFO - 解析书源: 📪第一版主820 https://www.bz444444.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6940.json (ID: 6940)
+2026-02-18 10:33:57,607 - INFO - 解析书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 - https://www.yck2026.top/yuedu/shuyuan/json/id/6937.json (ID: 6937)
+2026-02-18 10:33:57,607 - INFO - 解析书源: 得奇小说网 https://www.deqixs.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6936.json (ID: 6936)
+2026-02-18 10:33:57,607 - INFO - 解析书源: 🔞完本小说网 https://www.finalbooks.work - https://www.yck2026.top/yuedu/shuyuan/json/id/6332.json (ID: 6332)
+2026-02-18 10:33:57,608 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6935.json (ID: 6935)
+2026-02-18 10:33:57,608 - INFO - 解析书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6746.json (ID: 6746)
+2026-02-18 10:33:57,608 - INFO - 解析书源: 哔哩哔哩 哔哩哔哩 - https://www.yck2026.top/yuedu/shuyuan/json/id/6807.json (ID: 6807)
+2026-02-18 10:33:57,609 - INFO - 解析书源: 东方小说网 https://m.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6934.json (ID: 6934)
+2026-02-18 10:33:57,609 - INFO - 解析书源: 漫小肆20251217 https://www.jjmh.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6933.json (ID: 6933)
+2026-02-18 10:33:57,609 - INFO - 解析书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6932.json (ID: 6932)
+2026-02-18 10:33:57,609 - INFO - 解析书源: 梦想家文学 http://www.mxjtedu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6931.json (ID: 6931)
+2026-02-18 10:33:57,610 - INFO - 解析书源: 东方小说网 https://www.cndfzw.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6930.json (ID: 6930)
+2026-02-18 10:33:57,610 - INFO - 解析书源: 爱奇小说网 https://m.aqxsw.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6929.json (ID: 6929)
+2026-02-18 10:33:57,610 - INFO - 解析书源: 速读谷 https://www.sudugu.org/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6928.json (ID: 6928)
+2026-02-18 10:33:57,611 - INFO - 解析书源: 书豪小说网 https://www.shuhaoxs.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6927.json (ID: 6927)
+2026-02-18 10:33:57,611 - INFO - 解析书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6841.json (ID: 6841)
+2026-02-18 10:33:57,611 - INFO - 解析书源: 久久漫画 https://www.jjmhw.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6923.json (ID: 6923)
+2026-02-18 10:33:57,612 - INFO - 解析书源: 📚书山聚合 https://search.shusan.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6921.json (ID: 6921)
+2026-02-18 10:33:57,612 - INFO - 解析书源: 📖笔趣网 http://www.bqgu.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6918.json (ID: 6918)
+2026-02-18 10:33:57,612 - INFO - 解析书源: 龙头小说 http://m.ltxs.la/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6917.json (ID: 6917)
+2026-02-18 10:33:57,612 - INFO - 解析书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 - https://www.yck2026.top/yuedu/shuyuan/json/id/6907.json (ID: 6907)
+2026-02-18 10:33:57,613 - INFO - 解析书源: 速读谷伪 http://www.sudugu.co - https://www.yck2026.top/yuedu/shuyuan/json/id/6906.json (ID: 6906)
+2026-02-18 10:33:57,613 - INFO - 解析书源: 🍅 番茄的缘 https://reading.snssdk.com#0 - https://www.yck2026.top/yuedu/shuyuan/json/id/6904.json (ID: 6904)
+2026-02-18 10:33:57,613 - INFO - 解析书源: 闲看免费小说 http://nav.jijia-co.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6900.json (ID: 6900)
+2026-02-18 10:33:57,614 - INFO - 解析书源: 篱笆好文（优+++） https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6897.json (ID: 6897)
+2026-02-18 10:33:57,614 - INFO - 解析书源: 元小说 https://metanetnovel.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6896.json (ID: 6896)
+2026-02-18 10:33:57,614 - INFO - 解析书源: 篱笆好 https://m.libahao.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6895.json (ID: 6895)
+2026-02-18 10:33:57,615 - INFO - 解析书源: 🍅番茄专业户 番茄和精品 - https://www.yck2026.top/yuedu/shuyuan/json/id/6892.json (ID: 6892)
+2026-02-18 10:33:57,615 - INFO - 解析书源: 📚豆瓣阅读 https://read.douban.com - https://www.yck2026.top/yuedu/shuyuan/json/id/4925.json (ID: 4925)
+2026-02-18 10:33:57,615 - INFO - 解析书源: 📥 奇书网 https://www.qishu99.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6891.json (ID: 6891)
+2026-02-18 10:33:57,616 - INFO - 解析书源: 苦读书 http://www.kudushu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6890.json (ID: 6890)
+2026-02-18 10:33:57,616 - INFO - 解析书源: 🎉 八零小说 http://www.80zw.la - https://www.yck2026.top/yuedu/shuyuan/json/id/6887.json (ID: 6887)
+2026-02-18 10:33:57,616 - INFO - 解析书源: 📥 爱去小说 https://www.aiqu999.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6886.json (ID: 6886)
+2026-02-18 10:33:57,617 - INFO - 解析书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu - https://www.yck2026.top/yuedu/shuyuan/json/id/6885.json (ID: 6885)
+2026-02-18 10:33:57,617 - INFO - 解析书源: 🍅团夕小说 https://novel.snssdk.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6884.json (ID: 6884)
+2026-02-18 10:33:57,617 - INFO - 解析书源: 🎨 177漫画🔥 http://www.177pic.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6883.json (ID: 6883)
+2026-02-18 10:33:57,617 - INFO - 解析书源: 八叉书库 https://bcshuku.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6882.json (ID: 6882)
+2026-02-18 10:33:57,618 - INFO - 解析书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6881.json (ID: 6881)
+2026-02-18 10:33:57,618 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6880.json (ID: 6880)
+2026-02-18 10:33:57,618 - INFO - 解析书源: 18r（免梯子） https://jiek.qiubai.icu/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6876.json (ID: 6876)
+2026-02-18 10:33:57,619 - INFO - 解析书源: 顶点小说ddxsmf https://www.ddxsmf.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6875.json (ID: 6875)
+2026-02-18 10:33:57,619 - INFO - 解析书源: 无插件 - 赛事直播 http://www.wuchajian.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6874.json (ID: 6874)
+2026-02-18 10:33:57,619 - INFO - 解析书源: 多平台精品源 多平台精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6857.json (ID: 6857)
+2026-02-18 10:33:57,619 - INFO - 解析书源: 速读谷 https://www.sudugu.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6844.json (ID: 6844)
+2026-02-18 10:33:57,620 - INFO - 解析书源: 汉书书 https://m.hanshubooks.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6842.json (ID: 6842)
+2026-02-18 10:33:57,620 - INFO - 解析书源: 美女图片网 https://m.ku1372.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6837.json (ID: 6837)
+2026-02-18 10:33:57,620 - INFO - 解析书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6112.json (ID: 6112)
+2026-02-18 10:33:57,621 - INFO - 解析书源: 茶马小说 [耽美] https://www.chamabooks.net - https://www.yck2026.top/yuedu/shuyuan/json/id/6835.json (ID: 6835)
+2026-02-18 10:33:57,621 - INFO - 解析书源: 天命皆烬小说 https://www.genwohua.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6834.json (ID: 6834)
+2026-02-18 10:33:57,621 - INFO - 解析书源: 茶杯狐 https://www.cupfox7.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6832.json (ID: 6832)
+2026-02-18 10:33:57,622 - INFO - 解析书源: 万能精品源 精品源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6830.json (ID: 6830)
+2026-02-18 10:33:57,622 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6820.json (ID: 6820)
+2026-02-18 10:33:57,622 - INFO - 解析书源: CA 情色小说（修复） https://canovel.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6819.json (ID: 6819)
+2026-02-18 10:33:57,623 - INFO - 解析书源: 番茄四合一 http://103.189.141.163:9587 - https://www.yck2026.top/yuedu/shuyuan/json/id/6817.json (ID: 6817)
+2026-02-18 10:33:57,623 - INFO - 解析书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6816.json (ID: 6816)
+2026-02-18 10:33:57,623 - INFO - 解析书源: 书耽 https://app.shubl.com - https://www.yck2026.top/yuedu/shuyuan/json/id/5718.json (ID: 5718)
+2026-02-18 10:33:57,623 - INFO - 解析书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz - https://www.yck2026.top/yuedu/shuyuan/json/id/6815.json (ID: 6815)
+2026-02-18 10:33:57,624 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6814.json (ID: 6814)
+2026-02-18 10:33:57,624 - INFO - 解析书源: 爱看书吧 https://m.aidushu8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6813.json (ID: 6813)
+2026-02-18 10:33:57,624 - INFO - 解析书源: 🌸Hitomi漫 https://hitomi.si/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6812.json (ID: 6812)
+2026-02-18 10:33:57,625 - INFO - 解析书源: 爱下电子书 https://ixdzs8.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6810.json (ID: 6810)
+2026-02-18 10:33:57,625 - INFO - 解析书源: 八叉书库 https://www.8xsk.info - https://www.yck2026.top/yuedu/shuyuan/json/id/6809.json (ID: 6809)
+2026-02-18 10:33:57,625 - INFO - 解析书源: 笔趣阁 https://www.bqquge.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6808.json (ID: 6808)
+2026-02-18 10:33:57,626 - INFO - 解析书源: 🌸绅士漫画 https://www.wn06.ru/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6806.json (ID: 6806)
+2026-02-18 10:33:57,626 - INFO - 解析书源: 百草露小说 https://m.baicaolu.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6803.json (ID: 6803)
+2026-02-18 10:33:57,626 - INFO - 解析书源: 天天看小说🪜 https://ttks.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6792.json (ID: 6792)
+2026-02-18 10:33:57,627 - INFO - 解析书源: 必去读书库 http://m.biqugei.org - https://www.yck2026.top/yuedu/shuyuan/json/id/6785.json (ID: 6785)
+2026-02-18 10:33:57,627 - INFO - 解析书源: 爱下电子书 https://ixdzs.tw/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6783.json (ID: 6783)
+2026-02-18 10:33:57,627 - INFO - 解析书源: 夜读集小说 https://www.yeduji.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6782.json (ID: 6782)
+2026-02-18 10:33:57,627 - INFO - 解析书源: 看看影院 http://k9.9967.top/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6781.json (ID: 6781)
+2026-02-18 10:33:57,628 - INFO - 解析书源: ESJ Zone https://www.esjzone.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6779.json (ID: 6779)
+2026-02-18 10:33:57,628 - INFO - 解析书源: 🎨禁漫天堂 https://18comic.vip - https://www.yck2026.top/yuedu/shuyuan/json/id/6778.json (ID: 6778)
+2026-02-18 10:33:57,628 - INFO - 解析书源: 🌈笔趣中文网 http://www.bqgz.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6777.json (ID: 6777)
+2026-02-18 10:33:57,629 - INFO - 解析书源: 全能书源 全能书源 - https://www.yck2026.top/yuedu/shuyuan/json/id/6776.json (ID: 6776)
+2026-02-18 10:33:57,629 - INFO - 解析书源: 365小说网 http://www.shukuge.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6775.json (ID: 6775)
+2026-02-18 10:33:57,629 - INFO - 解析书源: 小说520 https://www.xs520.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6774.json (ID: 6774)
+2026-02-18 10:33:57,629 - INFO - 解析书源: 🄼冰清阁小说 https://m.bqgcn.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6773.json (ID: 6773)
+2026-02-18 10:33:57,630 - INFO - 解析书源: 顶点小说 https://www.dingdian6.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6772.json (ID: 6772)
+2026-02-18 10:33:57,630 - INFO - 解析书源: 600小说网 http://www.600zz.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6771.json (ID: 6771)
+2026-02-18 10:33:57,630 - INFO - 解析书源: 九桃小说 https://k09.a506wge.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6763.json (ID: 6763)
+2026-02-18 10:33:57,631 - INFO - 解析书源: 番茄（发现） https://fanqienovel.com####嘿嘿 - https://www.yck2026.top/yuedu/shuyuan/json/id/6761.json (ID: 6761)
+2026-02-18 10:33:57,631 - INFO - 解析书源: ꂵ 30读书 https://www.30dushu.com/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6760.json (ID: 6760)
+2026-02-18 10:33:57,631 - INFO - 解析书源: 🄼 八一 https://www.blxs.info/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6759.json (ID: 6759)
+2026-02-18 10:33:57,632 - INFO - 解析书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc - https://www.yck2026.top/yuedu/shuyuan/json/id/6758.json (ID: 6758)
+2026-02-18 10:33:57,632 - INFO - 解析书源: 奇书网 https://m.qishu99.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6757.json (ID: 6757)
+2026-02-18 10:33:57,632 - INFO - 解析书源: 云轩阁小说网 http://www.yunxuange.cc/ - https://www.yck2026.top/yuedu/shuyuan/json/id/6754.json (ID: 6754)
+2026-02-18 10:33:57,633 - INFO - 解析书源: kuronavi漫画raw https://kuronavi.blog - https://www.yck2026.top/yuedu/shuyuan/json/id/6753.json (ID: 6753)
+2026-02-18 10:33:57,633 - INFO - 解析书源: 旧钢笔 https://p.jiugangbi.com - https://www.yck2026.top/yuedu/shuyuan/json/id/6752.json (ID: 6752)
+2026-02-18 10:33:57,633 - INFO - 成功解析 100 个书源
+2026-02-18 10:33:57,633 - INFO - 共找到 100 个书源
+2026-02-18 10:33:57,634 - INFO - 跳过已学习的书源: 📖Lofter 📖Lofter (ID: 6873)
+2026-02-18 10:33:57,636 - INFO - 元数据已保存
+2026-02-18 10:33:57,637 - INFO - 跳过已学习的书源: 🏷晋江文学 https://m.jjwxc.net/channel/ (ID: 1751)
+2026-02-18 10:33:57,639 - INFO - 元数据已保存
+2026-02-18 10:33:57,639 - INFO - 跳过已学习的书源: 📖笔趣阁手机版 http://www.biqugem.cc (ID: 6965)
+2026-02-18 10:33:57,641 - INFO - 元数据已保存
+2026-02-18 10:33:57,641 - INFO - 跳过已学习的书源: 🔞乐成漫画 https://www.lcmhx.asia (ID: 6949)
+2026-02-18 10:33:57,643 - INFO - 元数据已保存
+2026-02-18 10:33:57,644 - INFO - 跳过已学习的书源: 乐乐 https://www.lcmhx.asia (ID: 6948)
+2026-02-18 10:33:57,645 - INFO - 元数据已保存
+2026-02-18 10:33:57,873 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:33:57,876 - INFO - 书源已保存: assets/book_source_database/book_sources/6947_VirtualTaboo直播 https---zh.virtualtaboo.live_20260218_103357.json
+2026-02-18 10:33:57,878 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:33:57,879 - WARNING - ✗ 书源学习失败: VirtualTaboo直播 https://zh.virtualtaboo.live (ID: 6947)
+2026-02-18 10:33:57,882 - INFO - 元数据已保存
+2026-02-18 10:33:58,883 - INFO - 跳过已学习的书源: 📪第一版主 https://www.bz33333333.com/ (ID: 6946)
+2026-02-18 10:33:58,885 - INFO - 元数据已保存
+2026-02-18 10:33:58,885 - INFO - 跳过已学习的书源: 同人小说网 https://www.tongrenxsw.com (ID: 6077)
+2026-02-18 10:33:58,887 - INFO - 元数据已保存
+2026-02-18 10:33:58,888 - INFO - 跳过已学习的书源: 🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0 (ID: 6905)
+2026-02-18 10:33:58,889 - INFO - 元数据已保存
+2026-02-18 10:33:58,890 - INFO - 跳过已学习的书源: 📪第一版主820 https://www.bz88888.net////## (ID: 6943)
+2026-02-18 10:33:58,891 - INFO - 元数据已保存
+2026-02-18 10:33:58,892 - INFO - 跳过已学习的书源: 万能精品聚合 万能精品聚合 (ID: 6942)
+2026-02-18 10:33:58,893 - INFO - 元数据已保存
+2026-02-18 10:33:58,894 - INFO - 跳过已学习的书源: 🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com (ID: 6941)
+2026-02-18 10:33:58,895 - INFO - 元数据已保存
+2026-02-18 10:33:58,896 - INFO - 跳过已学习的书源: 📪第一版主820 https://www.bz444444.net (ID: 6940)
+2026-02-18 10:33:58,897 - INFO - 元数据已保存
+2026-02-18 10:33:58,898 - INFO - 跳过已学习的书源: 🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选 (ID: 6937)
+2026-02-18 10:33:58,899 - INFO - 元数据已保存
+2026-02-18 10:33:58,900 - INFO - 跳过已学习的书源: 得奇小说网 https://www.deqixs.co (ID: 6936)
+2026-02-18 10:33:58,901 - INFO - 元数据已保存
+2026-02-18 10:33:58,902 - INFO - 跳过已学习的书源: 🔞完本小说网 https://www.finalbooks.work (ID: 6332)
+2026-02-18 10:33:58,904 - INFO - 元数据已保存
+2026-02-18 10:33:58,904 - INFO - 跳过已学习的书源: 速读谷 https://www.sudugu.org/ (ID: 6935)
+2026-02-18 10:33:58,906 - INFO - 元数据已保存
+2026-02-18 10:33:58,906 - INFO - 跳过已学习的书源: 🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0 (ID: 6746)
+2026-02-18 10:33:58,908 - INFO - 元数据已保存
+2026-02-18 10:33:58,908 - INFO - 跳过已学习的书源: 哔哩哔哩 哔哩哔哩 (ID: 6807)
+2026-02-18 10:33:58,910 - INFO - 元数据已保存
+2026-02-18 10:33:58,911 - INFO - 跳过已学习的书源: 东方小说网 https://m.cndfzw.com (ID: 6934)
+2026-02-18 10:33:58,912 - INFO - 元数据已保存
+2026-02-18 10:33:58,913 - INFO - 跳过已学习的书源: 漫小肆20251217 https://www.jjmh.top/ (ID: 6933)
+2026-02-18 10:33:58,914 - INFO - 元数据已保存
+2026-02-18 10:33:58,915 - INFO - 跳过已学习的书源: 🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu (ID: 6932)
+2026-02-18 10:33:58,916 - INFO - 元数据已保存
+2026-02-18 10:33:58,917 - INFO - 跳过已学习的书源: 梦想家文学 http://www.mxjtedu.com/ (ID: 6931)
+2026-02-18 10:33:58,918 - INFO - 元数据已保存
+2026-02-18 10:33:58,919 - INFO - 跳过已学习的书源: 东方小说网 https://www.cndfzw.com (ID: 6930)
+2026-02-18 10:33:58,920 - INFO - 元数据已保存
+2026-02-18 10:33:59,121 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:33:59,123 - INFO - 书源已保存: assets/book_source_database/book_sources/6929_爱奇小说网 https---m.aqxsw.com-_20260218_103359.json
+2026-02-18 10:33:59,124 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:33:59,124 - WARNING - ✗ 书源学习失败: 爱奇小说网 https://m.aqxsw.com/ (ID: 6929)
+2026-02-18 10:33:59,125 - INFO - 元数据已保存
+2026-02-18 10:34:00,126 - INFO - 跳过已学习的书源: 速读谷 https://www.sudugu.org/ (ID: 6928)
+2026-02-18 10:34:00,128 - INFO - 元数据已保存
+2026-02-18 10:34:00,129 - INFO - 跳过已学习的书源: 书豪小说网 https://www.shuhaoxs.com (ID: 6927)
+2026-02-18 10:34:00,130 - INFO - 元数据已保存
+2026-02-18 10:34:00,131 - INFO - 跳过已学习的书源: 🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0 (ID: 6841)
+2026-02-18 10:34:00,133 - INFO - 元数据已保存
+2026-02-18 10:34:00,133 - INFO - 跳过已学习的书源: 久久漫画 https://www.jjmhw.cc (ID: 6923)
+2026-02-18 10:34:00,135 - INFO - 元数据已保存
+2026-02-18 10:34:00,135 - INFO - 跳过已学习的书源: 📚书山聚合 https://search.shusan.icu (ID: 6921)
+2026-02-18 10:34:00,137 - INFO - 元数据已保存
+2026-02-18 10:34:00,137 - INFO - 跳过已学习的书源: 📖笔趣网 http://www.bqgu.cc (ID: 6918)
+2026-02-18 10:34:00,139 - INFO - 元数据已保存
+2026-02-18 10:34:00,140 - INFO - 跳过已学习的书源: 龙头小说 http://m.ltxs.la/ (ID: 6917)
+2026-02-18 10:34:00,141 - INFO - 元数据已保存
+2026-02-18 10:34:00,142 - INFO - 跳过已学习的书源: 💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，
+情不知所终一笑而泯。
+––––––––––––––––@星眠 (ID: 6907)
+2026-02-18 10:34:00,143 - INFO - 元数据已保存
+2026-02-18 10:34:00,144 - INFO - 跳过已学习的书源: 速读谷伪 http://www.sudugu.co (ID: 6906)
+2026-02-18 10:34:00,146 - INFO - 元数据已保存
+2026-02-18 10:34:00,147 - INFO - 跳过已学习的书源: 🍅 番茄的缘 https://reading.snssdk.com#0 (ID: 6904)
+2026-02-18 10:34:00,148 - INFO - 元数据已保存
+2026-02-18 10:34:00,149 - INFO - 跳过已学习的书源: 闲看免费小说 http://nav.jijia-co.com (ID: 6900)
+2026-02-18 10:34:00,151 - INFO - 元数据已保存
+2026-02-18 10:34:00,151 - INFO - 跳过已学习的书源: 篱笆好文（优+++） https://m.libahao.com (ID: 6897)
+2026-02-18 10:34:00,153 - INFO - 元数据已保存
+2026-02-18 10:34:00,153 - INFO - 跳过已学习的书源: 元小说 https://metanetnovel.com/ (ID: 6896)
+2026-02-18 10:34:00,155 - INFO - 元数据已保存
+2026-02-18 10:34:00,155 - INFO - 跳过已学习的书源: 篱笆好 https://m.libahao.com (ID: 6895)
+2026-02-18 10:34:00,157 - INFO - 元数据已保存
+2026-02-18 10:34:00,157 - INFO - 跳过已学习的书源: 🍅番茄专业户 番茄和精品 (ID: 6892)
+2026-02-18 10:34:00,159 - INFO - 元数据已保存
+2026-02-18 10:34:00,159 - INFO - 跳过已学习的书源: 📚豆瓣阅读 https://read.douban.com (ID: 4925)
+2026-02-18 10:34:00,161 - INFO - 元数据已保存
+2026-02-18 10:34:00,372 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:34:00,373 - INFO - 书源已保存: assets/book_source_database/book_sources/6891_📥 奇书网 https---www.qishu99.cc_20260218_103400.json
+2026-02-18 10:34:00,374 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:34:00,374 - WARNING - ✗ 书源学习失败: 📥 奇书网 https://www.qishu99.cc (ID: 6891)
+2026-02-18 10:34:00,376 - INFO - 元数据已保存
+2026-02-18 10:34:01,377 - INFO - 跳过已学习的书源: 苦读书 http://www.kudushu.org (ID: 6890)
+2026-02-18 10:34:01,378 - INFO - 元数据已保存
+2026-02-18 10:34:01,379 - INFO - 跳过已学习的书源: 🎉 八零小说 http://www.80zw.la (ID: 6887)
+2026-02-18 10:34:01,381 - INFO - 元数据已保存
+2026-02-18 10:34:01,597 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:34:01,599 - INFO - 书源已保存: assets/book_source_database/book_sources/6886_📥 爱去小说 https---www.aiqu999.com_20260218_103401.json
+2026-02-18 10:34:01,600 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:34:01,600 - WARNING - ✗ 书源学习失败: 📥 爱去小说 https://www.aiqu999.com (ID: 6886)
+2026-02-18 10:34:01,601 - INFO - 元数据已保存
+2026-02-18 10:34:02,602 - INFO - 跳过已学习的书源: 🔞UAA-免梯-已绕过会员 https://api.qiubai.icu (ID: 6885)
+2026-02-18 10:34:02,605 - INFO - 元数据已保存
+2026-02-18 10:34:02,605 - INFO - 跳过已学习的书源: 🍅团夕小说 https://novel.snssdk.com (ID: 6884)
+2026-02-18 10:34:02,607 - INFO - 元数据已保存
+2026-02-18 10:34:02,608 - INFO - 跳过已学习的书源: 🎨 177漫画🔥 http://www.177pic.info (ID: 6883)
+2026-02-18 10:34:02,609 - INFO - 元数据已保存
+2026-02-18 10:34:02,610 - INFO - 跳过已学习的书源: 八叉书库 https://bcshuku.com/ (ID: 6882)
+2026-02-18 10:34:02,612 - INFO - 元数据已保存
+2026-02-18 10:34:02,613 - INFO - 跳过已学习的书源: ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/ (ID: 6881)
+2026-02-18 10:34:02,616 - INFO - 元数据已保存
+2026-02-18 10:34:02,618 - INFO - 跳过已学习的书源: 速读谷 https://www.sudugu.org (ID: 6880)
+2026-02-18 10:34:02,621 - INFO - 元数据已保存
+2026-02-18 10:34:02,622 - INFO - 跳过已学习的书源: 18r（免梯子） https://jiek.qiubai.icu/ (ID: 6876)
+2026-02-18 10:34:02,625 - INFO - 元数据已保存
+2026-02-18 10:34:02,627 - INFO - 跳过已学习的书源: 顶点小说ddxsmf https://www.ddxsmf.com (ID: 6875)
+2026-02-18 10:34:02,630 - INFO - 元数据已保存
+2026-02-18 10:34:02,632 - INFO - 跳过已学习的书源: 无插件 - 赛事直播 http://www.wuchajian.xyz (ID: 6874)
+2026-02-18 10:34:02,635 - INFO - 元数据已保存
+2026-02-18 10:34:02,636 - INFO - 跳过已学习的书源: 多平台精品源 多平台精品源 (ID: 6857)
+2026-02-18 10:34:02,639 - INFO - 元数据已保存
+2026-02-18 10:34:02,641 - INFO - 跳过已学习的书源: 速读谷 https://www.sudugu.org (ID: 6844)
+2026-02-18 10:34:02,643 - INFO - 元数据已保存
+2026-02-18 10:34:02,645 - INFO - 跳过已学习的书源: 汉书书 https://m.hanshubooks.com/ (ID: 6842)
+2026-02-18 10:34:02,647 - INFO - 元数据已保存
+2026-02-18 10:34:02,649 - INFO - 跳过已学习的书源: 美女图片网 https://m.ku1372.cc (ID: 6837)
+2026-02-18 10:34:02,652 - INFO - 元数据已保存
+2026-02-18 10:34:02,654 - INFO - 跳过已学习的书源: 🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com (ID: 6112)
+2026-02-18 10:34:02,657 - INFO - 元数据已保存
+2026-02-18 10:34:02,658 - INFO - 跳过已学习的书源: 茶马小说 [耽美] https://www.chamabooks.net (ID: 6835)
+2026-02-18 10:34:02,661 - INFO - 元数据已保存
+2026-02-18 10:34:02,663 - INFO - 跳过已学习的书源: 天命皆烬小说 https://www.genwohua.com (ID: 6834)
+2026-02-18 10:34:02,666 - INFO - 元数据已保存
+2026-02-18 10:34:02,668 - INFO - 跳过已学习的书源: 茶杯狐 https://www.cupfox7.com/ (ID: 6832)
+2026-02-18 10:34:02,672 - INFO - 元数据已保存
+2026-02-18 10:34:02,674 - INFO - 跳过已学习的书源: 万能精品源 精品源 (ID: 6830)
+2026-02-18 10:34:02,677 - INFO - 元数据已保存
+2026-02-18 10:34:02,679 - INFO - 跳过已学习的书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz (ID: 6820)
+2026-02-18 10:34:02,683 - INFO - 元数据已保存
+2026-02-18 10:34:02,684 - INFO - 跳过已学习的书源: CA 情色小说（修复） https://canovel.com (ID: 6819)
+2026-02-18 10:34:02,688 - INFO - 元数据已保存
+2026-02-18 10:34:02,690 - INFO - 跳过已学习的书源: 番茄四合一 http://103.189.141.163:9587 (ID: 6817)
+2026-02-18 10:34:02,694 - INFO - 元数据已保存
+2026-02-18 10:34:02,696 - INFO - 跳过已学习的书源: 🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/ (ID: 6816)
+2026-02-18 10:34:02,699 - INFO - 元数据已保存
+2026-02-18 10:34:02,701 - INFO - 跳过已学习的书源: 书耽 https://app.shubl.com (ID: 5718)
+2026-02-18 10:34:02,705 - INFO - 元数据已保存
+2026-02-18 10:34:02,707 - INFO - 跳过已学习的书源: 🌸肉漫屋( 韩漫+ ) https://roum26.xyz (ID: 6815)
+2026-02-18 10:34:02,711 - INFO - 元数据已保存
+2026-02-18 10:34:02,712 - INFO - 跳过已学习的书源: 八叉书库 https://www.8xsk.info (ID: 6814)
+2026-02-18 10:34:02,717 - INFO - 元数据已保存
+2026-02-18 10:34:02,718 - INFO - 跳过已学习的书源: 爱看书吧 https://m.aidushu8.com (ID: 6813)
+2026-02-18 10:34:02,721 - INFO - 元数据已保存
+2026-02-18 10:34:02,723 - INFO - 跳过已学习的书源: 🌸Hitomi漫 https://hitomi.si/ (ID: 6812)
+2026-02-18 10:34:02,726 - INFO - 元数据已保存
+2026-02-18 10:34:02,728 - INFO - 跳过已学习的书源: 爱下电子书 https://ixdzs8.com (ID: 6810)
+2026-02-18 10:34:02,731 - INFO - 元数据已保存
+2026-02-18 10:34:02,731 - INFO - 跳过已学习的书源: 八叉书库 https://www.8xsk.info (ID: 6809)
+2026-02-18 10:34:02,733 - INFO - 元数据已保存
+2026-02-18 10:34:02,734 - INFO - 跳过已学习的书源: 笔趣阁 https://www.bqquge.com (ID: 6808)
+2026-02-18 10:34:02,735 - INFO - 元数据已保存
+2026-02-18 10:34:02,736 - INFO - 跳过已学习的书源: 🌸绅士漫画 https://www.wn06.ru/ (ID: 6806)
+2026-02-18 10:34:02,738 - INFO - 元数据已保存
+2026-02-18 10:34:02,738 - INFO - 跳过已学习的书源: 百草露小说 https://m.baicaolu.com (ID: 6803)
+2026-02-18 10:34:02,740 - INFO - 元数据已保存
+2026-02-18 10:34:02,741 - INFO - 跳过已学习的书源: 天天看小说🪜 https://ttks.tw/ (ID: 6792)
+2026-02-18 10:34:02,743 - INFO - 元数据已保存
+2026-02-18 10:34:02,743 - INFO - 跳过已学习的书源: 必去读书库 http://m.biqugei.org (ID: 6785)
+2026-02-18 10:34:02,745 - INFO - 元数据已保存
+2026-02-18 10:34:02,746 - INFO - 跳过已学习的书源: 爱下电子书 https://ixdzs.tw/ (ID: 6783)
+2026-02-18 10:34:02,747 - INFO - 元数据已保存
+2026-02-18 10:34:02,748 - INFO - 跳过已学习的书源: 夜读集小说 https://www.yeduji.com (ID: 6782)
+2026-02-18 10:34:02,750 - INFO - 元数据已保存
+2026-02-18 10:34:02,751 - INFO - 跳过已学习的书源: 看看影院 http://k9.9967.top/ (ID: 6781)
+2026-02-18 10:34:02,752 - INFO - 元数据已保存
+2026-02-18 10:34:02,753 - INFO - 跳过已学习的书源: ESJ Zone https://www.esjzone.cc (ID: 6779)
+2026-02-18 10:34:02,755 - INFO - 元数据已保存
+2026-02-18 10:34:02,756 - INFO - 跳过已学习的书源: 🎨禁漫天堂 https://18comic.vip (ID: 6778)
+2026-02-18 10:34:02,757 - INFO - 元数据已保存
+2026-02-18 10:34:02,758 - INFO - 跳过已学习的书源: 🌈笔趣中文网 http://www.bqgz.cc (ID: 6777)
+2026-02-18 10:34:02,760 - INFO - 元数据已保存
+2026-02-18 10:34:02,761 - INFO - 跳过已学习的书源: 全能书源 全能书源 (ID: 6776)
+2026-02-18 10:34:02,762 - INFO - 元数据已保存
+2026-02-18 10:34:02,763 - INFO - 跳过已学习的书源: 365小说网 http://www.shukuge.com/ (ID: 6775)
+2026-02-18 10:34:02,765 - INFO - 元数据已保存
+2026-02-18 10:34:02,766 - INFO - 跳过已学习的书源: 小说520 https://www.xs520.com/ (ID: 6774)
+2026-02-18 10:34:02,767 - INFO - 元数据已保存
+2026-02-18 10:34:02,768 - INFO - 跳过已学习的书源: 🄼冰清阁小说 https://m.bqgcn.com/ (ID: 6773)
+2026-02-18 10:34:02,770 - INFO - 元数据已保存
+2026-02-18 10:34:02,771 - INFO - 跳过已学习的书源: 顶点小说 https://www.dingdian6.com (ID: 6772)
+2026-02-18 10:34:02,772 - INFO - 元数据已保存
+2026-02-18 10:34:02,773 - INFO - 跳过已学习的书源: 600小说网 http://www.600zz.com (ID: 6771)
+2026-02-18 10:34:02,775 - INFO - 元数据已保存
+2026-02-18 10:34:02,775 - INFO - 跳过已学习的书源: 九桃小说 https://k09.a506wge.cc (ID: 6763)
+2026-02-18 10:34:02,777 - INFO - 元数据已保存
+2026-02-18 10:34:02,778 - INFO - 跳过已学习的书源: 番茄（发现） https://fanqienovel.com####嘿嘿 (ID: 6761)
+2026-02-18 10:34:02,780 - INFO - 元数据已保存
+2026-02-18 10:34:02,780 - INFO - 跳过已学习的书源: ꂵ 30读书 https://www.30dushu.com/ (ID: 6760)
+2026-02-18 10:34:02,782 - INFO - 元数据已保存
+2026-02-18 10:34:02,783 - INFO - 跳过已学习的书源: 🄼 八一 https://www.blxs.info/ (ID: 6759)
+2026-02-18 10:34:02,785 - INFO - 元数据已保存
+2026-02-18 10:34:02,786 - INFO - 跳过已学习的书源: 亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc (ID: 6758)
+2026-02-18 10:34:02,788 - INFO - 元数据已保存
+2026-02-18 10:34:03,004 - INFO - 保存到数据库目录: assets/book_source_database/book_sources
+2026-02-18 10:34:03,006 - INFO - 书源已保存: assets/book_source_database/book_sources/6757_奇书网 https---m.qishu99.cc-_20260218_103403.json
+2026-02-18 10:34:03,008 - ERROR - 学习书源失败: 'list' object has no attribute 'get'
+2026-02-18 10:34:03,009 - WARNING - ✗ 书源学习失败: 奇书网 https://m.qishu99.cc/ (ID: 6757)
+2026-02-18 10:34:03,013 - INFO - 元数据已保存
+2026-02-18 10:34:04,015 - INFO - 跳过已学习的书源: 云轩阁小说网 http://www.yunxuange.cc/ (ID: 6754)
+2026-02-18 10:34:04,018 - INFO - 元数据已保存
+2026-02-18 10:34:04,018 - INFO - 跳过已学习的书源: kuronavi漫画raw https://kuronavi.blog (ID: 6753)
+2026-02-18 10:34:04,020 - INFO - 元数据已保存
+2026-02-18 10:34:04,021 - INFO - 跳过已学习的书源: 旧钢笔 https://p.jiugangbi.com (ID: 6752)
+2026-02-18 10:34:04,024 - INFO - 元数据已保存
+2026-02-18 10:34:04,024 - INFO - 分类 书源 爬取完成，新增 5 个书源
+2026-02-18 10:34:04,024 - INFO - 分类 书源 爬取完成，新增 5 个书源
+2026-02-18 10:34:04,024 - INFO - 任务完成，程序退出

@@ -1,0 +1,118 @@
+## [WEB] 智能请求成功
+
+### [INFO] 请求信息
+
+- **URL**: https://www.sudugu.org
+- **方法**: GET
+- **状态码**: 200
+- **最终URL**: https://www.sudugu.org/
+- **重定向次数**: 0
+- **HTML大小**: 13473 字符
+- **编码**: utf-8
+
+---
+
+### [CONFIG] 请求配置
+
+**Headers**:
+```json
+{
+  "Cache-Control": "private",
+  "Content-Type": "text/html; charset=utf-8",
+  "Content-Encoding": "gzip",
+  "Vary": "Accept-Encoding",
+  "Server": "Microsoft-IIS/10.0",
+  "X-AspNet-Version": "4.0.30319",
+  "X-Powered-By": "ASP.NET",
+  "Date": "Wed, 18 Feb 2026 19:12:06 GMT",
+  "Content-Length": "5881"
+}
+```
+
+**Cookies**:
+```json
+{}
+```
+
+---
+
+### [CODE] HTML内容（完整源代码）
+
+```html
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>速读谷-最新热门小说免费阅读网</title>
+<meta name="keywords" content="小说,速读谷"/>
+<meta name="description" content="速读谷提供玄幻、仙侠、都市、历史、科幻、军事、言情小说等热门小说最新章节免费在线阅读，网站清爽干净无不良弹窗，支持纯手打无错字小说全文阅读，章节更新快无错乱，是书友最新喜爱的免费小说网。"/>
+<meta http-equiv="Content-type" name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width" />
+<link media="all" type="text/css" href="/css/g.css" rel="stylesheet"/>
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<meta http-equiv="content-language" content="zh-CN">
+<link media="all" type="text/css" href="/css/6/skin.css" rel="stylesheet"/>
+<script type="text/javascript" src="/js/jquery.common.js"></script>
+</head>
+
+<body>
+
+<div class="header"><span class="home"><a href="/">首页</a></span><p><a href="/">速读谷</a></p><span><a id="home" href="javascript:menu()" class="show" style="display: block;">菜单</a><a id="close" href="javascript:closeMenu()" class="close" style="display: none;">收起</a></span></div>
+<div id="gmenu" class="gmenu" style="display: none;">
+<ul style="left: -33%;">
+<li><a href="/">首页</a></li>
+<li><a href="/paihang/">排行榜</a></li>
+<li><a href="/wanjie/">完结小说</a></li>
+<li><a href="/zuixin/">最新更新</a></li>
+<li><a href="/fenlei/">小说分类</a></li>
+<li><a href="/i/jilu.aspx" rel="nofollow">阅读记录</a></li>
+<li><a href="/i/so.aspx" rel="nofollow">搜索小说</a></li>
+<li><a href="/i/pifu.aspx" rel="nofollow">网站换肤</a></li>
+</ul>
+</div>
+<div class="menu">
+<ul class="clear">
+<li><a href="/xuanhuan/">玄幻小说</a></li><li><a href="/xianxia/">仙侠小说</a></li><li><a href="/dushi/">都市小说</a></li><li><a href="/lishi/">历史小说</a></li><li><a href="/junshi/">军事小说</a></li><li><a href="/kehuan/">科幻小说</a></li><li><a href="/yanqing/">言情小说</a></li>
+<li><a href="/fenlei/" title="更多分类">···</a></li>
+</ul>
+</div>
+
+<div class="container">
+<h2><a href="/zuixin/">最新更新</a><span><a href="/zuixin/">全部</a></span></h2>
+<div class="item"><a href="/51/"><img alt="捞尸人" src="http://www.sudugu.org/files/cover/202508/1732cbc1-7d41-421d-9b81-dc8ef444c296.jpg" /></a><i class="qt">强推</i><div class="itemtxt"><h1><span>置顶</span><a href="/51/">捞尸人</a></h1><p><span>连载中</span><span>都市小说</span></p><p><a href="/51/">作者：纯洁滴小龙</a></p><p><i>更新时间</i>最新三章节</p><ul><li><i>1小时前</i><a href="/51/2958765.html">第556章</a></li><li><i>昨天</i><a href="/51/2947084.html">第555章</a></li><li><i>02-17</i><a href="/51/2940495.html">第554章</a></li></ul></div></div>
+<div class="item"><a href="/3436/"><img alt="共生面板，我在修仙界种田长生" src="http://www.sudugu.org/files/cover/202601/deb43c40-ce3a-4bf9-bceb-94a20104b1c7.jpg" /></a><div class="itemtxt"><h3><a href="/3436/">共生面板，我在修仙界种田长生</a></h3><p><span>连载中</span><span>仙侠小说</span></p><p><a href="/3436/">作者：桂花红茶叶蛋</a></p><p><i>更新时间</i>最新三章节</p><ul><li><i>23秒前</i><a href="/3436/2958891.html">第381章 元婴</a></li><li><i>昨天</i><a href="/3436/2958476.html">第380章 我不喜欢吃亏</a></li><li><i>昨天</i><a href="/3436/2956546.html">第379章 助我登天</a></li></ul></div></div>
+<div class="item"><a href="/3581/"><img alt="骨王：恭迎王的诞生" src="http://www.sudugu.org/files/cover/202601/78c43964-cd67-4c76-a631-edcfc2d2f2bd.jpg" /></a><div class="itemtxt"><h3><a href="/3581/">骨王：恭迎王的诞生</a></h3><p><span>连载中</span><span>轻小说</span></p><p><a href="/3581/">作者：大赦天下L</a></p><p><i>更新时间</i>最新三章节</p><ul><li><i>1分钟前</i><a href="/3581/2958890.html">第574章 双狼人死亡 窃影蝙蝠定位</a></li><li><i>02-15</i><a href="/3581/2924979.html">第573章 卡兹平原 龙王国护送小队</a></li><li><i>02-15</i><a href="/3581/2924978.html">第572章 迪米乌哥斯……觉得失算了</a></li></ul></div></div>
+<div class="item"><a href="/3301/"><img alt="步步高升：从省考状元到权力巅峰" src="http://www.sudugu.org/files/cover/202512/c8b65e0e-318e-4eb6-863a-2814cb412150.jpg" /></a><div class="itemtxt"><h3><a href="/3301/">步步高升：从省考状元到权力巅峰</a></h3><p><span>连载中</span><span>官场小说</span></p><p><a href="/3301/">作者：烟斗老哥</a></p><p><i>更新时间</i>最新三章节</p><ul><li><i>2分钟前</i><a href="/3301/2958889.html">第1176章 为了抹黑而抹黑！</a></li><li><i>2分钟前</i><a href="/3301/2958888.html">第1175章 假离婚也不顶用！</a></li><li><i>昨天</i><a href="/3301/2947867.html">第1174章 杨国雄悔不当初！</a></li></ul></div></div>
+<div class="item"><a href="/3291/"><img alt="修仙从神秘小鼎开始" src="http://www.sudugu.org/files/cover/202512/441c8430-7222-416f-812f-e2f1f4efa512.jpg" /></a><div class="itemtxt"><h3><a href="/3291/">修仙从神秘小鼎开始</a></h3><p><span>连载中</span><span>仙侠小说</span></p><p><a href="/3291/">作者：以云为墨</a></p><p><i>更新时间</i>最新三章节</p><ul><li><i>2分钟前</i><a href="/3291/2958887.html">第1442章 玄水天漉甲</a></li><li><i>昨天</i><a href="/3291/2947870.html">第1441章 圣祭族</a></li><li><i>02-17</i><a href="/3291/2940524.html">第1440章 神环护体</a></li></ul></div></div>
+<div class="item"><a href="/3201/"><img alt="从武道世界开始击穿深渊" src="http://www.sudugu.org/files/cover/202512/b15b92c9-5a06-4b2f-a72f-3f04e0a48b2e.jpg" /></a><div class="itemtxt"><h3><a href="/3201/">从武道世界开始击穿深渊</a></h3><p><span>连载中</span><span>科幻小说</span></p><p><a href="/3201/">作者：吴杰超</a></p><p><i>更新时间</i>最新三章节</p><ul><li><i>3分钟前</i><a href="/3201/2958886.html">第247章 借口</a></li><li><i>02-16</i><a href="/3201/2939394.ht...
+```
+
+[WARNING] **注意**：HTML已截取前5000字符，完整HTML可通过 `get_full_html` 获取
+
+---
+
+### [OK] 验证结果
+
+- [OK] 请求成功
+- [OK] 状态码: 200
+- [OK] HTML已获取
+- [OK] 真实内容验证: 通过
+
+---
+
+### [TARGET] 使用建议
+
+1. **HTML内容**: 已获取真实HTML，可用于分析
+2. **选择器识别**: 使用真实HTML生成选择器
+3. **规则验证**: 在真实HTML上测试规则
+4. **知识库审查**: 使用真实HTML审查知识库
+
+---
+
+### [SAVE] 永久保存HTML
+
+建议将此HTML永久保存，用于生成书源：
+
+```python
+from utils.knowledge_auditor import save_html_permanently
+save_html_permanently("https://www.sudugu.org", result['html'])
+```

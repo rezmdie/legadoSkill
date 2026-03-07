@@ -1,0 +1,21 @@
+
+## ❌ 请求失败
+
+**错误信息**: 'gbk' codec can't encode character '\U0001f310' in position 0: illegal multibyte sequence
+
+**错误详情**:
+```
+Traceback (most recent call last):
+  File "d:\阅读提示词\pack_project_1771424257048\projects\src\tools\smart_fetcher.py", line 88, in smart_fetch_html
+    print(f"🌐 正在发送 {method.upper()} 请求: {url}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'gbk' codec can't encode character '\U0001f310' in position 0: illegal multibyte sequence
+
+```
+
+### 💡 建议
+
+1. 检查URL是否正确
+2. 检查参数格式是否正确
+3. 检查网络连接
+4. 检查网站是否可访问

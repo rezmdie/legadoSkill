@@ -1,0 +1,49 @@
+{
+  "base_url": "https://www.yckgo.top",
+  "database_dir": "assets/book_source_database",
+  "reference_dir": "assets/book_source_reference",
+  "metadata_file": "assets/metadata.json",
+  "schedule": {
+    "enabled": true,
+    "time": "02:00",
+    "interval": "daily"
+  },
+  "request": {
+    "timeout": 30,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "delay_between_requests": 1,
+    "delay_between_categories": 2
+  },
+  "categories": {
+    "书源": {
+      "url": "/yuedu/shuyuan/index.html",
+      "subdir": "book_sources",
+      "enabled": true
+    },
+    "书源合集": {
+      "url": "/yuedu/shuyuans/index.html",
+      "subdir": "book_source_collections",
+      "enabled": true
+    },
+    "订阅源": {
+      "url": "/yuedu/rss/index.html",
+      "subdir": "rss_sources",
+      "enabled": true
+    },
+    "订阅源合集": {
+      "url": "/yuedu/rsss/index.html",
+      "subdir": "rss_source_collections",
+      "enabled": true
+    }
+  },
+  "classification": {
+    "count_ref_keywords": ["数量", "统计", "排行", "count", "number", "rank"],
+    "stats_keywords": ["count", "total", "number", "weight", "respondTime"]
+  },
+  "logging": {
+    "log_file": "scripts/crawler.log",
+    "log_level": "INFO",
+    "max_log_size": 10485760,
+    "backup_count": 5
+  }
+}

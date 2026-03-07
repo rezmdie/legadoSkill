@@ -1,0 +1,27 @@
+2026-02-18 10:27:25,262 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:27:27,946 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:27:30,443 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:27:30,443 - INFO - 从ID下载书源: 6873
+2026-02-18 10:27:30,444 - INFO - 下载URL: https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json
+2026-02-18 10:27:31,032 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6873_📖Lofter_书源_20260218_102731.md
+2026-02-18 10:27:31,033 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:27:31,033 - INFO - 成功学习书源: 📖Lofter (ID: 6873)
+2026-02-18 10:31:16,895 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:31:16,896 - INFO - 已学习记录已初始化: assets/learned_sources.json
+2026-02-18 10:31:16,897 - INFO - 从ID下载书源: 6873
+2026-02-18 10:31:16,897 - INFO - 下载URL: https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json
+2026-02-18 10:31:17,505 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/6873_📖Lofter_书源_20260218_103117.md
+2026-02-18 10:31:17,508 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:31:17,509 - INFO - 成功学习书源: 📖Lofter (ID: 6873)
+2026-02-18 10:31:17,512 - INFO - 书源已标记为已学习: 6873
+2026-02-18 10:31:19,405 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:31:19,406 - INFO - 从ID下载书源: 6873
+2026-02-18 10:31:19,406 - INFO - 下载URL: https://www.yck2026.top/yuedu/shuyuan/json/id/6873.json
+2026-02-18 10:31:19,965 - INFO - 书源已学习过，跳过: 6873
+2026-02-18 10:31:25,487 - INFO - 参考学习目录已初始化: assets/knowledge_base
+2026-02-18 10:31:25,488 - INFO - 从文件学习书源: /tmp/test_source_6874.json
+2026-02-18 10:31:25,491 - INFO - 知识库文档已保存: assets/knowledge_base/book_sources/unknown_无插件 - 赛事直播_书源_20260218_103125.md
+2026-02-18 10:31:25,492 - INFO - 学习统计已更新: 书源 +1
+2026-02-18 10:31:25,493 - INFO - 成功学习书源: 无插件 - 赛事直播 (ID: unknown)
+2026-02-18 10:31:25,494 - INFO - 书源已标记为已学习: unknown
+2026-02-18 10:31:25,495 - INFO - 已删除原始文件: /tmp/test_source_6874.json

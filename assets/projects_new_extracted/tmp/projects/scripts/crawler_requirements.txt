@@ -1,0 +1,5 @@
+# Legado订阅源爬虫依赖包
+
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+schedule>=1.2.0

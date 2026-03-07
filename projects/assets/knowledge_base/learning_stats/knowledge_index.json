@@ -1,0 +1,3008 @@
+{
+  "entries": {
+    "rule_书源规则：从入门到入土.md_1": {
+      "id": "rule_书源规则：从入门到入土.md_1",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()Legado书源规则说明",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_3": {
+      "id": "rule_书源规则：从入门到入土.md_3",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()概况",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_5": {
+      "id": "rule_书源规则：从入门到入土.md_5",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()1、语法说明",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_7": {
+      "id": "rule_书源规则：从入门到入土.md_7",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()2、Legado的特殊规则",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_9": {
+      "id": "rule_书源规则：从入门到入土.md_9",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()3、书源之「基本」",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_11": {
+      "id": "rule_书源规则：从入门到入土.md_11",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()4、书源之「搜索」",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_13": {
+      "id": "rule_书源规则：从入门到入土.md_13",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()5、书源之「发现」",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_15": {
+      "id": "rule_书源规则：从入门到入土.md_15",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()6、书源之「详情」",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_17": {
+      "id": "rule_书源规则：从入门到入土.md_17",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()7、书源之「目录」",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_19": {
+      "id": "rule_书源规则：从入门到入土.md_19",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()8、书源之「正文」",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_书源规则：从入门到入土.md_21": {
+      "id": "rule_书源规则：从入门到入土.md_21",
+      "source_file": "书源规则：从入门到入土.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "[]()9、补充说明",
+      "tags": [
+        "rule",
+        "explanation",
+        "书源规则：从入门到入土_md"
+      ]
+    },
+    "rule_css选择器规则.txt_1": {
+      "id": "rule_css选择器规则.txt_1",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "核心速览",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_5": {
+      "id": "rule_css选择器规则.txt_5",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 基本语法",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_7": {
+      "id": "rule_css选择器规则.txt_7",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 提取类型",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_11": {
+      "id": "rule_css选择器规则.txt_11",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 基础选择器",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_13": {
+      "id": "rule_css选择器规则.txt_13",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 组合选择器",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_15": {
+      "id": "rule_css选择器规则.txt_15",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "3. 伪类选择器",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_19": {
+      "id": "rule_css选择器规则.txt_19",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 搜索模块",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_21": {
+      "id": "rule_css选择器规则.txt_21",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 详情页模块",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_23": {
+      "id": "rule_css选择器规则.txt_23",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "3. 目录页模块",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_25": {
+      "id": "rule_css选择器规则.txt_25",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "4. 正文页模块",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_29": {
+      "id": "rule_css选择器规则.txt_29",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 调试方法",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_31": {
+      "id": "rule_css选择器规则.txt_31",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 性能优化",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_35": {
+      "id": "rule_css选择器规则.txt_35",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 乱码问题",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_37": {
+      "id": "rule_css选择器规则.txt_37",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 登录验证",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_39": {
+      "id": "rule_css选择器规则.txt_39",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "3. 分页处理",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_41": {
+      "id": "rule_css选择器规则.txt_41",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "4. 动态加载",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_43": {
+      "id": "rule_css选择器规则.txt_43",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "5. 反爬破解",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_47": {
+      "id": "rule_css选择器规则.txt_47",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 核心原则",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_49": {
+      "id": "rule_css选择器规则.txt_49",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 实用技巧",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_51": {
+      "id": "rule_css选择器规则.txt_51",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "3. 调试要点",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_css选择器规则.txt_53": {
+      "id": "rule_css选择器规则.txt_53",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "关键问题及回答",
+      "tags": [
+        "rule",
+        "explanation",
+        "css选择器规则_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_5": {
+      "id": "rule_Legado知识库.txt_5",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "基本格式",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_7": {
+      "id": "rule_Legado知识库.txt_7",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "提取类型",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_9": {
+      "id": "rule_Legado知识库.txt_9",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "正则表达式格式",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_11": {
+      "id": "rule_Legado知识库.txt_11",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "示例",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_15": {
+      "id": "rule_Legado知识库.txt_15",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "BookSource类字段",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_19": {
+      "id": "rule_Legado知识库.txt_19",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "简单POST格式",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_21": {
+      "id": "rule_Legado知识库.txt_21",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "复杂POST格式（使用JavaScript）",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_23": {
+      "id": "rule_Legado知识库.txt_23",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "关键要点（必须遵守）",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_27": {
+      "id": "rule_Legado知识库.txt_27",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "Default语法",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_29": {
+      "id": "rule_Legado知识库.txt_29",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "排除语法",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_31": {
+      "id": "rule_Legado知识库.txt_31",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "数组写法",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_35": {
+      "id": "rule_Legado知识库.txt_35",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "书名",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_37": {
+      "id": "rule_Legado知识库.txt_37",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "作者",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_39": {
+      "id": "rule_Legado知识库.txt_39",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "封面",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_41": {
+      "id": "rule_Legado知识库.txt_41",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "简介",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_43": {
+      "id": "rule_Legado知识库.txt_43",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "目录",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_45": {
+      "id": "rule_Legado知识库.txt_45",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "正文",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_47": {
+      "id": "rule_Legado知识库.txt_47",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "通用建议",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_51": {
+      "id": "rule_Legado知识库.txt_51",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "常用正则",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_53": {
+      "id": "rule_Legado知识库.txt_53",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "替换示例",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_57": {
+      "id": "rule_Legado知识库.txt_57",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "常用函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_59": {
+      "id": "rule_Legado知识库.txt_59",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "示例",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_61": {
+      "id": "rule_Legado知识库.txt_61",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "注意事项",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_65": {
+      "id": "rule_Legado知识库.txt_65",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "📊 统计数据",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_69": {
+      "id": "rule_Legado知识库.txt_69",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "核心选择器（高频使用）",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_71": {
+      "id": "rule_Legado知识库.txt_71",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "常用复合选择器",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_75": {
+      "id": "rule_Legado知识库.txt_75",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "基础提取类型",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_77": {
+      "id": "rule_Legado知识库.txt_77",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "高级提取类型",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_79": {
+      "id": "rule_Legado知识库.txt_79",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "✨ 特殊功能使用统计",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_83": {
+      "id": "rule_Legado知识库.txt_83",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "模式1：标准小说站（最常见）",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_85": {
+      "id": "rule_Legado知识库.txt_85",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "模式2：笔趣阁类站点",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_87": {
+      "id": "rule_Legado知识库.txt_87",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "模式3：聚合源（API型）",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_89": {
+      "id": "rule_Legado知识库.txt_89",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "模式4：漫画站点",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_93": {
+      "id": "rule_Legado知识库.txt_93",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "清理前缀/后缀",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_95": {
+      "id": "rule_Legado知识库.txt_95",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "提取特定内容",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_97": {
+      "id": "rule_Legado知识库.txt_97",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "格式化输出",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_101": {
+      "id": "rule_Legado知识库.txt_101",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "1. 选择器误用",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_103": {
+      "id": "rule_Legado知识库.txt_103",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "2. 提取类型混淆",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_105": {
+      "id": "rule_Legado知识库.txt_105",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "3. 正则表达式错误",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_107": {
+      "id": "rule_Legado知识库.txt_107",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "4. 未处理特殊情况",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_111": {
+      "id": "rule_Legado知识库.txt_111",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "必须掌握的技能",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_113": {
+      "id": "rule_Legado知识库.txt_113",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "最佳实践",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_Legado知识库.txt_115": {
+      "id": "rule_Legado知识库.txt_115",
+      "source_file": "Legado知识库.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "🔗 相关文档",
+      "tags": [
+        "rule",
+        "explanation",
+        "Legado知识库_txt"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_1": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_1",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "天天的鸟蛋蛋的书源日记",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_5": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_5",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "html基础布局介绍",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_7": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_7",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "选择器介绍",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_9": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_9",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "阅读选择器介绍",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_13": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_13",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "遇到阅读云",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_15": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_15",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "遇到 1 5 2 6... 目录乱序解决办法",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_天天的鸟蛋蛋的书源日记.md_17": {
+      "id": "rule_天天的鸟蛋蛋的书源日记.md_17",
+      "source_file": "天天的鸟蛋蛋的书源日记.md",
+      "type": "explanation",
+      "category": "general",
+      "title": "图片下一页",
+      "tags": [
+        "rule",
+        "explanation",
+        "天天的鸟蛋蛋的书源日记_md"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_1": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_1",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "js变量和函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_5": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_5",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "[RssJsExtensions](https://github.com/Luoyacheng/legado/blob/main/app/src/main/java/io/legado/app/ui/rss/read/RssJsExtensions.kt)独有函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_7": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_7",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "[SourceLoginJsExtensions](https://github.com/Luoyacheng/legado/blob/main/app/src/main/java/io/legado/app/ui/login/SourceLoginJsExtensions.kt)独有函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_9": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_9",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "[AnalyzeUrl](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/model/analyzeRule/AnalyzeUrl.kt) 部分函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_11": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_11",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "[AnalyzeRule](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/model/analyzeRule/AnalyzeRule.kt) 部分函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_13": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_13",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "[js扩展类](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/help/JsExtensions.kt) 部分函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_15": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_15",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "[js加解密类](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/help/JsEncodeUtils.kt) 部分函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_19": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_19",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "属性",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_21": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_21",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "book对象的部分可用函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_23": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_23",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "chapter对象的部分可用属性",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_25": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_25",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "source对象的部分可用函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_27": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_27",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "cookie对象的部分可用函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_29": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_29",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "cache对象的部分可用函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_31": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_31",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "跳转外部链接/应用函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_33": {
+      "id": "rule_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_33",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "视频播放器函数",
+      "tags": [
+        "rule",
+        "explanation",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的)_txt"
+      ]
+    },
+    "rule_订阅源规则帮助.txt_1": {
+      "id": "rule_订阅源规则帮助.txt_1",
+      "source_file": "订阅源规则帮助.txt",
+      "type": "explanation",
+      "category": "general",
+      "title": "订阅源规则帮助",
+      "tags": [
+        "rule",
+        "explanation",
+        "订阅源规则帮助_txt"
+      ]
+    },
+    "css_1": {
+      "id": "css_1",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "核心速览",
+      "tags": [
+        "css",
+        "selector",
+        "核心速览"
+      ]
+    },
+    "css_5": {
+      "id": "css_5",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "1. 基本语法",
+      "tags": [
+        "css",
+        "selector",
+        "1. 基本语法"
+      ]
+    },
+    "css_7": {
+      "id": "css_7",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "2. 提取类型",
+      "tags": [
+        "css",
+        "selector",
+        "2. 提取类型"
+      ]
+    },
+    "css_11": {
+      "id": "css_11",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "1. 基础选择器",
+      "tags": [
+        "css",
+        "selector",
+        "1. 基础选择器"
+      ]
+    },
+    "css_13": {
+      "id": "css_13",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "2. 组合选择器",
+      "tags": [
+        "css",
+        "selector",
+        "2. 组合选择器"
+      ]
+    },
+    "css_15": {
+      "id": "css_15",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "3. 伪类选择器",
+      "tags": [
+        "css",
+        "selector",
+        "3. 伪类选择器"
+      ]
+    },
+    "css_19": {
+      "id": "css_19",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "1. 搜索模块",
+      "tags": [
+        "css",
+        "selector",
+        "1. 搜索模块"
+      ]
+    },
+    "css_21": {
+      "id": "css_21",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "2. 详情页模块",
+      "tags": [
+        "css",
+        "selector",
+        "2. 详情页模块"
+      ]
+    },
+    "css_23": {
+      "id": "css_23",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "3. 目录页模块",
+      "tags": [
+        "css",
+        "selector",
+        "3. 目录页模块"
+      ]
+    },
+    "css_25": {
+      "id": "css_25",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "4. 正文页模块",
+      "tags": [
+        "css",
+        "selector",
+        "4. 正文页模块"
+      ]
+    },
+    "css_29": {
+      "id": "css_29",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "1. 调试方法",
+      "tags": [
+        "css",
+        "selector",
+        "1. 调试方法"
+      ]
+    },
+    "css_31": {
+      "id": "css_31",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "2. 性能优化",
+      "tags": [
+        "css",
+        "selector",
+        "2. 性能优化"
+      ]
+    },
+    "css_35": {
+      "id": "css_35",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "1. 乱码问题",
+      "tags": [
+        "css",
+        "selector",
+        "1. 乱码问题"
+      ]
+    },
+    "css_37": {
+      "id": "css_37",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "2. 登录验证",
+      "tags": [
+        "css",
+        "selector",
+        "2. 登录验证"
+      ]
+    },
+    "css_39": {
+      "id": "css_39",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "3. 分页处理",
+      "tags": [
+        "css",
+        "selector",
+        "3. 分页处理"
+      ]
+    },
+    "css_41": {
+      "id": "css_41",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "4. 动态加载",
+      "tags": [
+        "css",
+        "selector",
+        "4. 动态加载"
+      ]
+    },
+    "css_43": {
+      "id": "css_43",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "5. 反爬破解",
+      "tags": [
+        "css",
+        "selector",
+        "5. 反爬破解"
+      ]
+    },
+    "css_47": {
+      "id": "css_47",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "1. 核心原则",
+      "tags": [
+        "css",
+        "selector",
+        "1. 核心原则"
+      ]
+    },
+    "css_49": {
+      "id": "css_49",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "2. 实用技巧",
+      "tags": [
+        "css",
+        "selector",
+        "2. 实用技巧"
+      ]
+    },
+    "css_51": {
+      "id": "css_51",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "3. 调试要点",
+      "tags": [
+        "css",
+        "selector",
+        "3. 调试要点"
+      ]
+    },
+    "css_53": {
+      "id": "css_53",
+      "source_file": "css选择器规则.txt",
+      "type": "explanation",
+      "category": "css",
+      "title": "关键问题及回答",
+      "tags": [
+        "css",
+        "selector",
+        "关键问题及回答"
+      ]
+    },
+    "ref_3a.json参考.txt_119": {
+      "id": "ref_3a.json参考.txt_119",
+      "source_file": "3a.json参考.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "3a.json参考.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "3a.json参考.txt"
+      ]
+    },
+    "ref_Legado书源驯兽师加载器.txt_120": {
+      "id": "ref_Legado书源驯兽师加载器.txt_120",
+      "source_file": "Legado书源驯兽师加载器.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "Legado书源驯兽师加载器.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "Legado书源驯兽师加载器.txt"
+      ]
+    },
+    "ref_Legado书源驯兽师加载器.txt_121": {
+      "id": "ref_Legado书源驯兽师加载器.txt_121",
+      "source_file": "Legado书源驯兽师加载器.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "Legado书源驯兽师加载器.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "Legado书源驯兽师加载器.txt"
+      ]
+    },
+    "ref_Legado书源驯兽师加载器.txt_122": {
+      "id": "ref_Legado书源驯兽师加载器.txt_122",
+      "source_file": "Legado书源驯兽师加载器.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "Legado书源驯兽师加载器.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "Legado书源驯兽师加载器.txt"
+      ]
+    },
+    "ref_Legado书源驯兽师加载器.txt_123": {
+      "id": "ref_Legado书源驯兽师加载器.txt_123",
+      "source_file": "Legado书源驯兽师加载器.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "Legado书源驯兽师加载器.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "Legado书源驯兽师加载器.txt"
+      ]
+    },
+    "ref_TapManga.json参考.txt_124": {
+      "id": "ref_TapManga.json参考.txt_124",
+      "source_file": "TapManga.json参考.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "TapManga.json参考.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "TapManga.json参考.txt"
+      ]
+    },
+    "ref_TapManga.json参考.txt_125": {
+      "id": "ref_TapManga.json参考.txt_125",
+      "source_file": "TapManga.json参考.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "TapManga.json参考.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "TapManga.json参考.txt"
+      ]
+    },
+    "ref_喜漫漫画.json参考.txt_126": {
+      "id": "ref_喜漫漫画.json参考.txt_126",
+      "source_file": "喜漫漫画.json参考.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "喜漫漫画.json参考.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "喜漫漫画.json参考.txt"
+      ]
+    },
+    "ref_喜漫漫画.json参考.txt_127": {
+      "id": "ref_喜漫漫画.json参考.txt_127",
+      "source_file": "喜漫漫画.json参考.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "喜漫漫画.json参考.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "喜漫漫画.json参考.txt"
+      ]
+    },
+    "ref_霹雳书屋.json参考.txt_128": {
+      "id": "ref_霹雳书屋.json参考.txt_128",
+      "source_file": "霹雳书屋.json参考.txt",
+      "type": "example",
+      "category": "configuration",
+      "title": "霹雳书屋.json参考.txt 配置示例",
+      "tags": [
+        "reference",
+        "example",
+        "霹雳书屋.json参考.txt"
+      ]
+    },
+    "tech_方法-JS扩展类.md_1": {
+      "id": "tech_方法-JS扩展类.md_1",
+      "source_file": "方法-JS扩展类.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "网络请求相关",
+      "tags": [
+        "technique",
+        "方法-JS扩展类.md",
+        "网络请求相关"
+      ]
+    },
+    "tech_方法-JS扩展类.md_3": {
+      "id": "tech_方法-JS扩展类.md_3",
+      "source_file": "方法-JS扩展类.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "文件操作相关",
+      "tags": [
+        "technique",
+        "方法-JS扩展类.md",
+        "文件操作相关"
+      ]
+    },
+    "tech_方法-JS扩展类.md_5": {
+      "id": "tech_方法-JS扩展类.md_5",
+      "source_file": "方法-JS扩展类.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "编码解码相关",
+      "tags": [
+        "technique",
+        "方法-JS扩展类.md",
+        "编码解码相关"
+      ]
+    },
+    "tech_方法-JS扩展类.md_7": {
+      "id": "tech_方法-JS扩展类.md_7",
+      "source_file": "方法-JS扩展类.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "字符串处理相关",
+      "tags": [
+        "technique",
+        "方法-JS扩展类.md",
+        "字符串处理相关"
+      ]
+    },
+    "tech_方法-JS扩展类.md_9": {
+      "id": "tech_方法-JS扩展类.md_9",
+      "source_file": "方法-JS扩展类.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "字体处理相关",
+      "tags": [
+        "technique",
+        "方法-JS扩展类.md",
+        "字体处理相关"
+      ]
+    },
+    "tech_方法-JS扩展类.md_11": {
+      "id": "tech_方法-JS扩展类.md_11",
+      "source_file": "方法-JS扩展类.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "其他",
+      "tags": [
+        "technique",
+        "方法-JS扩展类.md",
+        "其他"
+      ]
+    },
+    "tech_方法-加密解密.md_1": {
+      "id": "tech_方法-加密解密.md_1",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "消息摘要/散列消息鉴别码",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "消息摘要/散列消息鉴别码"
+      ]
+    },
+    "tech_方法-加密解密.md_3": {
+      "id": "tech_方法-加密解密.md_3",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "对称加密解密",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "对称加密解密"
+      ]
+    },
+    "tech_方法-加密解密.md_5": {
+      "id": "tech_方法-加密解密.md_5",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "非对称加密解密",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "非对称加密解密"
+      ]
+    },
+    "tech_方法-加密解密.md_7": {
+      "id": "tech_方法-加密解密.md_7",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "签名",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "签名"
+      ]
+    },
+    "tech_方法-加密解密.md_9": {
+      "id": "tech_方法-加密解密.md_9",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "MD5",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "MD5"
+      ]
+    },
+    "tech_方法-加密解密.md_11": {
+      "id": "tech_方法-加密解密.md_11",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "已废弃的对称加密解密方法",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "已废弃的对称加密解密方法"
+      ]
+    },
+    "tech_方法-加密解密.md_13": {
+      "id": "tech_方法-加密解密.md_13",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "AES 解码",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "AES 解码"
+      ]
+    },
+    "tech_方法-加密解密.md_15": {
+      "id": "tech_方法-加密解密.md_15",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "AES 加密",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "AES 加密"
+      ]
+    },
+    "tech_方法-加密解密.md_17": {
+      "id": "tech_方法-加密解密.md_17",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "DES 解码",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "DES 解码"
+      ]
+    },
+    "tech_方法-加密解密.md_19": {
+      "id": "tech_方法-加密解密.md_19",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "DES 加密",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "DES 加密"
+      ]
+    },
+    "tech_方法-加密解密.md_21": {
+      "id": "tech_方法-加密解密.md_21",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "3DES 解码",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "3DES 解码"
+      ]
+    },
+    "tech_方法-加密解密.md_23": {
+      "id": "tech_方法-加密解密.md_23",
+      "source_file": "方法-加密解密.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "3DES 加密",
+      "tags": [
+        "technique",
+        "方法-加密解密.md",
+        "3DES 加密"
+      ]
+    },
+    "tech_方法-登录检查JS.md_1": {
+      "id": "tech_方法-登录检查JS.md_1",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "AnalyzeUrl 构造函数",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "AnalyzeUrl 构造函数"
+      ]
+    },
+    "tech_方法-登录检查JS.md_3": {
+      "id": "tech_方法-登录检查JS.md_3",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "主要方法",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "主要方法"
+      ]
+    },
+    "tech_方法-登录检查JS.md_7": {
+      "id": "tech_方法-登录检查JS.md_7",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "UrlOption",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "UrlOption"
+      ]
+    },
+    "tech_方法-登录检查JS.md_9": {
+      "id": "tech_方法-登录检查JS.md_9",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "ConcurrentRecord",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "ConcurrentRecord"
+      ]
+    },
+    "tech_方法-登录检查JS.md_13": {
+      "id": "tech_方法-登录检查JS.md_13",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "创建`AnalyzeUrl`对象",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "创建`AnalyzeUrl`对象"
+      ]
+    },
+    "tech_方法-登录检查JS.md_15": {
+      "id": "tech_方法-登录检查JS.md_15",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "执行网络请求并获取响应",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "执行网络请求并获取响应"
+      ]
+    },
+    "tech_方法-登录检查JS.md_17": {
+      "id": "tech_方法-登录检查JS.md_17",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "上传文件",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "上传文件"
+      ]
+    },
+    "tech_方法-登录检查JS.md_19": {
+      "id": "tech_方法-登录检查JS.md_19",
+      "source_file": "方法-登录检查JS.md",
+      "type": "technique",
+      "category": "technique",
+      "title": "注意事项",
+      "tags": [
+        "technique",
+        "方法-登录检查JS.md",
+        "注意事项"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_1": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_1",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "js变量和函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "js变量和函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_5": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_5",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "[RssJsExtensions](https://github.com/Luoyacheng/legado/blob/main/app/src/main/java/io/legado/app/ui/rss/read/RssJsExtensions.kt)独有函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "[RssJsExtensions](https://github.com/Luoyacheng/legado/blob/main/app/src/main/java/io/legado/app/ui/rss/read/RssJsExtensions.kt)独有函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_7": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_7",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "[SourceLoginJsExtensions](https://github.com/Luoyacheng/legado/blob/main/app/src/main/java/io/legado/app/ui/login/SourceLoginJsExtensions.kt)独有函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "[SourceLoginJsExtensions](https://github.com/Luoyacheng/legado/blob/main/app/src/main/java/io/legado/app/ui/login/SourceLoginJsExtensions.kt)独有函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_9": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_9",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "[AnalyzeUrl](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/model/analyzeRule/AnalyzeUrl.kt) 部分函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "[AnalyzeUrl](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/model/analyzeRule/AnalyzeUrl.kt) 部分函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_11": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_11",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "[AnalyzeRule](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/model/analyzeRule/AnalyzeRule.kt) 部分函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "[AnalyzeRule](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/model/analyzeRule/AnalyzeRule.kt) 部分函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_13": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_13",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "[js扩展类](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/help/JsExtensions.kt) 部分函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "[js扩展类](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/help/JsExtensions.kt) 部分函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_15": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_15",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "[js加解密类](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/help/JsEncodeUtils.kt) 部分函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "[js加解密类](https://github.com/gedoor/legado/blob/master/app/src/main/java/io/legado/app/help/JsEncodeUtils.kt) 部分函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_19": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_19",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "属性",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "属性"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_21": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_21",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "book对象的部分可用函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "book对象的部分可用函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_23": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_23",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "chapter对象的部分可用属性",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "chapter对象的部分可用属性"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_25": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_25",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "source对象的部分可用函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "source对象的部分可用函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_27": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_27",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "cookie对象的部分可用函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "cookie对象的部分可用函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_29": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_29",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "cache对象的部分可用函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "cache对象的部分可用函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_31": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_31",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "跳转外部链接/应用函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "跳转外部链接/应用函数"
+      ]
+    },
+    "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_33": {
+      "id": "tech_阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt_33",
+      "source_file": "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+      "type": "technique",
+      "category": "technique",
+      "title": "视频播放器函数",
+      "tags": [
+        "technique",
+        "阅读js ai提示词文档基本通用(注：我使用的版本为lcy的).txt",
+        "视频播放器函数"
+      ]
+    }
+  },
+  "book_sources": {
+    "1751_🏷晋江文学_书源_20260218_102134.md": {
+      "source_name": "1751_🏷晋江文学_书源_20260218_102134",
+      "source_url": "",
+      "tags": [
+        "1751"
+      ]
+    },
+    "1751_🏷晋江文学_书源_20260218_103141.md": {
+      "source_name": "1751_🏷晋江文学_书源_20260218_103141",
+      "source_url": "",
+      "tags": [
+        "1751"
+      ]
+    },
+    "4925_📚豆瓣阅读_书源_20260218_103229.md": {
+      "source_name": "4925_📚豆瓣阅读_书源_20260218_103229",
+      "source_url": "",
+      "tags": [
+        "4925"
+      ]
+    },
+    "5718_书耽_书源_20260218_103302.md": {
+      "source_name": "5718_书耽_书源_20260218_103302",
+      "source_url": "",
+      "tags": [
+        "5718"
+      ]
+    },
+    "6077_同人小说网_书源_20260218_102141.md": {
+      "source_name": "6077_同人小说网_书源_20260218_102141",
+      "source_url": "",
+      "tags": [
+        "6077"
+      ]
+    },
+    "6077_同人小说网_书源_20260218_103149.md": {
+      "source_name": "6077_同人小说网_书源_20260218_103149",
+      "source_url": "",
+      "tags": [
+        "6077"
+      ]
+    },
+    "6112_🌈网易云音乐_书源_20260218_103251.md": {
+      "source_name": "6112_🌈网易云音乐_书源_20260218_103251",
+      "source_url": "",
+      "tags": [
+        "6112"
+      ]
+    },
+    "6332_🔞完本小说网_书源_20260218_102153.md": {
+      "source_name": "6332_🔞完本小说网_书源_20260218_102153",
+      "source_url": "",
+      "tags": [
+        "6332"
+      ]
+    },
+    "6332_🔞完本小说网_书源_20260218_103159.md": {
+      "source_name": "6332_🔞完本小说网_书源_20260218_103159",
+      "source_url": "",
+      "tags": [
+        "6332"
+      ]
+    },
+    "6746_🌞A晴天聚合5.2.03(终极版)_书源_20260218_102156.md": {
+      "source_name": "6746_🌞A晴天聚合5.2.03(终极版)_书源_20260218_102156",
+      "source_url": "",
+      "tags": [
+        "6746"
+      ]
+    },
+    "6746_🌞A晴天聚合5.2.03(终极版)_书源_20260218_103201.md": {
+      "source_name": "6746_🌞A晴天聚合5.2.03(终极版)_书源_20260218_103201",
+      "source_url": "",
+      "tags": [
+        "6746"
+      ]
+    },
+    "6752_旧钢笔_书源_20260218_103342.md": {
+      "source_name": "6752_旧钢笔_书源_20260218_103342",
+      "source_url": "",
+      "tags": [
+        "6752"
+      ]
+    },
+    "6753_kuronavi漫画raw_书源_20260218_103340.md": {
+      "source_name": "6753_kuronavi漫画raw_书源_20260218_103340",
+      "source_url": "",
+      "tags": [
+        "6753"
+      ]
+    },
+    "6754_云轩阁小说网_书源_20260218_103339.md": {
+      "source_name": "6754_云轩阁小说网_书源_20260218_103339",
+      "source_url": "",
+      "tags": [
+        "6754"
+      ]
+    },
+    "6758_亲亲小说qinqinxiaoshuo_书源_20260218_103337.md": {
+      "source_name": "6758_亲亲小说qinqinxiaoshuo_书源_20260218_103337",
+      "source_url": "",
+      "tags": [
+        "6758"
+      ]
+    },
+    "6759_🄼 八一_书源_20260218_103335.md": {
+      "source_name": "6759_🄼 八一_书源_20260218_103335",
+      "source_url": "",
+      "tags": [
+        "6759"
+      ]
+    },
+    "6760_ꂵ 30读书_书源_20260218_103334.md": {
+      "source_name": "6760_ꂵ 30读书_书源_20260218_103334",
+      "source_url": "",
+      "tags": [
+        "6760"
+      ]
+    },
+    "6761_番茄（发现）_书源_20260218_103333.md": {
+      "source_name": "6761_番茄（发现）_书源_20260218_103333",
+      "source_url": "",
+      "tags": [
+        "6761"
+      ]
+    },
+    "6763_九桃小说_书源_20260218_103332.md": {
+      "source_name": "6763_九桃小说_书源_20260218_103332",
+      "source_url": "",
+      "tags": [
+        "6763"
+      ]
+    },
+    "6771_600小说网_书源_20260218_103331.md": {
+      "source_name": "6771_600小说网_书源_20260218_103331",
+      "source_url": "",
+      "tags": [
+        "6771"
+      ]
+    },
+    "6772_顶点小说_书源_20260218_103329.md": {
+      "source_name": "6772_顶点小说_书源_20260218_103329",
+      "source_url": "",
+      "tags": [
+        "6772"
+      ]
+    },
+    "6773_🄼冰清阁小说_书源_20260218_103328.md": {
+      "source_name": "6773_🄼冰清阁小说_书源_20260218_103328",
+      "source_url": "",
+      "tags": [
+        "6773"
+      ]
+    },
+    "6774_小说520_书源_20260218_103327.md": {
+      "source_name": "6774_小说520_书源_20260218_103327",
+      "source_url": "",
+      "tags": [
+        "6774"
+      ]
+    },
+    "6775_365小说网_书源_20260218_103326.md": {
+      "source_name": "6775_365小说网_书源_20260218_103326",
+      "source_url": "",
+      "tags": [
+        "6775"
+      ]
+    },
+    "6776_全能书源_书源_20260218_103324.md": {
+      "source_name": "6776_全能书源_书源_20260218_103324",
+      "source_url": "",
+      "tags": [
+        "6776"
+      ]
+    },
+    "6777_🌈笔趣中文网_书源_20260218_103323.md": {
+      "source_name": "6777_🌈笔趣中文网_书源_20260218_103323",
+      "source_url": "",
+      "tags": [
+        "6777"
+      ]
+    },
+    "6778_🎨禁漫天堂_书源_20260218_103322.md": {
+      "source_name": "6778_🎨禁漫天堂_书源_20260218_103322",
+      "source_url": "",
+      "tags": [
+        "6778"
+      ]
+    },
+    "6779_ESJ Zone_书源_20260218_103321.md": {
+      "source_name": "6779_ESJ Zone_书源_20260218_103321",
+      "source_url": "",
+      "tags": [
+        "6779"
+      ]
+    },
+    "6781_看看影院_书源_20260218_103319.md": {
+      "source_name": "6781_看看影院_书源_20260218_103319",
+      "source_url": "",
+      "tags": [
+        "6781"
+      ]
+    },
+    "6782_夜读集小说_书源_20260218_103318.md": {
+      "source_name": "6782_夜读集小说_书源_20260218_103318",
+      "source_url": "",
+      "tags": [
+        "6782"
+      ]
+    },
+    "6783_爱下电子书_书源_20260218_103317.md": {
+      "source_name": "6783_爱下电子书_书源_20260218_103317",
+      "source_url": "",
+      "tags": [
+        "6783"
+      ]
+    },
+    "6785_必去读书库_书源_20260218_103316.md": {
+      "source_name": "6785_必去读书库_书源_20260218_103316",
+      "source_url": "",
+      "tags": [
+        "6785"
+      ]
+    },
+    "6792_天天看小说🪜_书源_20260218_103315.md": {
+      "source_name": "6792_天天看小说🪜_书源_20260218_103315",
+      "source_url": "",
+      "tags": [
+        "6792"
+      ]
+    },
+    "6803_百草露小说_书源_20260218_103313.md": {
+      "source_name": "6803_百草露小说_书源_20260218_103313",
+      "source_url": "",
+      "tags": [
+        "6803"
+      ]
+    },
+    "6806_🌸绅士漫画_书源_20260218_103312.md": {
+      "source_name": "6806_🌸绅士漫画_书源_20260218_103312",
+      "source_url": "",
+      "tags": [
+        "6806"
+      ]
+    },
+    "6807_哔哩哔哩_书源_20260218_102201.md": {
+      "source_name": "6807_哔哩哔哩_书源_20260218_102201",
+      "source_url": "",
+      "tags": [
+        "6807"
+      ]
+    },
+    "6807_哔哩哔哩_书源_20260218_103202.md": {
+      "source_name": "6807_哔哩哔哩_书源_20260218_103202",
+      "source_url": "",
+      "tags": [
+        "6807"
+      ]
+    },
+    "6808_笔趣阁_书源_20260218_103311.md": {
+      "source_name": "6808_笔趣阁_书源_20260218_103311",
+      "source_url": "",
+      "tags": [
+        "6808"
+      ]
+    },
+    "6809_八叉书库_书源_20260218_103310.md": {
+      "source_name": "6809_八叉书库_书源_20260218_103310",
+      "source_url": "",
+      "tags": [
+        "6809"
+      ]
+    },
+    "6810_爱下电子书_书源_20260218_103308.md": {
+      "source_name": "6810_爱下电子书_书源_20260218_103308",
+      "source_url": "",
+      "tags": [
+        "6810"
+      ]
+    },
+    "6812_🌸Hitomi漫_书源_20260218_103307.md": {
+      "source_name": "6812_🌸Hitomi漫_书源_20260218_103307",
+      "source_url": "",
+      "tags": [
+        "6812"
+      ]
+    },
+    "6813_爱看书吧_书源_20260218_103306.md": {
+      "source_name": "6813_爱看书吧_书源_20260218_103306",
+      "source_url": "",
+      "tags": [
+        "6813"
+      ]
+    },
+    "6814_八叉书库_书源_20260218_103305.md": {
+      "source_name": "6814_八叉书库_书源_20260218_103305",
+      "source_url": "",
+      "tags": [
+        "6814"
+      ]
+    },
+    "6815_🌸肉漫屋( 韩漫+ )_书源_20260218_103303.md": {
+      "source_name": "6815_🌸肉漫屋( 韩漫+ )_书源_20260218_103303",
+      "source_url": "",
+      "tags": [
+        "6815"
+      ]
+    },
+    "6816_🌸爱丽丝书屋(免翻)_书源_20260218_103301.md": {
+      "source_name": "6816_🌸爱丽丝书屋(免翻)_书源_20260218_103301",
+      "source_url": "",
+      "tags": [
+        "6816"
+      ]
+    },
+    "6817_番茄四合一_书源_20260218_103300.md": {
+      "source_name": "6817_番茄四合一_书源_20260218_103300",
+      "source_url": "",
+      "tags": [
+        "6817"
+      ]
+    },
+    "6819_CA 情色小说（修复）_书源_20260218_103259.md": {
+      "source_name": "6819_CA 情色小说（修复）_书源_20260218_103259",
+      "source_url": "",
+      "tags": [
+        "6819"
+      ]
+    },
+    "6820_🌸肉漫屋( 韩漫+ )_书源_20260218_103257.md": {
+      "source_name": "6820_🌸肉漫屋( 韩漫+ )_书源_20260218_103257",
+      "source_url": "",
+      "tags": [
+        "6820"
+      ]
+    },
+    "6830_万能精品源_书源_20260218_103256.md": {
+      "source_name": "6830_万能精品源_书源_20260218_103256",
+      "source_url": "",
+      "tags": [
+        "6830"
+      ]
+    },
+    "6832_茶杯狐_书源_20260218_103255.md": {
+      "source_name": "6832_茶杯狐_书源_20260218_103255",
+      "source_url": "",
+      "tags": [
+        "6832"
+      ]
+    },
+    "6834_天命皆烬小说_书源_20260218_103254.md": {
+      "source_name": "6834_天命皆烬小说_书源_20260218_103254",
+      "source_url": "",
+      "tags": [
+        "6834"
+      ]
+    },
+    "6835_茶马小说 [耽美]_书源_20260218_103252.md": {
+      "source_name": "6835_茶马小说 [耽美]_书源_20260218_103252",
+      "source_url": "",
+      "tags": [
+        "6835"
+      ]
+    },
+    "6837_美女图片网_书源_20260218_103250.md": {
+      "source_name": "6837_美女图片网_书源_20260218_103250",
+      "source_url": "",
+      "tags": [
+        "6837"
+      ]
+    },
+    "6841_🍅大灰狼聚合5.2.2(完全版)_书源_20260218_102216.md": {
+      "source_name": "6841_🍅大灰狼聚合5.2.2(完全版)_书源_20260218_102216",
+      "source_url": "",
+      "tags": [
+        "6841"
+      ]
+    },
+    "6841_🍅大灰狼聚合5.2.2(完全版)_书源_20260218_103213.md": {
+      "source_name": "6841_🍅大灰狼聚合5.2.2(完全版)_书源_20260218_103213",
+      "source_url": "",
+      "tags": [
+        "6841"
+      ]
+    },
+    "6842_汉书书_书源_20260218_103249.md": {
+      "source_name": "6842_汉书书_书源_20260218_103249",
+      "source_url": "",
+      "tags": [
+        "6842"
+      ]
+    },
+    "6844_速读谷_书源_20260218_103247.md": {
+      "source_name": "6844_速读谷_书源_20260218_103247",
+      "source_url": "",
+      "tags": [
+        "6844"
+      ]
+    },
+    "6857_多平台精品源_书源_20260218_103246.md": {
+      "source_name": "6857_多平台精品源_书源_20260218_103246",
+      "source_url": "",
+      "tags": [
+        "6857"
+      ]
+    },
+    "6873_📖Lofter_书源_20260218_102132.md": {
+      "source_name": "6873_📖Lofter_书源_20260218_102132",
+      "source_url": "",
+      "tags": [
+        "6873"
+      ]
+    },
+    "6873_📖Lofter_书源_20260218_102731.md": {
+      "source_name": "6873_📖Lofter_书源_20260218_102731",
+      "source_url": "",
+      "tags": [
+        "6873"
+      ]
+    },
+    "6873_📖Lofter_书源_20260218_103117.md": {
+      "source_name": "6873_📖Lofter_书源_20260218_103117",
+      "source_url": "",
+      "tags": [
+        "6873"
+      ]
+    },
+    "6874_无插件 - 赛事直播_书源_20260218_103245.md": {
+      "source_name": "6874_无插件 - 赛事直播_书源_20260218_103245",
+      "source_url": "",
+      "tags": [
+        "6874"
+      ]
+    },
+    "6875_顶点小说ddxsmf_书源_20260218_103244.md": {
+      "source_name": "6875_顶点小说ddxsmf_书源_20260218_103244",
+      "source_url": "",
+      "tags": [
+        "6875"
+      ]
+    },
+    "6876_18r（免梯子）_书源_20260218_103243.md": {
+      "source_name": "6876_18r（免梯子）_书源_20260218_103243",
+      "source_url": "",
+      "tags": [
+        "6876"
+      ]
+    },
+    "6880_速读谷_书源_20260218_103241.md": {
+      "source_name": "6880_速读谷_书源_20260218_103241",
+      "source_url": "",
+      "tags": [
+        "6880"
+      ]
+    },
+    "6881_ncode_syosetu(成为小说家吧)_书源_20260218_103240.md": {
+      "source_name": "6881_ncode_syosetu(成为小说家吧)_书源_20260218_103240",
+      "source_url": "",
+      "tags": [
+        "6881"
+      ]
+    },
+    "6882_八叉书库_书源_20260218_103239.md": {
+      "source_name": "6882_八叉书库_书源_20260218_103239",
+      "source_url": "",
+      "tags": [
+        "6882"
+      ]
+    },
+    "6883_🎨 177漫画🔥_书源_20260218_103238.md": {
+      "source_name": "6883_🎨 177漫画🔥_书源_20260218_103238",
+      "source_url": "",
+      "tags": [
+        "6883"
+      ]
+    },
+    "6884_🍅团夕小说_书源_20260218_103236.md": {
+      "source_name": "6884_🍅团夕小说_书源_20260218_103236",
+      "source_url": "",
+      "tags": [
+        "6884"
+      ]
+    },
+    "6885_🔞UAA-免梯-已绕过会员_书源_20260218_103235.md": {
+      "source_name": "6885_🔞UAA-免梯-已绕过会员_书源_20260218_103235",
+      "source_url": "",
+      "tags": [
+        "6885"
+      ]
+    },
+    "6887_🎉 八零小说_书源_20260218_103233.md": {
+      "source_name": "6887_🎉 八零小说_书源_20260218_103233",
+      "source_url": "",
+      "tags": [
+        "6887"
+      ]
+    },
+    "6890_苦读书_书源_20260218_103232.md": {
+      "source_name": "6890_苦读书_书源_20260218_103232",
+      "source_url": "",
+      "tags": [
+        "6890"
+      ]
+    },
+    "6892_🍅番茄专业户_书源_20260218_103228.md": {
+      "source_name": "6892_🍅番茄专业户_书源_20260218_103228",
+      "source_url": "",
+      "tags": [
+        "6892"
+      ]
+    },
+    "6895_篱笆好_书源_20260218_102230.md": {
+      "source_name": "6895_篱笆好_书源_20260218_102230",
+      "source_url": "",
+      "tags": [
+        "6895"
+      ]
+    },
+    "6895_篱笆好_书源_20260218_103227.md": {
+      "source_name": "6895_篱笆好_书源_20260218_103227",
+      "source_url": "",
+      "tags": [
+        "6895"
+      ]
+    },
+    "6896_元小说_书源_20260218_102228.md": {
+      "source_name": "6896_元小说_书源_20260218_102228",
+      "source_url": "",
+      "tags": [
+        "6896"
+      ]
+    },
+    "6896_元小说_书源_20260218_103225.md": {
+      "source_name": "6896_元小说_书源_20260218_103225",
+      "source_url": "",
+      "tags": [
+        "6896"
+      ]
+    },
+    "6897_篱笆好文（优+++）_书源_20260218_102227.md": {
+      "source_name": "6897_篱笆好文（优+++）_书源_20260218_102227",
+      "source_url": "",
+      "tags": [
+        "6897"
+      ]
+    },
+    "6897_篱笆好文（优+++）_书源_20260218_103224.md": {
+      "source_name": "6897_篱笆好文（优+++）_书源_20260218_103224",
+      "source_url": "",
+      "tags": [
+        "6897"
+      ]
+    },
+    "6900_闲看免费小说_书源_20260218_102226.md": {
+      "source_name": "6900_闲看免费小说_书源_20260218_102226",
+      "source_url": "",
+      "tags": [
+        "6900"
+      ]
+    },
+    "6900_闲看免费小说_书源_20260218_103223.md": {
+      "source_name": "6900_闲看免费小说_书源_20260218_103223",
+      "source_url": "",
+      "tags": [
+        "6900"
+      ]
+    },
+    "6904_🍅 番茄的缘_书源_20260218_102225.md": {
+      "source_name": "6904_🍅 番茄的缘_书源_20260218_102225",
+      "source_url": "",
+      "tags": [
+        "6904"
+      ]
+    },
+    "6904_🍅 番茄的缘_书源_20260218_103222.md": {
+      "source_name": "6904_🍅 番茄的缘_书源_20260218_103222",
+      "source_url": "",
+      "tags": [
+        "6904"
+      ]
+    },
+    "6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源)_书源_20260218_102143.md": {
+      "source_name": "6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源)_书源_20260218_102143",
+      "source_url": "",
+      "tags": [
+        "6905"
+      ]
+    },
+    "6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源)_书源_20260218_103150.md": {
+      "source_name": "6905_🍅番茄，七猫，塔读，得间，书旗(段评版聚合源)_书源_20260218_103150",
+      "source_url": "",
+      "tags": [
+        "6905"
+      ]
+    },
+    "6906_速读谷伪_书源_20260218_102223.md": {
+      "source_name": "6906_速读谷伪_书源_20260218_102223",
+      "source_url": "",
+      "tags": [
+        "6906"
+      ]
+    },
+    "6906_速读谷伪_书源_20260218_103221.md": {
+      "source_name": "6906_速读谷伪_书源_20260218_103221",
+      "source_url": "",
+      "tags": [
+        "6906"
+      ]
+    },
+    "6907_💫悦恋免费小说 - [☆星眠☆]_书源_20260218_102222.md": {
+      "source_name": "6907_💫悦恋免费小说 - [☆星眠☆]_书源_20260218_102222",
+      "source_url": "",
+      "tags": [
+        "6907"
+      ]
+    },
+    "6907_💫悦恋免费小说 - [☆星眠☆]_书源_20260218_103219.md": {
+      "source_name": "6907_💫悦恋免费小说 - [☆星眠☆]_书源_20260218_103219",
+      "source_url": "",
+      "tags": [
+        "6907"
+      ]
+    },
+    "6917_龙头小说_书源_20260218_102221.md": {
+      "source_name": "6917_龙头小说_书源_20260218_102221",
+      "source_url": "",
+      "tags": [
+        "6917"
+      ]
+    },
+    "6917_龙头小说_书源_20260218_103218.md": {
+      "source_name": "6917_龙头小说_书源_20260218_103218",
+      "source_url": "",
+      "tags": [
+        "6917"
+      ]
+    },
+    "6918_📖笔趣网_书源_20260218_102220.md": {
+      "source_name": "6918_📖笔趣网_书源_20260218_102220",
+      "source_url": "",
+      "tags": [
+        "6918"
+      ]
+    },
+    "6918_📖笔趣网_书源_20260218_103217.md": {
+      "source_name": "6918_📖笔趣网_书源_20260218_103217",
+      "source_url": "",
+      "tags": [
+        "6918"
+      ]
+    },
+    "6921_📚书山聚合_书源_20260218_102219.md": {
+      "source_name": "6921_📚书山聚合_书源_20260218_102219",
+      "source_url": "",
+      "tags": [
+        "6921"
+      ]
+    },
+    "6921_📚书山聚合_书源_20260218_103216.md": {
+      "source_name": "6921_📚书山聚合_书源_20260218_103216",
+      "source_url": "",
+      "tags": [
+        "6921"
+      ]
+    },
+    "6923_久久漫画_书源_20260218_102217.md": {
+      "source_name": "6923_久久漫画_书源_20260218_102217",
+      "source_url": "",
+      "tags": [
+        "6923"
+      ]
+    },
+    "6923_久久漫画_书源_20260218_103214.md": {
+      "source_name": "6923_久久漫画_书源_20260218_103214",
+      "source_url": "",
+      "tags": [
+        "6923"
+      ]
+    },
+    "6927_书豪小说网_书源_20260218_102215.md": {
+      "source_name": "6927_书豪小说网_书源_20260218_102215",
+      "source_url": "",
+      "tags": [
+        "6927"
+      ]
+    },
+    "6927_书豪小说网_书源_20260218_103212.md": {
+      "source_name": "6927_书豪小说网_书源_20260218_103212",
+      "source_url": "",
+      "tags": [
+        "6927"
+      ]
+    },
+    "6928_速读谷_书源_20260218_102213.md": {
+      "source_name": "6928_速读谷_书源_20260218_102213",
+      "source_url": "",
+      "tags": [
+        "6928"
+      ]
+    },
+    "6928_速读谷_书源_20260218_103211.md": {
+      "source_name": "6928_速读谷_书源_20260218_103211",
+      "source_url": "",
+      "tags": [
+        "6928"
+      ]
+    },
+    "6930_东方小说网_书源_20260218_102211.md": {
+      "source_name": "6930_东方小说网_书源_20260218_102211",
+      "source_url": "",
+      "tags": [
+        "6930"
+      ]
+    },
+    "6930_东方小说网_书源_20260218_103208.md": {
+      "source_name": "6930_东方小说网_书源_20260218_103208",
+      "source_url": "",
+      "tags": [
+        "6930"
+      ]
+    },
+    "6931_梦想家文学_书源_20260218_102210.md": {
+      "source_name": "6931_梦想家文学_书源_20260218_102210",
+      "source_url": "",
+      "tags": [
+        "6931"
+      ]
+    },
+    "6931_梦想家文学_书源_20260218_103207.md": {
+      "source_name": "6931_梦想家文学_书源_20260218_103207",
+      "source_url": "",
+      "tags": [
+        "6931"
+      ]
+    },
+    "6932_🍓番茄免费小说-[春节限定版]_书源_20260218_102209.md": {
+      "source_name": "6932_🍓番茄免费小说-[春节限定版]_书源_20260218_102209",
+      "source_url": "",
+      "tags": [
+        "6932"
+      ]
+    },
+    "6932_🍓番茄免费小说-[春节限定版]_书源_20260218_103206.md": {
+      "source_name": "6932_🍓番茄免费小说-[春节限定版]_书源_20260218_103206",
+      "source_url": "",
+      "tags": [
+        "6932"
+      ]
+    },
+    "6933_漫小肆20251217_书源_20260218_102207.md": {
+      "source_name": "6933_漫小肆20251217_书源_20260218_102207",
+      "source_url": "",
+      "tags": [
+        "6933"
+      ]
+    },
+    "6933_漫小肆20251217_书源_20260218_103205.md": {
+      "source_name": "6933_漫小肆20251217_书源_20260218_103205",
+      "source_url": "",
+      "tags": [
+        "6933"
+      ]
+    },
+    "6934_东方小说网_书源_20260218_102203.md": {
+      "source_name": "6934_东方小说网_书源_20260218_102203",
+      "source_url": "",
+      "tags": [
+        "6934"
+      ]
+    },
+    "6934_东方小说网_书源_20260218_103203.md": {
+      "source_name": "6934_东方小说网_书源_20260218_103203",
+      "source_url": "",
+      "tags": [
+        "6934"
+      ]
+    },
+    "6935_速读谷_书源_20260218_102154.md": {
+      "source_name": "6935_速读谷_书源_20260218_102154",
+      "source_url": "",
+      "tags": [
+        "6935"
+      ]
+    },
+    "6935_速读谷_书源_20260218_103200.md": {
+      "source_name": "6935_速读谷_书源_20260218_103200",
+      "source_url": "",
+      "tags": [
+        "6935"
+      ]
+    },
+    "6936_得奇小说网_书源_20260218_102152.md": {
+      "source_name": "6936_得奇小说网_书源_20260218_102152",
+      "source_url": "",
+      "tags": [
+        "6936"
+      ]
+    },
+    "6936_得奇小说网_书源_20260218_103157.md": {
+      "source_name": "6936_得奇小说网_书源_20260218_103157",
+      "source_url": "",
+      "tags": [
+        "6936"
+      ]
+    },
+    "6937_🎆起点中文网(按钮筛选)_书源_20260218_102151.md": {
+      "source_name": "6937_🎆起点中文网(按钮筛选)_书源_20260218_102151",
+      "source_url": "",
+      "tags": [
+        "6937"
+      ]
+    },
+    "6937_🎆起点中文网(按钮筛选)_书源_20260218_103156.md": {
+      "source_name": "6937_🎆起点中文网(按钮筛选)_书源_20260218_103156",
+      "source_url": "",
+      "tags": [
+        "6937"
+      ]
+    },
+    "6940_📪第一版主820_书源_20260218_102149.md": {
+      "source_name": "6940_📪第一版主820_书源_20260218_102149",
+      "source_url": "",
+      "tags": [
+        "6940"
+      ]
+    },
+    "6940_📪第一版主820_书源_20260218_103155.md": {
+      "source_name": "6940_📪第一版主820_书源_20260218_103155",
+      "source_url": "",
+      "tags": [
+        "6940"
+      ]
+    },
+    "6941_🍓番茄免费小说-[春节限定版]_书源_20260218_102148.md": {
+      "source_name": "6941_🍓番茄免费小说-[春节限定版]_书源_20260218_102148",
+      "source_url": "",
+      "tags": [
+        "6941"
+      ]
+    },
+    "6941_🍓番茄免费小说-[春节限定版]_书源_20260218_103154.md": {
+      "source_name": "6941_🍓番茄免费小说-[春节限定版]_书源_20260218_103154",
+      "source_url": "",
+      "tags": [
+        "6941"
+      ]
+    },
+    "6942_万能精品聚合_书源_20260218_102146.md": {
+      "source_name": "6942_万能精品聚合_书源_20260218_102146",
+      "source_url": "",
+      "tags": [
+        "6942"
+      ]
+    },
+    "6942_万能精品聚合_书源_20260218_103152.md": {
+      "source_name": "6942_万能精品聚合_书源_20260218_103152",
+      "source_url": "",
+      "tags": [
+        "6942"
+      ]
+    },
+    "6943_📪第一版主820_书源_20260218_102144.md": {
+      "source_name": "6943_📪第一版主820_书源_20260218_102144",
+      "source_url": "",
+      "tags": [
+        "6943"
+      ]
+    },
+    "6943_📪第一版主820_书源_20260218_103151.md": {
+      "source_name": "6943_📪第一版主820_书源_20260218_103151",
+      "source_url": "",
+      "tags": [
+        "6943"
+      ]
+    },
+    "6946_📪第一版主_书源_20260218_102140.md": {
+      "source_name": "6946_📪第一版主_书源_20260218_102140",
+      "source_url": "",
+      "tags": [
+        "6946"
+      ]
+    },
+    "6946_📪第一版主_书源_20260218_103147.md": {
+      "source_name": "6946_📪第一版主_书源_20260218_103147",
+      "source_url": "",
+      "tags": [
+        "6946"
+      ]
+    },
+    "6948_乐乐_书源_20260218_102138.md": {
+      "source_name": "6948_乐乐_书源_20260218_102138",
+      "source_url": "",
+      "tags": [
+        "6948"
+      ]
+    },
+    "6948_乐乐_书源_20260218_103145.md": {
+      "source_name": "6948_乐乐_书源_20260218_103145",
+      "source_url": "",
+      "tags": [
+        "6948"
+      ]
+    },
+    "6949_🔞乐成漫画_书源_20260218_102136.md": {
+      "source_name": "6949_🔞乐成漫画_书源_20260218_102136",
+      "source_url": "",
+      "tags": [
+        "6949"
+      ]
+    },
+    "6949_🔞乐成漫画_书源_20260218_103144.md": {
+      "source_name": "6949_🔞乐成漫画_书源_20260218_103144",
+      "source_url": "",
+      "tags": [
+        "6949"
+      ]
+    },
+    "6965_📖笔趣阁手机版_书源_20260218_102135.md": {
+      "source_name": "6965_📖笔趣阁手机版_书源_20260218_102135",
+      "source_url": "",
+      "tags": [
+        "6965"
+      ]
+    },
+    "6965_📖笔趣阁手机版_书源_20260218_103143.md": {
+      "source_name": "6965_📖笔趣阁手机版_书源_20260218_103143",
+      "source_url": "",
+      "tags": [
+        "6965"
+      ]
+    },
+    "unknown_无插件 - 赛事直播_书源_20260218_103125.md": {
+      "source_name": "unknown_无插件 - 赛事直播_书源_20260218_103125",
+      "source_url": "",
+      "tags": [
+        "unknown"
+      ]
+    }
+  },
+  "patterns": [],
+  "selectors": [
+    ".book-name",
+    ".author",
+    ".cover",
+    ".content",
+    ".div",
+    ".-1",
+    "#content",
+    "#main",
+    ".container",
+    ".item",
+    ".book-item",
+    ".title",
+    ".author-info",
+    ".intro",
+    ".cover-img",
+    ".chapter-list",
+    ".next-page",
+    ".log",
+    ".toString",
+    ".get",
+    ".put"
+  ]
+}

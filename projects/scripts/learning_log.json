@@ -1,0 +1,709 @@
+{
+  "learning_history": [
+    {
+      "timestamp": "2026-02-18T10:31:40.545507",
+      "source_id": "6873",
+      "title": "📖Lofter 📖Lofter",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:41.839734",
+      "source_id": "1751",
+      "title": "🏷晋江文学 https://m.jjwxc.net/channel/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:43.058204",
+      "source_id": "6965",
+      "title": "📖笔趣阁手机版 http://www.biqugem.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:44.308868",
+      "source_id": "6949",
+      "title": "🔞乐成漫画 https://www.lcmhx.asia",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:45.516033",
+      "source_id": "6948",
+      "title": "乐乐 https://www.lcmhx.asia",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:46.728953",
+      "source_id": "6947",
+      "title": "VirtualTaboo直播 https://zh.virtualtaboo.live",
+      "success": false,
+      "message": "学习失败"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:47.949395",
+      "source_id": "6946",
+      "title": "📪第一版主 https://www.bz33333333.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:49.182431",
+      "source_id": "6077",
+      "title": "同人小说网 https://www.tongrenxsw.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:50.429793",
+      "source_id": "6905",
+      "title": "🍅番茄，七猫，塔读，得间，书旗(段评版聚合源) 晴天融合VIP5.0",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:51.664426",
+      "source_id": "6943",
+      "title": "📪第一版主820 https://www.bz88888.net////##",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:52.907325",
+      "source_id": "6942",
+      "title": "万能精品聚合 万能精品聚合",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:54.146574",
+      "source_id": "6941",
+      "title": "🍓番茄免费小说-[春节限定版] https://xingmian.cmcure.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:55.370318",
+      "source_id": "6940",
+      "title": "📪第一版主820 https://www.bz444444.net",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:56.595554",
+      "source_id": "6937",
+      "title": "🎆起点中文网(按钮筛选) https://m.qidian.com#按钮筛选",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:57.803654",
+      "source_id": "6936",
+      "title": "得奇小说网 https://www.deqixs.co",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:31:59.019739",
+      "source_id": "6332",
+      "title": "🔞完本小说网 https://www.finalbooks.work",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:00.244029",
+      "source_id": "6935",
+      "title": "速读谷 https://www.sudugu.org/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:01.484153",
+      "source_id": "6746",
+      "title": "🌞A晴天聚合5.2.03(终极版) 晴天融合VIP4.0",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:02.722264",
+      "source_id": "6807",
+      "title": "哔哩哔哩 哔哩哔哩",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:03.925823",
+      "source_id": "6934",
+      "title": "东方小说网 https://m.cndfzw.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:05.158428",
+      "source_id": "6933",
+      "title": "漫小肆20251217 https://www.jjmh.top/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:06.374511",
+      "source_id": "6932",
+      "title": "🍓番茄免费小说-[春节限定版] http://rose.novel.lzink.icu",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:07.615135",
+      "source_id": "6931",
+      "title": "梦想家文学 http://www.mxjtedu.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:08.822900",
+      "source_id": "6930",
+      "title": "东方小说网 https://www.cndfzw.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:10.018821",
+      "source_id": "6929",
+      "title": "爱奇小说网 https://m.aqxsw.com/",
+      "success": false,
+      "message": "学习失败"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:11.221451",
+      "source_id": "6928",
+      "title": "速读谷 https://www.sudugu.org/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:12.438123",
+      "source_id": "6927",
+      "title": "书豪小说网 https://www.shuhaoxs.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:13.674494",
+      "source_id": "6841",
+      "title": "🍅大灰狼聚合5.2.2(完全版) 大灰狼融合5.0",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:14.882480",
+      "source_id": "6923",
+      "title": "久久漫画 https://www.jjmhw.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:16.116475",
+      "source_id": "6921",
+      "title": "📚书山聚合 https://search.shusan.icu",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:17.354075",
+      "source_id": "6918",
+      "title": "📖笔趣网 http://www.bqgu.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:18.584871",
+      "source_id": "6917",
+      "title": "龙头小说 http://m.ltxs.la/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:19.849523",
+      "source_id": "6907",
+      "title": "💫悦恋免费小说 - [☆星眠☆] 情不知所起一往而深，\n情不知所终一笑而泯。\n––––––––––––––––@星眠",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:21.093500",
+      "source_id": "6906",
+      "title": "速读谷伪 http://www.sudugu.co",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:22.309511",
+      "source_id": "6904",
+      "title": "🍅 番茄的缘 https://reading.snssdk.com#0",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:23.535142",
+      "source_id": "6900",
+      "title": "闲看免费小说 http://nav.jijia-co.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:24.733416",
+      "source_id": "6897",
+      "title": "篱笆好文（优+++） https://m.libahao.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:25.983253",
+      "source_id": "6896",
+      "title": "元小说 https://metanetnovel.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:27.208596",
+      "source_id": "6895",
+      "title": "篱笆好 https://m.libahao.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:28.436327",
+      "source_id": "6892",
+      "title": "🍅番茄专业户 番茄和精品",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:29.720455",
+      "source_id": "4925",
+      "title": "📚豆瓣阅读 https://read.douban.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:30.955210",
+      "source_id": "6891",
+      "title": "📥 奇书网 https://www.qishu99.cc",
+      "success": false,
+      "message": "学习失败"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:32.159091",
+      "source_id": "6890",
+      "title": "苦读书 http://www.kudushu.org",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:33.374806",
+      "source_id": "6887",
+      "title": "🎉 八零小说 http://www.80zw.la",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:34.570857",
+      "source_id": "6886",
+      "title": "📥 爱去小说 https://www.aiqu999.com",
+      "success": false,
+      "message": "学习失败"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:35.791679",
+      "source_id": "6885",
+      "title": "🔞UAA-免梯-已绕过会员 https://api.qiubai.icu",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:36.981373",
+      "source_id": "6884",
+      "title": "🍅团夕小说 https://novel.snssdk.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:38.189449",
+      "source_id": "6883",
+      "title": "🎨 177漫画🔥 http://www.177pic.info",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:39.388913",
+      "source_id": "6882",
+      "title": "八叉书库 https://bcshuku.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:40.623078",
+      "source_id": "6881",
+      "title": "ncode_syosetu(成为小说家吧) https://ncode.syosetu.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:41.849823",
+      "source_id": "6880",
+      "title": "速读谷 https://www.sudugu.org",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:43.073742",
+      "source_id": "6876",
+      "title": "18r（免梯子） https://jiek.qiubai.icu/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:44.296945",
+      "source_id": "6875",
+      "title": "顶点小说ddxsmf https://www.ddxsmf.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:45.496619",
+      "source_id": "6874",
+      "title": "无插件 - 赛事直播 http://www.wuchajian.xyz",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:46.697548",
+      "source_id": "6857",
+      "title": "多平台精品源 多平台精品源",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:47.919084",
+      "source_id": "6844",
+      "title": "速读谷 https://www.sudugu.org",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:49.162632",
+      "source_id": "6842",
+      "title": "汉书书 https://m.hanshubooks.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:50.387223",
+      "source_id": "6837",
+      "title": "美女图片网 https://m.ku1372.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:51.644286",
+      "source_id": "6112",
+      "title": "🌈网易云音乐 https://网易云音乐.luoyacheng.ip-ddns.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:52.886860",
+      "source_id": "6835",
+      "title": "茶马小说 [耽美] https://www.chamabooks.net",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:54.126905",
+      "source_id": "6834",
+      "title": "天命皆烬小说 https://www.genwohua.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:55.361324",
+      "source_id": "6832",
+      "title": "茶杯狐 https://www.cupfox7.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:56.616962",
+      "source_id": "6830",
+      "title": "万能精品源 精品源",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:57.854465",
+      "source_id": "6820",
+      "title": "🌸肉漫屋( 韩漫+ ) https://roum26.xyz",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:32:59.074646",
+      "source_id": "6819",
+      "title": "CA 情色小说（修复） https://canovel.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:00.294658",
+      "source_id": "6817",
+      "title": "番茄四合一 http://103.189.141.163:9587",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:01.509083",
+      "source_id": "6816",
+      "title": "🌸爱丽丝书屋(免翻) https://xn--vcsx64d.alicesw12.xyz/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:02.732005",
+      "source_id": "5718",
+      "title": "书耽 https://app.shubl.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:03.984004",
+      "source_id": "6815",
+      "title": "🌸肉漫屋( 韩漫+ ) https://roum26.xyz",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:05.240136",
+      "source_id": "6814",
+      "title": "八叉书库 https://www.8xsk.info",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:06.471498",
+      "source_id": "6813",
+      "title": "爱看书吧 https://m.aidushu8.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:07.696180",
+      "source_id": "6812",
+      "title": "🌸Hitomi漫 https://hitomi.si/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:08.945140",
+      "source_id": "6810",
+      "title": "爱下电子书 https://ixdzs8.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:10.171989",
+      "source_id": "6809",
+      "title": "八叉书库 https://www.8xsk.info",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:11.387806",
+      "source_id": "6808",
+      "title": "笔趣阁 https://www.bqquge.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:12.605122",
+      "source_id": "6806",
+      "title": "🌸绅士漫画 https://www.wn06.ru/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:13.845180",
+      "source_id": "6803",
+      "title": "百草露小说 https://m.baicaolu.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:15.061068",
+      "source_id": "6792",
+      "title": "天天看小说🪜 https://ttks.tw/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:16.293462",
+      "source_id": "6785",
+      "title": "必去读书库 http://m.biqugei.org",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:17.517656",
+      "source_id": "6783",
+      "title": "爱下电子书 https://ixdzs.tw/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:18.742199",
+      "source_id": "6782",
+      "title": "夜读集小说 https://www.yeduji.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:19.974952",
+      "source_id": "6781",
+      "title": "看看影院 http://k9.9967.top/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:21.226156",
+      "source_id": "6779",
+      "title": "ESJ Zone https://www.esjzone.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:22.459066",
+      "source_id": "6778",
+      "title": "🎨禁漫天堂 https://18comic.vip",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:23.682479",
+      "source_id": "6777",
+      "title": "🌈笔趣中文网 http://www.bqgz.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:24.903221",
+      "source_id": "6776",
+      "title": "全能书源 全能书源",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:26.116827",
+      "source_id": "6775",
+      "title": "365小说网 http://www.shukuge.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:27.348446",
+      "source_id": "6774",
+      "title": "小说520 https://www.xs520.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:28.566375",
+      "source_id": "6773",
+      "title": "🄼冰清阁小说 https://m.bqgcn.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:29.808156",
+      "source_id": "6772",
+      "title": "顶点小说 https://www.dingdian6.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:31.047460",
+      "source_id": "6771",
+      "title": "600小说网 http://www.600zz.com",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:32.279948",
+      "source_id": "6763",
+      "title": "九桃小说 https://k09.a506wge.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:33.523906",
+      "source_id": "6761",
+      "title": "番茄（发现） https://fanqienovel.com####嘿嘿",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:34.788636",
+      "source_id": "6760",
+      "title": "ꂵ 30读书 https://www.30dushu.com/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:35.995652",
+      "source_id": "6759",
+      "title": "🄼 八一 https://www.blxs.info/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:37.204460",
+      "source_id": "6758",
+      "title": "亲亲小说qinqinxiaoshuo https://www.qinqinxiaoshuo.cc",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:38.399830",
+      "source_id": "6757",
+      "title": "奇书网 https://m.qishu99.cc/",
+      "success": false,
+      "message": "学习失败"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:39.595771",
+      "source_id": "6754",
+      "title": "云轩阁小说网 http://www.yunxuange.cc/",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:40.811950",
+      "source_id": "6753",
+      "title": "kuronavi漫画raw https://kuronavi.blog",
+      "success": true,
+      "message": "学习成功"
+    },
+    {
+      "timestamp": "2026-02-18T10:33:42.056878",
+      "source_id": "6752",
+      "title": "旧钢笔 https://p.jiugangbi.com",
+      "success": true,
+      "message": "学习成功"
+    }
+  ],
+  "statistics": {
+    "total_learned": 100,
+    "success_count": 95,
+    "fail_count": 5
+  }
+}
