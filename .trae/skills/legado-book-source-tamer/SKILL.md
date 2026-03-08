@@ -2746,6 +2746,69 @@ GBK 必须要声明。
 
 ---
 
+## 🔧 直接调用现有工具（重要！）
+
+### 🚨 不要创建新的py文件！
+
+**技能包中已有完整的调试工具，直接调用即可！**
+
+### 📂 现有工具位置
+
+| 工具 | 路径 | 用途 |
+|------|------|------|
+| 通用调试器 | `debugger/test_universal.py` | 书源完整流程测试 |
+| 调试引擎 | `debugger/engine/debug_engine.py` | 核心调试逻辑 |
+| 文件整理器 | `debugger/engine/file_organizer.py` | 文件整理到temp目录 |
+| 规则分析器 | `debugger/engine/analyze_rule.py` | 规则解析和验证 |
+| 网页获取器 | `debugger/engine/web_book.py` | HTTP请求和HTML获取 |
+
+### 📝 直接调用示例
+
+#### 1. 调试书源（完整流程）
+```bash
+python debugger/test_universal.py temp/书源名称/书源名称.json -k "搜索关键词"
+```
+
+#### 2. 文件整理（使用RunCommand）
+```python
+# 使用 RunCommand 工具执行：
+python -c "
+import sys
+sys.path.insert(0, 'd:/pack_project_1771468148809/legadoSkill')
+from debugger.engine.file_organizer import organize_book_source_files
+
+result = organize_book_source_files(
+    book_source_name='无限小说网',
+    files_to_move=['d:/pack_project_1771468148809/legadoSkill/temp/无限小说网.json'],
+    copy_mode=False
+)
+print(result.message)
+"
+```
+
+#### 3. 获取网页HTML（使用内置模块）
+```python
+# 使用 RunCommand 工具执行：
+python -c "
+import sys
+sys.path.insert(0, 'd:/pack_project_1771468148809/legadoSkill')
+from debugger.engine.web_book import WebBook
+
+web = WebBook()
+html = web.fetch_html('https://wuxianbook.com')
+print(html[:500])
+"
+```
+
+### ⚠️ 重要原则
+
+1. **不要创建新的py文件** - 所有工具都在 `debugger/` 目录下
+2. **直接调用现有模块** - 使用 `from debugger.engine.xxx import xxx`
+3. **输出文件到temp目录** - 所有缓存文件存放在 `temp/`
+4. **参考官方源码** - `legado/` 目录下的Kotlin代码是权威
+
+---
+
 ## 🛠️ 核心工具代码参考
 
 以下是从 `src` 目录中提取的核心工具代码，供开发者参考。
