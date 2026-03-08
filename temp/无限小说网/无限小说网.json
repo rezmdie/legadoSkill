@@ -1,0 +1,35 @@
+[
+  {
+    "bookSourceName": "无限小说网",
+    "bookSourceUrl": "https://wuxianbook.com",
+    "bookSourceType": 0,
+    "searchUrl": "https://wuxianbook.com/e/search/index.php,{\"method\":\"POST\",\"body\":\"keyboard={{key}}&tbname=bookname&show=title,writer&tempid=1\"}",
+    "ruleSearch": {
+      "bookList": ".s-nv-list li.search-wrap-first",
+      "name": ".book-title .title@text",
+      "author": ".book-author@text##^作者:##",
+      "bookUrl": "a@href",
+      "coverUrl": "img@src",
+      "intro": ".book-base-info p@text"
+    },
+    "ruleBookInfo": {
+      "init": "<js>\nvar src=java.getString(\"tag.section.0@html\");\nvar id=src.match(/data\\-bookid\\=\\\"(\\d+)\\\"/);\nif(id){\njava.put(\"id\",id[1]);\n}\n</js>",
+      "name": ".detail-book-title@text",
+      "author": ".detail-book-author a@text",
+      "coverUrl": ".detail-header-img img@src",
+      "intro": ".cover-book-desc p@text",
+      "kind": ".detail-book-classify-etc a@text",
+      "lastChapter": ".cover-book-latest-chapter .cover-mate-text@text",
+      "tocUrl": "<js>\nvar id=java.get(\"id\");\nif(id){\n\"https://wuxianbook.com/e/extend/bookpage/pages.php?id=\"+id+\"&pageNum=0&dz=asc\";\n}else{\nbaseUrl;\n}\n</js>"
+    },
+    "ruleToc": {
+      "chapterList": ".list[*]",
+      "chapterName": ".title",
+      "chapterUrl": "{{book.bookUrl}}{{$.pic}}",
+      "nextTocUrl": ".totalPage\n<js>\nvar id=java.get(\"id\");\nvar match=String(result).match(/(\\d+)/);\nif(match){\nvar n=parseInt(match[1]);\nvar list=[];\nfor(var i=1;i<=n;i++){\nlist.push(\"https://wuxianbook.com/e/extend/bookpage/pages.php?id=\"+id+\"&pageNum=\"+i+\"&dz=asc\");\n}\nlist;\n}\n</js>"
+    },
+    "ruleContent": {
+      "content": ".txt p@textNodes"
+    }
+  }
+]

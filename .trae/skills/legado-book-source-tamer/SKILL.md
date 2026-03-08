@@ -81,15 +81,16 @@ description: "Legado书源驯兽师，自动化分析网站结构生成书源，
 
 ```
 legadoSkill/
-├── 笔趣阁m.bqg5.json              # 书源JSON文件（输出）
-├── 起点中文网.json                # 书源JSON文件（输出）
-├── 其他书源.json                  # 书源JSON文件（输出）
+├── temp/                           # 📦 缓存文件目录（所有临时文件存放处）
+│   ├── 书源名称/                   # 书源专属文件夹
+│   │   ├── 书源名称.json           # 书源JSON配置
+│   │   ├── search.html             # 搜索页HTML
+│   │   ├── book.html               # 详情页HTML
+│   │   └── content.html            # 正文页HTML
+│   └── ...
 ├── .trae/skills/legado-book-source-tamer/
 │   └── SKILL.md                    # 本技能包
-├── config/
-│   ├── system_prompt.md            # 系统提示词（完整工作流程）
-│   └── system/prompt.md            # 详细提示词（规则规范）
-├── debugger/                       # 调试引擎（核心）
+├── debugger/                       # 🔧 通用调试工具（优先使用！）
 │   ├── test_universal.py           # 通用测试入口
 │   ├── engine/
 │   │   ├── debug_engine.py         # 调试引擎主类
@@ -97,26 +98,62 @@ legadoSkill/
 │   │   ├── book_source.py          # 书源数据模型
 │   │   ├── web_book.py             # 网页获取器
 │   │   ├── auto_fixer.py           # 自动修复迭代模块
-│   │   └── file_organizer.py       # 文件整理模块（新增！）
+│   │   └── file_organizer.py       # 文件整理模块
 │   └── legado_checker.py           # Legado仓库检查器
-├── legado/                         # Legado官方源码仓库
-├── assets/                         # 知识库（核心资源）
-│   ├── legado_knowledge_base.md    # 完整知识库
-│   ├── css选择器规则.txt           # CSS选择器规则
-│   ├── 书源规则：从入门到入土.md    # 详细教程
-│   ├── 真实书源模板库.txt           # 真实模板
-│   ├── 真实书源高级功能分析.md      # 高级功能
-│   ├── 智能体自我认知.md            # 智能体认知
-│   ├── 智能体常用话术库.md          # 话术模板
-│   ├── 智能体输出格式优化指南.md    # 输出格式
-│   ├── 书源输出模板_严格模式.md    # 严格模板
-│   ├── 活力宝的书源日记231224.txt  # 实战技巧
-│   ├── 方法-JS扩展类.md            # JS扩展方法
-│   ├── 方法-加密解密.md            # 加密解密
-│   ├── 方法-登录检查JS.md          # 登录检查
-│   └── knowledge_base/book_sources/ # 1751个真实书源案例
-└── test_result.txt                 # 测试结果输出
+├── legado/                         # 📖 官方阅读源码（权威参考）
+│   └── app/src/main/java/io/legado/app/
+│       ├── model/analyzeRule/      # 规则分析器源码
+│       ├── data/entities/          # 书源实体定义
+│       └── model/                  # 搜索、目录、正文模型
+├── skills/                         # 📚 其他技能包版本
+│   ├── SKILLV0.1.md
+│   ├── SKILLV0.2.md
+│   ├── SKILLV0.3.md
+│   └── SKILLV0.4.md
+├── docs/                           # 📄 说明文档
+│   ├── ESSENTIAL_KNOWLEDGE_SUMMARY.md
+│   ├── PROJECT_ARCHITECTURE.md
+│   └── ...
+├── config/                         # ⚙️ 早期配置文件
+│   ├── system_prompt.md
+│   └── system/prompt.md
+├── assets/                         # 📚 知识库
+│   ├── legado_knowledge_base.md
+│   ├── css选择器规则.txt
+│   ├── 书源规则：从入门到入土.md
+│   └── knowledge_base/book_sources/
+└── ...
 ```
+
+### 🚨 文件创建规则（必须遵守！）
+
+**所有临时文件、缓存文件、书源JSON必须创建在 `temp/` 目录下！**
+
+| 文件类型 | 创建位置 | 示例 |
+|---------|---------|------|
+| 书源JSON | `temp/书源名称/书源名称.json` | `temp/无限小说网/无限小说网.json` |
+| HTML缓存 | `temp/书源名称/xxx.html` | `temp/无限小说网/search.html` |
+| Python脚本 | `temp/xxx.py` | `temp/fetch_data.py` |
+| 测试文件 | `temp/xxx.txt` | `temp/test_result.txt` |
+
+### 🔧 工具调用优先级
+
+1. **优先使用内置工具**：`debugger/` 目录下的调试模块
+2. **参考官方源码**：`legado/` 目录下的Kotlin源码是权威
+3. **不要创建新工具**：如果技能包里有工具，就用技能包里的
+4. **知识库查询**：`assets/` 目录下的知识文档
+
+### 📂 目录用途速查
+
+| 目录 | 用途 | 是否可写 |
+|------|------|---------|
+| `temp/` | 缓存文件、书源输出 | ✅ 可写 |
+| `debugger/` | 调试工具 | ❌ 只读 |
+| `legado/` | 官方源码参考 | ❌ 只读 |
+| `skills/` | 技能包版本 | ❌ 只读 |
+| `docs/` | 说明文档 | ❌ 只读 |
+| `config/` | 配置文件 | ❌ 只读 |
+| `assets/` | 知识库 | ❌ 只读 |
 
 ---
 
@@ -2811,7 +2848,27 @@ print(html[:500])
 
 ## 🛠️ 核心工具代码参考
 
-以下是从 `src` 目录中提取的核心工具代码，供开发者参考。
+### ⚠️ 重要说明
+
+**以下代码只是文档说明，真正的可执行代码在 `debugger/` 目录下！**
+
+**使用方法：直接用 RunCommand 调用现有模块，不要创建新的py文件！**
+
+```python
+# ✅ 正确：直接调用现有模块
+python -c "
+import sys
+sys.path.insert(0, 'd:/pack_project_1771468148809/legadoSkill')
+from debugger.engine.file_organizer import organize_book_source_files
+result = organize_book_source_files(book_source_name='书源名称', files_to_move=['文件路径'])
+print(result.message)
+"
+
+# ❌ 错误：创建新的py文件
+# 不要这样做！直接用上面的方式调用现有模块
+```
+
+以下是从 `debugger/` 目录中提取的核心工具代码，供参考理解。
 
 ### 0. 文件整理工具 (file_organizer.py)
 
@@ -4830,6 +4887,133 @@ JS代码找API。
 ```js
 // 代码示例
 ```
+```
+
+---
+
+#### 📅 2026-03-08 进化内容
+
+##### 9. API分页目录的正确处理方式（非常重要！）
+
+**用户反馈**：提供了无限小说网的正确书源写法
+
+**问题分析**：
+- 之前错误地用JS一次性获取所有章节，导致返回字符串而非列表
+- 错误：`JSON.stringify(list)` 返回字符串，`getElements`期望List对象
+- 正确做法是使用 `nextTocUrl` 分页获取
+
+**吸收内容**：
+1. **使用 `init` 字段预处理数据**：在详情页提取bookId并存储
+2. **使用 `tocUrl` 指向API接口**：让目录规则从API获取数据
+3. **使用 `nextTocUrl` 实现分页**：返回下一页URL列表，Legado自动遍历
+4. **使用 `{{book.bookUrl}}` 和 `$.pic` 拼接URL**：动态拼接章节URL
+
+**正确写法**：
+```json
+{
+  "ruleBookInfo": {
+    "init": "<js>\nid=src.match(/data\\-bookid\\=\\\"(\\d+)\\\"/)[1]\njava.put(\"id\",id)\n</js>",
+    "tocUrl": "<js>\nid=java.get(\"id\");\nurl=\"https://wuxianbook.com/e/extend/bookpage/pages.php?id=\"+id+\"&pageNum=0&dz=asc\"\nurl;\n</js>"
+  },
+  "ruleToc": {
+    "chapterList": ".list[*]",
+    "chapterName": ".title",
+    "chapterUrl": "{{book.bookUrl}}{{$.pic}}",
+    "nextTocUrl": ".totalPage\n<js>\nid=java.get(\"id\");\nmatch=String(result).match(/(\\d+)/)\nn=match[1]\nlist=[]\nfor(var i=1;i<=n;i++){\nlist.push(\"https://wuxianbook.com/e/extend/bookpage/pages.php?id=\"+id+\"&pageNum=\"+i+\"&dz=asc\")\n}\nlist;\n</js>"
+  }
+}
+```
+
+**转化为口诀**：
+```
+API分页目录处理：
+init预处理存变量，
+tocUrl指向API接口。
+nextTocUrl返回URL列表，
+Legado自动遍历获取。
+{{book.bookUrl}}拼接URL，
+$.pic提取章节路径。
+```
+
+##### 10. 使用property属性提取元数据（优化！）
+
+**吸收内容**：
+- 使用 `[property$=xxx]@content` 提取meta标签的content属性
+- 比CSS选择器更稳定，不受页面结构变化影响
+
+**示例**：
+```json
+{
+  "author": "[property$=author]@content",
+  "coverUrl": "[property$=image]@content",
+  "intro": "[property$=description]@content",
+  "name": "[property$=book_name]@content",
+  "lastChapter": "[property$=latest_chapter_name]@content",
+  "kind": "[property~=category|status|update_time]@content"
+}
+```
+
+**转化为口诀**：
+```
+property属性提取法，
+meta标签content取。
+$=后缀匹配稳，
+~=多属性正则配。
+```
+
+##### 11. 工具调用优化原则
+
+**用户反馈**：如果本身自己有工具，请用本身自己的工具，不用额外套现工具
+
+**吸收内容**：
+1. **优先使用项目内置工具**：`debugger/` 目录下的调试模块
+2. **不要过度依赖模拟调试**：`debugger/` 是模拟引擎，不能100%还原
+3. **参考Legado源码**：`legado/` 目录下的Kotlin源码是权威
+4. **缓存文件创建到 `temp/` 目录**：保持项目整洁
+
+**转化为口诀**：
+```
+工具调用要优先，
+内置工具最可靠。
+模拟调试仅供参考，
+Legado源码是权威。
+缓存文件存temp，
+项目整洁好管理。
+```
+
+##### 12. JS返回值类型规范（修正！）
+
+**问题**：`ClassCastException: String cannot be cast to List`
+
+**原因**：
+- `getElements` 方法期望返回 `List<Any>` 类型
+- JS中使用 `JSON.stringify(list)` 返回的是字符串
+- 字符串无法强制转换为List
+
+**正确做法**：
+- 在 `chapterList` 规则中，JS直接返回List对象，不要 `JSON.stringify()`
+- 或者使用 `nextTocUrl` 分页方式，返回URL列表
+
+**错误示例**：
+```js
+// ❌ 错误：返回字符串
+JSON.stringify(list);
+```
+
+**正确示例**：
+```js
+// ✅ 正确：直接返回List
+list;
+```
+
+**转化为口诀**：
+```
+JS返回值要注意，
+getElements期望List。
+JSON.stringify返回串，
+直接返回list对象。
+类型匹配不出错，
+调试顺利心不慌。
 ```
 
 ---
