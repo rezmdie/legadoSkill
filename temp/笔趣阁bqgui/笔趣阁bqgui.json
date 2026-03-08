@@ -1,0 +1,43 @@
+[
+  {
+    "bookSourceName": "笔趣阁bqgui",
+    "bookSourceUrl": "https://www.bqgui.cc",
+    "bookSourceType": 0,
+    "searchUrl": "/user/search.html?q={{key}}",
+    "exploreUrl": "玄幻::/json?sortid=1&page={{page}}\n武侠::/json?sortid=2&page={{page}}\n都市::/json?sortid=3&page={{page}}\n历史::/json?sortid=4&page={{page}}\n网游::/json?sortid=5&page={{page}}\n科幻::/json?sortid=6&page={{page}}\n女生::/json?sortid=7&page={{page}}",
+    "ruleSearch": {
+      "bookList": "$.[*]",
+      "name": "$.articlename",
+      "author": "$.author",
+      "bookUrl": "$.url_list",
+      "coverUrl": "$.url_img",
+      "intro": "$.intro"
+    },
+    "ruleExplore": {
+      "bookList": "$.[*]",
+      "name": "$.articlename",
+      "author": "$.author",
+      "bookUrl": "$.url_list",
+      "coverUrl": "$.url_img",
+      "intro": "$.intro"
+    },
+    "ruleBookInfo": {
+      "name": ".info h1@text",
+      "author": ".info .small span.0@text##作者：##",
+      "coverUrl": ".info .cover img@src",
+      "intro": ".info .intro dd@text",
+      "kind": ".path a.-1@text",
+      "lastChapter": ".info .small a@text",
+      "status": ".info .small span.1@text##状态：##"
+    },
+    "ruleToc": {
+      "chapterList": ".listmain dd a",
+      "chapterName": "text",
+      "chapterUrl": "href"
+    },
+    "ruleContent": {
+      "content": "#chaptercontent@html",
+      "nextContentUrl": "text.下一页@href"
+    }
+  }
+]

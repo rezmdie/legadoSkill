@@ -5,13 +5,13 @@
     "bookSourceType": 0,
     "searchUrl": "/search/result.html?searchkey={{key}}",
     "ruleSearch": {
-      "bookList": ".librarylist li",
-      "name": ".pt-ll-r .info a.novelname@text",
-      "author": ".pt-ll-r .info a[href*='/author/']@text",
-      "bookUrl": ".pt-ll-r .info a.novelname@href",
+      "bookList": "ul.librarylist li",
+      "name": ".info a.novelname@text",
+      "author": ".info span.1@text##^作者：##",
+      "bookUrl": ".info a.novelname@href",
       "coverUrl": ".pt-ll-l img@src",
-      "intro": ".pt-ll-r .intro@text",
-      "lastChapter": ".pt-ll-r .last a@text"
+      "intro": ".intro@text",
+      "lastChapter": ".last a@text"
     },
     "ruleBookInfo": {
       "name": "h1@text",
@@ -22,12 +22,12 @@
       "lastChapter": ".novelinfo-l li.5 a@text"
     },
     "ruleToc": {
-      "chapterList": ".dirlist li a",
+      "chapterList": "ul.dirlist li a",
       "chapterName": "text",
       "chapterUrl": "href"
     },
     "ruleContent": {
-      "content": "#chaptercontent@html##<div id=\"center_tip\">[\\s\\S]*?</div>|最新网址.*##",
+      "content": "#chaptercontent@html##<div id=\"center_tip\">[\\s\\S]*?</div>|最新网址.*?biquge\\.hk|热门推荐：[\\s\\S]*$",
       "nextContentUrl": "text.下一章@href"
     }
   }
