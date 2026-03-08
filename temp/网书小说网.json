@@ -1,0 +1,64 @@
+[
+  {
+    "bookSourceComment": "网书小说网 - http://www.wangshu.org/",
+    "bookSourceName": "网书小说网",
+    "bookSourceGroup": "小说",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.wangshu.org",
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "其他::/modules/article/articlelist0.html\n都市::/modules/article/articlelist1.html\n仙侠::/modules/article/articlelist2.html\n玄幻::/modules/article/articlelist3.html\n历史::/modules/article/articlelist4.html\n女生::/modules/article/articlelist5.html",
+    "header": "{\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"}",
+    "lastUpdateTime": 0,
+    "customOrder": 0,
+    "ruleBookInfo": {
+      "init": "",
+      "name": "h1@text",
+      "author": "#info p.0@text##作者：##",
+      "coverUrl": "#fmimg img@src",
+      "intro": "#intro@text",
+      "kind": "#info p.1 a@text",
+      "lastChapter": "#info p.3 a@text",
+      "wordCount": "#info p.2@text##字数：##",
+      "updateTime": "#info p.4@text##更新时间：##",
+      "tocUrl": ""
+    },
+    "ruleContent": {
+      "content": "#content@html##<script[\\s\\S]*?</script>|请收藏本站.*|本章完.*",
+      "nextContentUrl": "text.下一章@href",
+      "replaceRegex": "",
+      "sourceRegex": "",
+      "webJs": ""
+    },
+    "ruleExplore": {
+      "author": "p.1@text##作者：##",
+      "bookList": "li",
+      "bookUrl": "h3 a@href",
+      "coverUrl": "img@src",
+      "intro": "p.2@text",
+      "kind": "p.0@text",
+      "lastChapter": "p.3 a@text",
+      "name": "h3 a@text"
+    },
+    "ruleSearch": {
+      "author": "p.1@text##作者：##",
+      "bookList": "li",
+      "bookUrl": "h3 a@href",
+      "coverUrl": "img@src",
+      "intro": "p.2@text",
+      "kind": "p.0@text",
+      "lastChapter": "p.3 a@text",
+      "name": "h3 a@text"
+    },
+    "ruleToc": {
+      "chapterList": "#list dd",
+      "chapterName": "a@text",
+      "chapterUrl": "a@href",
+      "isVolume": "",
+      "updateTime": "",
+      "nextTocUrl": ""
+    },
+    "searchUrl": "/modules/article/search.php?searchkey={{key}}",
+    "weight": 0
+  }
+]
