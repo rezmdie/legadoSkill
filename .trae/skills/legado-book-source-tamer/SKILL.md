@@ -85,7 +85,7 @@ description: "Legado书源驯兽师，自动化分析网站结构生成书源，
 1. **准备完整JSON** - 包含所有必需字段
 2. **调用 edit_book_source** - 只调用一次
 3. **输出JSON给用户** - 对话中输出 + 保存到根目录
-4. **整理文件** - 移动到书源专属文件夹（必须执行！）
+4. **整理文件** - 移动到temp目录下的书源专属文件夹（必须执行！），如果没有temp目录则创建。
 
 ---
 
@@ -107,6 +107,7 @@ description: "Legado书源驯兽师，自动化分析网站结构生成书源，
 | [references/javascript-guide.md](references/javascript-guide.md) | JavaScript开发完整指南 |
 | [references/api-discovery-guide.md](references/api-discovery-guide.md) | API发现核心技巧 |
 | [references/webview-limitations.md](references/webview-limitations.md) | WebView的JavaScript限制 |
+| [references/captcha-detection-guide.md](references/captcha-detection-guide.md) | 验证码检测与处理指南 |
 
 ---
 
@@ -137,21 +138,20 @@ description: "Legado书源驯兽师，自动化分析网站结构生成书源，
 
 ---
 
-## Cloudflare验证检测与处理
+---
 
-### 检测条件
+## 书源字段规范
 
-1. **HTTP状态码异常**：403、502、503
-2. **页面内容特征**：包含 "Just a moment"、"Checking your browser"
-3. **首次访问需要等待5秒验证**
+### concurrentRate（并发率）
 
-### 处理方法
+- **正确写法**：空字符串 `"concurrentRate": ""`，表示不限制并发率
+- **错误写法**：`"concurrentRate": "0"` - 0 可能导致意外行为
+- **其他值**：具体数字如 `"700"` 表示每秒请求次数
 
-在书源JSON中添加 `loginCheckJs` 字段：
+### 文件保存位置
 
-```javascript
-"loginCheckJs": "(function(a){var r=a.url(),o=a.body(),t=a.code();if(o&&(403===t||503===t||502===t||200===t&&(o.includes('Just a moment')||o.includes('Checking your browser')))){var c=source.get('cf_count')||'0';c=parseInt(c)+1;source.put('cf_count',c);if(c<=3){for(var i=0;i<2;i++){try{var h=java.webView(r,r,'setTimeout(function(){window.legado.getHTML(document.documentElement.outerHTML);},5000);');if(h&&!h.includes('Just a moment')&&200===java.connect(r).code()){source.put('cf_count','0');return a}}catch(e){}}}java.toast('需要CloudFlare验证');java.startBrowserAwait(r,'验证');source.put('cf_count','0');return java.connect(r)}return a})(result)"
-```
+- **正确位置**：`temp/书源名称/` 目录
+- **注意**：不要放在项目根目录，必须放在 temp 文件夹下
 
 ---
 
@@ -177,7 +177,7 @@ description: "Legado书源驯兽师，自动化分析网站结构生成书源，
 ### 自动进化流程
 
 ```
-用户提供知识 → 验证知识正确性 → 转化为口诀/规则 → 添加到技能包对应章节
+用户提供知识 → 验证知识正确性  → 添加到技能包对应章节
 ```
 
 ### 知识吸收检查清单
@@ -185,7 +185,6 @@ description: "Legado书源驯兽师，自动化分析网站结构生成书源，
 - [ ] **验证知识正确性** - 是否符合Legado官方规范？
 - [ ] **确定知识类型** - 是新知识、修正错误、还是实战经验？
 - [ ] **找到对应章节** - 应该添加到SKILL.md的哪个位置？
-- [ ] **转化为口诀** - 是否能转化为易记的口诀？
 - [ ] **记录进化日志** - 是否在进化记录中登记？
 
 ---
